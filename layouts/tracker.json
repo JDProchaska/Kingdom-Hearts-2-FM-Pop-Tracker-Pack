@@ -1,0 +1,192 @@
+﻿{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "shared_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Simulated Twilight Town",
+              "content": {
+                "type": "map",
+                "maps": ["STT"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "shared_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "100 Acre Woods",
+              "content": {
+                "type": "map",
+                "maps": ["100Acre"]
+              }
+            },
+            {
+              "title": "Agraba",
+              "content": {
+                "type": "map",
+                "maps": ["AG"]
+              }
+            },
+            {
+              "title": "Beasts Castle",
+              "content": {
+                "type": "map",
+                "maps": ["BC"]
+              }
+            },
+            {
+              "title": "Disney Castle",
+              "content": {
+                "type": "map",
+                "maps": ["DC"]
+              }
+            },
+            {
+              "title": "Disney Castle - Timeless River",
+              "content": {
+                "type": "map",
+                "maps": ["TR"]
+              }
+            },
+            {
+              "title": "Halloween Town",
+              "content": {
+                "type": "map",
+                "maps": ["HT"]
+              }
+            },
+            {
+              "title": "Hollow Bastion",
+              "content": {
+                "type": "map",
+                "maps": ["HB"]
+              }
+            },
+            {
+              "title": "Hollow Bastion - Cavern of Remembrance",
+              "content": {
+                "type": "map",
+                "maps": ["CoR"]
+              }
+            },
+            {
+              "title": "Land of Dragons",
+              "content": {
+                "type": "map",
+                "maps": ["LoD"]
+              }
+            },
+            {
+              "title": "Port Royal",
+              "content": {
+                "type": "map",
+                "maps": ["PR"]
+              }
+            },
+            {
+              "title": "Pride Lands",
+              "content": {
+                "type": "map",
+                "maps": ["PL"]
+              }
+            },
+            {
+              "title": "Simulated Twilight Town",
+              "content": {
+                "type": "map",
+                "maps": ["STT"]
+              }
+            },
+            {
+              "title": "Space Paranoids",
+              "content": {
+                "type": "map",
+                "maps": ["SP"]
+              }
+            },
+            {
+              "title": "Twighlight Town",
+              "content": {
+                "type": "map",
+                "maps": ["TT"]
+              }
+            },
+            {
+              "title": "Twilight Town - Mysterious Tower",
+              "content": {
+                "type": "map",
+                "maps": ["TT-MT"]
+              }
+            },
+            {
+              "title": "The World That Never Was - Dark City",
+              "content": {
+                "type": "map",
+                "maps": ["TWTNW-DC"]
+              }
+            },
+            {
+              "title": "The World That Never Was - Castle",
+              "content": {
+                "type": "map",
+                "maps": ["TWTNW-Castle"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

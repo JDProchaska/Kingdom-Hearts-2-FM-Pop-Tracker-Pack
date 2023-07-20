@@ -1,0 +1,104 @@
+[
+  {
+    "name": "100Acre",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/100Acre.png"
+  },
+  {
+    "name": "AG",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/AG.png"
+  },
+  {
+    "name": "BC",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/BC.png"
+  },
+  {
+    "name": "DC",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/DC.png"
+  },
+  {
+    "name": "TR",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/TR.png"
+  },
+  {
+    "name": "HT",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/HT.png"
+  },
+  {
+    "name": "HB",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/HB.png"
+  },
+  {
+    "name": "CoR",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/CoR.png"
+  },
+  {
+    "name": "LoD",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/LoD.png"
+  },
+  {
+    "name": "PR",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/PR.png"
+  },
+  {
+    "name": "PL",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/PL.png"
+  },
+  {
+    "name": "STT",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/STT.png"
+  },
+  {
+    "name": "SP",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/SP.png"
+  },
+  {
+    "name": "TT",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/TT.png"
+  },
+  {
+    "name": "TT-MT",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/TT-MT.png"
+  },
+  {
+    "name": "TWTNW-DC",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/TWTNW-DC.png"
+  },
+  {
+    "name": "TWTNW-Castle",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/TWTNW-Castle.png"
+  }
+]

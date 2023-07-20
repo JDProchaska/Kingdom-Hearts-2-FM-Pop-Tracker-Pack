@@ -1,0 +1,19 @@
+﻿{
+  "name": "Kingdom Hearts 2 Randomizer",
+  "game_name": "Kingdom Hearts 2",
+  "package_version": "0.1",
+  "package_uid": "kh2fm_JDProchaska",
+  "platform": "PC",
+  "author": "JDProchaska",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": ["ap"]
+    },
+    "var_itemsonly": {
+      "display_name": "Items Only",
+      "flags": ["ap"]
+    }
+  },
+  "versions_url": ""
+}
