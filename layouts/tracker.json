@@ -21,18 +21,6 @@
               }
             }
           ]
-        },
-        {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Simulated Twilight Town",
-              "content": {
-                "type": "map",
-                "maps": ["STT"]
-              }
-            }
-          ]
         }
       ]
     }
