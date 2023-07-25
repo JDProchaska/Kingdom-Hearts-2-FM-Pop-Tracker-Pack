@@ -5,7 +5,7 @@
 -- this is useful since remote items will not reset but local items might
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
-
+ScriptHost:LoadScript("scripts/autotracking/map_switching.lua")
 CUR_INDEX = -1
 SLOT_DATA = nil
 LOCAL_ITEMS = {}
@@ -60,10 +60,8 @@ function onClear(slot_data)
     end
     LOCAL_ITEMS = {}
     GLOBAL_ITEMS = {}
-    -- manually run snes interface functions after onClear in case we are already ingame
-    if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then
-        -- add snes interface functions here
-    end
+
+   Archipelago:SetNotify({"Slot: " .. Archipelago.PlayerNumber .. " :CurrentWorld"})
 end
 
 -- called when an item gets collected
@@ -96,6 +94,7 @@ function onItem(index, item_id, item_name, player_number)
         elseif v[2] == "progressive" then
             if obj.Active then
                 obj.CurrentStage = obj.CurrentStage + 1
+                print(v[1] .. " current stage " .. obj.CurrentStage)
             else
                 obj.Active = true
             end
@@ -125,9 +124,6 @@ function onItem(index, item_id, item_name, player_number)
         print(string.format("local items: %s", dump_table(LOCAL_ITEMS)))
         print(string.format("global items: %s", dump_table(GLOBAL_ITEMS)))
     end
-    if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then
-        -- add snes interface functions here for local item tracking
-    end
 end
 
 --called when a location gets cleared
@@ -135,7 +131,7 @@ function onLocation(location_id, location_name)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("called onLocation: %s, %s", location_id, location_name))
     end
-    local v = LOCATION_MAPPING[location_id]
+    local v = LOCATION_MAPPING[location_name]
     if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
     end
@@ -171,10 +167,19 @@ function onBounce(json)
     -- your code goes here
 end
 
+function onChangedRegion(key, current_region, old_region)
+    if (current_region ~= old_region) then
+        if TABS_MAPPING[current_region] then
+            CURRENT_ROOM = TABS_MAPPING[current_region]
+        else
+            CURRENT_ROOM = CURRENT_ROOM_ADDRESS
+        end
+        Tracker:UiHint("ActivateTab", CURRENT_ROOM)
+    end
+end
 -- add AP callbacks
 -- un-/comment as needed
 Archipelago:AddClearHandler("clear handler", onClear)
 Archipelago:AddItemHandler("item handler", onItem)
 Archipelago:AddLocationHandler("location handler", onLocation)
--- Archipelago:AddScoutHandler("scout handler", onScout)
--- Archipelago:AddBouncedHandler("bounce handler", onBounce)
+Archipelago:AddSetReplyHandler("CurrentWorld", onChangedRegion)

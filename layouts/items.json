@@ -1,33 +1,16 @@
-// sets layouts for shadred items grids
-// bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
 {
-    "shared_item_grid": {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0,0",
-        "content": [
-            {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "10, 10",
-                        "h_alignment": "left",
-                        "rows": [
-                            [
-                                "toggle",
-                                "progressive"           
-                            ],
-                            [
-                                "consumable",
-                                "progressive_toggle"
-                            ]
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
+  "visit_locks": {
+    "type": "itemgrid",
+    "item_margin": "10,10",
+    "item_size": "100,100",
+    "rows": [
+      ["Torn Page", "Disney Castle Key"],
+      ["Ice Cream", "Membership Card"],
+      ["Skull and Crossbones", "Proud Fang"],
+      ["Scimitar", "Bone Fist"],
+      ["Battlefields of War", "Sword of the Ancestor"],
+      ["Way to the Dawn"],
+      ["Identity Disk", "Beast's Claw"]
+    ]
+  }
 }

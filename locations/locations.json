@@ -291,6 +291,7 @@
   },
   {
     "name": "100 Acre Wood",
+    "access_rules": ["Torn Page 1"],
     "children": [
       {
         "name": "(100Acre) Pooh's House 100 Acre Wood Map",
@@ -339,7 +340,13 @@
             "y": 195
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 2nd Visit",
+    "access_rules": ["Torn Page 2"],
+    "children": [
       {
         "name": "(100Acre) Piglet's House Defense Boost",
         "sections": [
@@ -387,7 +394,13 @@
             "y": 387
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 3rd Visit",
+    "access_rules": ["Torn Page 3"],
+    "children": [
       {
         "name": "(100Acre) Rabbit's House Draw Ring",
         "sections": [
@@ -435,7 +448,13 @@
             "y": 513
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 4th Visit",
+    "access_rules": ["Torn Page 4"],
+    "children": [
       {
         "name": "(100Acre) Kanga's House Magic Boost",
         "sections": [
@@ -483,7 +502,13 @@
             "y": 656
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 5th Visit",
+    "access_rules": ["Torn Page 5"],
+    "children": [
       {
         "name": "(100Acre) Spooky Cave Mythril Gem",
         "sections": [
@@ -680,6 +705,7 @@
   },
   {
     "name": "Agraba",
+    "access_rules": ["Scimitar 1"],
     "children": [
       {
         "name": "(AG) Agrabah Dark Shard",
@@ -1096,7 +1122,13 @@
             "y": 858
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Agraba 2nd Visit",
+    "access_rules": ["Scimitar 2"],
+    "children": [
       {
         "name": "(AG2) Ruined Chamber Torn Pages",
         "sections": [
@@ -1133,6 +1165,7 @@
   },
   {
     "name": "Beasts Castle",
+    "access_rules": ["Beast's Claw 1"],
     "children": [
       {
         "name": "(BC) Courtyard AP Boost",
@@ -1474,6 +1507,7 @@
   },
   {
     "name": "Disney Castle",
+    "access_rules": ["Disney Castle Key 1"],
     "children": [
       {
         "name": "(DC) Courtyard Mythril Shard",
@@ -1607,6 +1641,7 @@
   },
   {
     "name": "Timeless River",
+    "access_rules": ["Disney Castle Key 2"],
     "children": [
       {
         "name": "(TR) Cornerstone Hill Map",
@@ -1724,6 +1759,7 @@
   },
   {
     "name": "Halloween Town",
+    "access_rules": ["Bone Fist 1"],
     "children": [
       {
         "name": "(HT) Graveyard Mythril Shard",
@@ -1953,6 +1989,7 @@
   },
   {
     "name": "Hollow Bastion",
+    "access_rules": ["Membership Card 1"],
     "children": [
       {
         "name": "(HB) Borough Drive Recovery",
@@ -2033,7 +2070,13 @@
             "y": 400
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Hollow Bastion Second Visit",
+    "access_rules": ["Membership Card  2"],
+    "children": [
       {
         "name": "(HB2) Postern Castle Perimeter Map",
         "sections": [
@@ -2310,6 +2353,7 @@
   },
   {
     "name": "Hollow Bastion - Cavern of Remembrance",
+    "access_rules": ["Membership Card 2"],
     "children": [
       {
         "name": "(CoR) Depths AP Boost",
@@ -2646,7 +2690,12 @@
             "y": 617
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Garden of Assemblage",
+    "children": [
       {
         "name": "(CoR) Garden of Assemblage Map",
         "sections": [
@@ -2699,6 +2748,7 @@
   },
   {
     "name": "Land of Dragons",
+    "access_rules": ["Sword of the Ancestor 1"],
     "children": [
       {
         "name": "(LoD) Bamboo Grove Dark Shard",
@@ -2907,7 +2957,13 @@
             "y": 252
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Land of Dragons Second Visit",
+    "access_rules": ["Sword of the Ancestor 2"],
+    "children": [
       {
         "name": "(LoD2) Throne Room Torn Pages",
         "sections": [
@@ -3040,6 +3096,7 @@
   },
   {
     "name": "Olympus Coliseum",
+    "access_rules": ["Battlefields of War 1"],
     "children": [
       {
         "name": "(OC) Underworld Entrance Power Boost",
@@ -3365,6 +3422,7 @@
   },
   {
     "name": "Port Royal",
+    "access_rules": ["Skull and Crossbones 1"],
     "children": [
       {
         "name": "(PR) Rampart Naval Map",
@@ -3589,7 +3647,13 @@
             "y": 188
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Port Royal Second Visit",
+    "access_rules": ["Skull and Crossbones 2"],
+    "children": [
       {
         "name": "(PR2) Interceptor's Hold Feather Charm",
         "sections": [
@@ -3706,6 +3770,7 @@
   },
   {
     "name": "Pride Lands",
+    "access_rules": ["Proud Fang 1"],
     "children": [
       {
         "name": "(PL) Gorge Savannah Map",
@@ -4111,6 +4176,7 @@
   },
   {
     "name": "Space Paranoids",
+    "access_rules": ["Identity Disk 1"],
     "children": [
       {
         "name": "(SP) Pit Cell Area Map",
@@ -4271,7 +4337,13 @@
             "y": 421
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Space Paranoids Second Visit",
+    "access_rules": ["Identity Disk 2"],
+    "children": [
       {
         "name": "(SP2) Central Computer Core AP Boost",
         "sections": [
@@ -4339,7 +4411,8 @@
     ]
   },
   {
-    "name": "The World That Never Was - Dark City",
+    "name": "The World That Never Was",
+    "access_rules": ["Way to the Dawn"],
     "children": [
       {
         "name": "(TWTNW) Fragment Crossing Mythril Stone",
@@ -4649,6 +4722,7 @@
   },
   {
     "name": "Twilight Town",
+    "access_rules": ["Ice Cream 1"],
     "children": [
       {
         "name": "(TT) Old Mansion Potion",
@@ -4889,7 +4963,13 @@
             "y": 140
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Twilight Town Third Visit",
+    "access_rules": ["Ice Cream 3"],
+    "children": [
       {
         "name": "(TT3) Underground Concourse Mythril Gem",
         "sections": [
@@ -5166,6 +5246,7 @@
   },
   {
     "name": "Twilight Town - Tower",
+    "access_rules": ["Ice Cream 1"],
     "children": [
       {
         "name": "(TT) The Tower Potion",

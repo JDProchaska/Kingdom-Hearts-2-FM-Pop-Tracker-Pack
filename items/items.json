@@ -1,56 +1,226 @@
-//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
 [
-    {
-        "name": "Toggle",
-        "type": "toggle",
-        "img": "images/items/toggle.png",
-        "codes": "toggle"
-    },
-    {
-        "name": "Progressive",
-        "type": "progressive",
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "stages": [
-            {
-                "img": "images/items/progressive.png",
-                "codes": "progressive",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/items/progressive_2.png",
-                "codes": "progressive_2",
-                "inherit_codes": false
-            }
-        ]
-    },
-    {
-        "name": "Consumable",
-        "type": "consumable",
-        "img": "images/items/consumable.png",
-        "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_background": "#000000",
-        "overlay_font_size": 8,
-        "codes": "consumable"
-    },
-    {
-        "name": "Progressive Toggle",
-        "type": "progressive_toggle",
-        "initial_stage_idx": 0,
-        "stages": [
-            {
-                "img": "images/items/progressive.png",
-                "codes": "progressive_toggle",
-                "inherit_codes": false
-            },
-            {
-                "img": "images/items/progressive_2.png",
-                "codes": "progressive_toggle_2",
-                "inherit_codes": false
-            }
-        ]
-    }
+  {
+    "name": "Ice Cream",
+    "type": "progressive",
+    "codes": "Ice Cream",
+    "stages": [
+      {
+        "codes": "Ice Cream 1",
+        "img": "images/worlds/Twilight Town.png"
+      },
+      {
+        "codes": "Ice Cream 2",
+        "img": "images/worlds/Twilight Town.png"
+      },
+      {
+        "codes": "Ice Cream 3",
+        "img": "images/worlds/Twilight Town.png"
+      }
+    ]
+  },
+  {
+    "name": "Torn Page",
+    "type": "progressive",
+    "codes": "Torn Page",
+    "stages": [
+      {
+        "codes": "Torn Page 1",
+        "img": "images/worlds/100 Acre Wood.png"
+      },
+      {
+        "codes": "Torn Page 2",
+        "img": "images/worlds/100 Acre Wood.png"
+      },
+      {
+        "codes": "Torn Page 3",
+        "img": "images/worlds/100 Acre Wood.png"
+      },
+      {
+        "codes": "Torn Page 4",
+        "img": "images/worlds/100 Acre Wood.png"
+      },
+      {
+        "codes": "Torn Page 5",
+        "img": "images/worlds/100 Acre Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Bone Fist",
+    "type": "progressive",
+    "codes": "Bone Fist",
+    "stages": [
+      {
+        "codes": "Bone Fist 1",
+        "img": "images/worlds/Halloween Town.png"
+      },
+      {
+        "codes": "Bone Fist 2",
+        "img": "images/worlds/Halloween Town.png"
+      }
+    ]
+  },
+  {
+    "name": "Proof of Connection",
+    "img": "images/items/proof_of_connection.png",
+    "type": "toggle",
+    "codes": "Proof of Connection"
+  },
+  {
+    "name": "Proof of Nonexistence",
+    "img": "images/items/proof_of_nonexistence.png",
+    "type": "toggle",
+    "codes": "Proof of Nonexistence"
+  },
+  {
+    "name": "Proof of Peace",
+    "img": "images/items/proof_of_tranquility.png",
+    "type": "toggle",
+    "codes": "Proof of Peace"
+  },
+  {
+    "name": "Battlefields of War",
+    "type": "progressive",
+    "codes": "Battlefields of War",
+    "stages": [
+      {
+        "img": "images/worlds/Olympus Coliseum.png",
+        "codes": "Battlefields of War 1"
+      },
+      {
+        "img": "images/worlds/Olympus Coliseum.png",
+        "codes": "Battlefields of War 2"
+      }
+    ]
+  },
+  {
+    "name": "Sword of the Ancestor",
+    "type": "progressive",
+    "codes": "Sword of the Ancestor",
+    "stages": [
+      {
+        "img": "images/worlds/Land of Dragons.png",
+        "codes": "Sword of the Ancestor 1"
+      },
+      {
+        "img": "images/worlds/Land of Dragons.png",
+        "codes": "Sword of the Ancestor 2"
+      }
+    ]
+  },
+  {
+    "name": "Beast's Claw",
+    "type": "toggle",
+    "codes": "Beast's Claw",
+    "stages": [
+      {
+        "img": "images/worlds/Beast's Castle.png",
+        "codes": "Beast's Claw 1"
+      },
+      {
+        "img": "images/worlds/Beast's Castle.png",
+        "codes": "Beast's Claw 2"
+      }
+    ]
+  },
+  {
+    "name": "Proud Fang",
+    "type": "progressive",
+    "codes": "Proud Fang",
+    "stages": [
+      {
+        "img": "images/worlds/Pride Lands.png",
+        "codes": "Proud Fang 1"
+      },
+      {
+        "img": "images/worlds/Pride Lands.png",
+        "codes": "Proud Fang 2"
+      }
+    ]
+  },
+  {
+    "name": "Skull and Crossbones",
+    "type": "progressive",
+    "codes": "Skull and Crossbones",
+    "stages": [
+      {
+        "img": "images/worlds/Port Royal.png",
+        "codes": "Skull and Crossbones 1"
+      },
+      {
+        "img": "images/worlds/Port Royal.png",
+        "codes": "Skull and Crossbones 2"
+      }
+    ]
+  },
+  {
+    "name": "Scimitar",
+    "type": "progressive",
+    "codes": "Scimitar",
+    "stages": [
+      {
+        "img": "images/worlds/Agrabah.png",
+        "codes": "Scimitar 1"
+      },
+      {
+        "img": "images/worlds/Agrabah.png",
+        "codes": "Scimitar 2"
+      }
+    ]
+  },
+  {
+    "name": "Membership Card",
+    "type": "progressive",
+    "codes": "Membership Card",
+    "stages": [
+      {
+        "img": "images/worlds/Hollow Bastion.png",
+        "codes": "Membership Card 1"
+      },
+      {
+        "img": "images/worlds/Hollow Bastion.png",
+        "codes": "Membership Card 2"
+      },
+      {
+        "img": "images/worlds/Hollow Bastion.png",
+        "codes": "Membership Card 3"
+      }
+    ]
+  },
+  {
+    "name": "Way to the Dawn",
+    "img": "images/worlds/The_World_That_Never_Was.png",
+    "type": "toggle",
+    "codes": "Way to the Dawn"
+  },
+  {
+    "name": "Identity Disk",
+    "type": "progressive",
+    "codes": "Identity Disk",
+    "stages": [
+      {
+        "img": "images/worlds/Space Paranoids.png",
+        "codes": "Identity Disk 1"
+      },
+      {
+        "img": "images/worlds/Space Paranoids.png",
+        "codes": "Identity Disk 2"
+      }
+    ]
+  },
+  {
+    "name": "Disney Castle Key",
+    "type": "progressive",
+    "codes": "Disney Castle Key",
+    "stages": [
+      {
+        "img": "images/worlds/Disney Castle.png",
+        "codes": "Disney Castle Key 1"
+      },
+      {
+        "img": "images/worlds/Disney Castle.png",
+        "codes": "Disney Castle Key 2"
+      }
+    ]
+  }
 ]
