@@ -4,12 +4,27 @@
 -- addition it will keep track of what items are local items and which one are remote using the globals LOCAL_ITEMS and GLOBAL_ITEMS
 -- this is useful since remote items will not reset but local items might
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
-ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/map_switching.lua")
+
 CUR_INDEX = -1
 SLOT_DATA = nil
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
+
+function loadItems()
+    ap_ver = SLOT_DATA["PoptrackerVersionCheck"]
+    if (ap_ver) then
+        if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+            print("Loading normal Location Mapping")
+        end
+        ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+    else
+        if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+            print("Loading Pre 4.2 update Location Mapping")
+        end
+        ScriptHost:LoadScript("scripts/autotracking/location_mapping_pre_42.lua")
+    end
+end
 
 function onClear(slot_data)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
@@ -17,6 +32,7 @@ function onClear(slot_data)
     end
     SLOT_DATA = slot_data
     CUR_INDEX = -1
+    loadItems()
     -- reset locations
     for _, v in pairs(LOCATION_MAPPING) do
         if v[1] then
@@ -173,6 +189,9 @@ function onChangedRegion(key, current_region, old_region)
             CURRENT_ROOM = TABS_MAPPING[current_region]
         else
             CURRENT_ROOM = CURRENT_ROOM_ADDRESS
+        end
+        if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+            print("Switching tab to " .. CURRENT_ROOM)
         end
         Tracker:UiHint("ActivateTab", CURRENT_ROOM)
     end
