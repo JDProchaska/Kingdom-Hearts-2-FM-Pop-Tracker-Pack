@@ -1,12 +1,10 @@
-# Template Pack for PopTracker
+# Kingdom Hearts 2 Pack for PopTracker
 
-This a template tracker package for PopTracker.
-
-Includes examples for AP and SNES memory autotracking and beginner-friendly explanations in the pack.
+This a pack for Kingdom Hearts 2
 
 ## Installation
 
-Just download the lastest build or source and put in your packs folder (unpacked).
+Just download the lastest build or source and put in your packs folder.
 
 ## More Info
 
