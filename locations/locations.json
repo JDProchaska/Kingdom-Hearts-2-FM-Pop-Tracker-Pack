@@ -1126,7 +1126,7 @@
     ]
   },
   {
-    "name": "Agraba 2nd Visit",
+    "name": "Agraba Second Visit",
     "access_rules": ["Scimitar 2"],
     "children": [
       {
