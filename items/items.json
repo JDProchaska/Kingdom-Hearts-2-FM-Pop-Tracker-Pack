@@ -180,10 +180,6 @@
       {
         "img": "images/worlds/Hollow Bastion.png",
         "codes": "Membership Card 2"
-      },
-      {
-        "img": "images/worlds/Hollow Bastion.png",
-        "codes": "Membership Card 3"
       }
     ]
   },
@@ -192,6 +188,12 @@
     "img": "images/worlds/The_World_That_Never_Was.png",
     "type": "toggle",
     "codes": "Way to the Dawn"
+  },
+  {
+    "name": "Namine Sketches",
+    "img": "images/worlds/Twilight Town.png",
+    "type": "toggle",
+    "codes": "Namine Sketches"
   },
   {
     "name": "Identity Disk",
@@ -222,5 +224,1355 @@
         "codes": "Disney Castle Key 2"
       }
     ]
+  },
+  {
+    "name": "Secret Ansem's Report 1",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 1"
+  },
+  {
+    "name": "Secret Ansem's Report 2",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 2"
+  },
+  {
+    "name": "Secret Ansem's Report 3",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 3"
+  },
+  {
+    "name": "Secret Ansem's Report 4",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 4"
+  },
+  {
+    "name": "Secret Ansem's Report 5",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 5"
+  },
+  {
+    "name": "Secret Ansem's Report 6",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 6"
+  },
+  {
+    "name": "Secret Ansem's Report 7",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 7"
+  },
+  {
+    "name": "Secret Ansem's Report 8",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 8"
+  },
+  {
+    "name": "Secret Ansem's Report 9",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 9"
+  },
+  {
+    "name": "Secret Ansem's Report 10",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 10"
+  },
+  {
+    "name": "Secret Ansem's Report 11",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 11"
+  },
+  {
+    "name": "Secret Ansem's Report 12",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 12"
+  },
+  {
+    "name": "Secret Ansem's Report 13",
+    "type": "toggle",
+    "codes": "Secret Ansem's Report 13"
+  },
+  {
+    "name": "Fire Element",
+    "type": "toggle",
+    "codes": "Fire Element"
+  },
+  {
+    "name": "Blizzard Element",
+    "type": "toggle",
+    "codes": "Blizzard Element"
+  },
+  {
+    "name": "Thunder Element",
+    "type": "toggle",
+    "codes": "Thunder Element"
+  },
+  {
+    "name": "Cure Element",
+    "type": "toggle",
+    "codes": "Cure Element"
+  },
+  {
+    "name": "Magnet Element",
+    "type": "toggle",
+    "codes": "Magnet Element"
+  },
+  {
+    "name": "Reflect Element",
+    "type": "toggle",
+    "codes": "Reflect Element"
+  },
+  {
+    "name": "Genie",
+    "type": "toggle",
+    "codes": "Genie"
+  },
+  {
+    "name": "Peter Pan",
+    "type": "toggle",
+    "codes": "Peter Pan"
+  },
+  {
+    "name": "Stitch",
+    "type": "toggle",
+    "codes": "Stitch"
+  },
+  {
+    "name": "Chicken Little",
+    "type": "toggle",
+    "codes": "Chicken Little"
+  },
+  {
+    "name": "Elven Bandana",
+    "type": "toggle",
+    "codes": "Elven Bandana"
+  },
+  {
+    "name": "Divine Bandana",
+    "type": "toggle",
+    "codes": "Divine Bandana"
+  },
+  {
+    "name": "Protect Belt",
+    "type": "toggle",
+    "codes": "Protect Belt"
+  },
+  {
+    "name": "Gaia Belt",
+    "type": "toggle",
+    "codes": "Gaia Belt"
+  },
+  {
+    "name": "Power Band",
+    "type": "toggle",
+    "codes": "Power Band"
+  },
+  {
+    "name": "Buster Band",
+    "type": "toggle",
+    "codes": "Buster Band"
+  },
+  {
+    "name": "Cosmic Belt",
+    "type": "toggle",
+    "codes": "Cosmic Belt"
+  },
+  {
+    "name": "Fire Bangle",
+    "type": "toggle",
+    "codes": "Fire Bangle"
+  },
+  {
+    "name": "Fira Bangle",
+    "type": "toggle",
+    "codes": "Fira Bangle"
+  },
+  {
+    "name": "Firaga Bangle",
+    "type": "toggle",
+    "codes": "Firaga Bangle"
+  },
+  {
+    "name": "Firagun Bangle",
+    "type": "toggle",
+    "codes": "Firagun Bangle"
+  },
+  {
+    "name": "Blizzard Armlet",
+    "type": "toggle",
+    "codes": "Blizzard Armlet"
+  },
+  {
+    "name": "Blizzara Armlet",
+    "type": "toggle",
+    "codes": "Blizzara Armlet"
+  },
+  {
+    "name": "Blizzaga Armlet",
+    "type": "toggle",
+    "codes": "Blizzaga Armlet"
+  },
+  {
+    "name": "Blizzagun Armlet",
+    "type": "toggle",
+    "codes": "Blizzagun Armlet"
+  },
+  {
+    "name": "Thunder Trinket",
+    "type": "toggle",
+    "codes": "Thunder Trinket"
+  },
+  {
+    "name": "Thundara Trinket",
+    "type": "toggle",
+    "codes": "Thundara Trinket"
+  },
+  {
+    "name": "Thundaga Trinket",
+    "type": "toggle",
+    "codes": "Thundaga Trinket"
+  },
+  {
+    "name": "Thundagun Trinket",
+    "type": "toggle",
+    "codes": "Thundagun Trinket"
+  },
+  {
+    "name": "Shock Charm",
+    "type": "toggle",
+    "codes": "Shock Charm"
+  },
+  {
+    "name": "Shock Charm+",
+    "type": "toggle",
+    "codes": "Shock Charm+"
+  },
+  {
+    "name": "Shadow Anklet",
+    "type": "toggle",
+    "codes": "Shadow Anklet"
+  },
+  {
+    "name": "Dark Anklet",
+    "type": "toggle",
+    "codes": "Dark Anklet"
+  },
+  {
+    "name": "Midnight Anklet",
+    "type": "toggle",
+    "codes": "Midnight Anklet"
+  },
+  {
+    "name": "Chaos Anklet",
+    "type": "toggle",
+    "codes": "Chaos Anklet"
+  },
+  {
+    "name": "Champion Belt",
+    "type": "toggle",
+    "codes": "Champion Belt"
+  },
+  {
+    "name": "Abas Chain",
+    "type": "toggle",
+    "codes": "Abas Chain"
+  },
+  {
+    "name": "Aegis Chain",
+    "type": "toggle",
+    "codes": "Aegis Chain"
+  },
+  {
+    "name": "Acrisius",
+    "type": "toggle",
+    "codes": "Acrisius"
+  },
+  {
+    "name": "Acrisius+",
+    "type": "toggle",
+    "codes": "Acrisius+"
+  },
+  {
+    "name": "Cosmic Chain",
+    "type": "toggle",
+    "codes": "Cosmic Chain"
+  },
+  {
+    "name": "Petite Ribbon",
+    "type": "toggle",
+    "codes": "Petite Ribbon"
+  },
+  {
+    "name": "Ribbon",
+    "type": "toggle",
+    "codes": "Ribbon"
+  },
+  {
+    "name": "Grand Ribbon",
+    "type": "toggle",
+    "codes": "Grand Ribbon"
+  },
+  {
+    "name": "High Jump",
+    "type": "toggle",
+    "codes": "High Jump"
+  },
+  {
+    "name": "Quick Run",
+    "type": "toggle",
+    "codes": "Quick Run"
+  },
+  {
+    "name": "Dodge Roll",
+    "type": "toggle",
+    "codes": "Dodge Roll"
+  },
+  {
+    "name": "Aerial Dodge",
+    "type": "toggle",
+    "codes": "Aerial Dodge"
+  },
+  {
+    "name": "Glide",
+    "type": "toggle",
+    "codes": "Glide"
+  },
+  {
+    "name": "Centurion+",
+    "type": "toggle",
+    "codes": "Centurion+"
+  },
+  {
+    "name": "Meteor Staff",
+    "type": "toggle",
+    "codes": "Meteor Staff"
+  },
+  {
+    "name": "Nobody Lance",
+    "type": "toggle",
+    "codes": "Nobody Lance"
+  },
+  {
+    "name": "Precious Mushroom",
+    "type": "toggle",
+    "codes": "Precious Mushroom"
+  },
+  {
+    "name": "Precious Mushroom+",
+    "type": "toggle",
+    "codes": "Precious Mushroom+"
+  },
+  {
+    "name": "Premium Mushroom",
+    "type": "toggle",
+    "codes": "Premium Mushroom"
+  },
+  {
+    "name": "Rising Dragon",
+    "type": "toggle",
+    "codes": "Rising Dragon"
+  },
+  {
+    "name": "Save The Queen+",
+    "type": "toggle",
+    "codes": "Save The Queen+"
+  },
+  {
+    "name": "Shaman's Relic",
+    "type": "toggle",
+    "codes": "Shaman's Relic"
+  },
+  {
+    "name": "Akashic Record",
+    "type": "toggle",
+    "codes": "Akashic Record"
+  },
+  {
+    "name": "Frozen Pride+",
+    "type": "toggle",
+    "codes": "Frozen Pride+"
+  },
+  {
+    "name": "Genji Shield",
+    "type": "toggle",
+    "codes": "Genji Shield"
+  },
+  {
+    "name": "Majestic Mushroom",
+    "type": "toggle",
+    "codes": "Majestic Mushroom"
+  },
+  {
+    "name": "Majestic Mushroom+",
+    "type": "toggle",
+    "codes": "Majestic Mushroom+"
+  },
+  {
+    "name": "Nobody Guard",
+    "type": "toggle",
+    "codes": "Nobody Guard"
+  },
+  {
+    "name": "Ogre Shield",
+    "type": "toggle",
+    "codes": "Ogre Shield"
+  },
+  {
+    "name": "Save The King+",
+    "type": "toggle",
+    "codes": "Save The King+"
+  },
+  {
+    "name": "Ultimate Mushroom",
+    "type": "toggle",
+    "codes": "Ultimate Mushroom"
+  },
+  {
+    "name": "Oathkeeper",
+    "type": "toggle",
+    "codes": "Oathkeeper"
+  },
+  {
+    "name": "Oblivion",
+    "type": "toggle",
+    "codes": "Oblivion"
+  },
+  {
+    "name": "Star Seeker",
+    "type": "toggle",
+    "codes": "Star Seeker"
+  },
+  {
+    "name": "Hidden Dragon",
+    "type": "toggle",
+    "codes": "Hidden Dragon"
+  },
+  {
+    "name": "Hero's Crest",
+    "type": "toggle",
+    "codes": "Hero's Crest"
+  },
+  {
+    "name": "Monochrome",
+    "type": "toggle",
+    "codes": "Monochrome"
+  },
+  {
+    "name": "Follow the Wind",
+    "type": "toggle",
+    "codes": "Follow the Wind"
+  },
+  {
+    "name": "Circle of Life",
+    "type": "toggle",
+    "codes": "Circle of Life"
+  },
+  {
+    "name": "Photon Debugger",
+    "type": "toggle",
+    "codes": "Photon Debugger"
+  },
+  {
+    "name": "Gull Wing",
+    "type": "toggle",
+    "codes": "Gull Wing"
+  },
+  {
+    "name": "Rumbling Rose",
+    "type": "toggle",
+    "codes": "Rumbling Rose"
+  },
+  {
+    "name": "Guardian Soul",
+    "type": "toggle",
+    "codes": "Guardian Soul"
+  },
+  {
+    "name": "Wishing Lamp",
+    "type": "toggle",
+    "codes": "Wishing Lamp"
+  },
+  {
+    "name": "Decisive Pumpkin",
+    "type": "toggle",
+    "codes": "Decisive Pumpkin"
+  },
+  {
+    "name": "Sleeping Lion",
+    "type": "toggle",
+    "codes": "Sleeping Lion"
+  },
+  {
+    "name": "Sweet Memories",
+    "type": "toggle",
+    "codes": "Sweet Memories"
+  },
+  {
+    "name": "Mysterious Abyss",
+    "type": "toggle",
+    "codes": "Mysterious Abyss"
+  },
+  {
+    "name": "Two Become One",
+    "type": "toggle",
+    "codes": "Two Become One"
+  },
+  {
+    "name": "Fatal Crest",
+    "type": "toggle",
+    "codes": "Fatal Crest"
+  },
+  {
+    "name": "Bond of Flame",
+    "type": "toggle",
+    "codes": "Bond of Flame"
+  },
+  {
+    "name": "Fenrir",
+    "type": "toggle",
+    "codes": "Fenrir"
+  },
+  {
+    "name": "Ultima Weapon",
+    "type": "toggle",
+    "codes": "Ultima Weapon"
+  },
+  {
+    "name": "Winner's Proof",
+    "type": "toggle",
+    "codes": "Winner's Proof"
+  },
+  {
+    "name": "Pureblood",
+    "type": "toggle",
+    "codes": "Pureblood"
+  },
+  {
+    "name": "Ability Ring",
+    "type": "toggle",
+    "codes": "Ability Ring"
+  },
+  {
+    "name": "Engineer's Ring",
+    "type": "toggle",
+    "codes": "Engineer's Ring"
+  },
+  {
+    "name": "Technician's Ring",
+    "type": "toggle",
+    "codes": "Technician's Ring"
+  },
+  {
+    "name": "Skill Ring",
+    "type": "toggle",
+    "codes": "Skill Ring"
+  },
+  {
+    "name": "Skillful Ring",
+    "type": "toggle",
+    "codes": "Skillful Ring"
+  },
+  {
+    "name": "Expert's Ring",
+    "type": "toggle",
+    "codes": "Expert's Ring"
+  },
+  {
+    "name": "Master's Ring",
+    "type": "toggle",
+    "codes": "Master's Ring"
+  },
+  {
+    "name": "Cosmic Ring",
+    "type": "toggle",
+    "codes": "Cosmic Ring"
+  },
+  {
+    "name": "Executive's Ring",
+    "type": "toggle",
+    "codes": "Executive's Ring"
+  },
+  {
+    "name": "Sardonyx Ring",
+    "type": "toggle",
+    "codes": "Sardonyx Ring"
+  },
+  {
+    "name": "Tourmaline Ring",
+    "type": "toggle",
+    "codes": "Tourmaline Ring"
+  },
+  {
+    "name": "Aquamarine Ring",
+    "type": "toggle",
+    "codes": "Aquamarine Ring"
+  },
+  {
+    "name": "Garnet Ring",
+    "type": "toggle",
+    "codes": "Garnet Ring"
+  },
+  {
+    "name": "Diamond Ring",
+    "type": "toggle",
+    "codes": "Diamond Ring"
+  },
+  {
+    "name": "Silver Ring",
+    "type": "toggle",
+    "codes": "Silver Ring"
+  },
+  {
+    "name": "Gold Ring",
+    "type": "toggle",
+    "codes": "Gold Ring"
+  },
+  {
+    "name": "Platinum Ring",
+    "type": "toggle",
+    "codes": "Platinum Ring"
+  },
+  {
+    "name": "Mythril Ring",
+    "type": "toggle",
+    "codes": "Mythril Ring"
+  },
+  {
+    "name": "Orichalcum Ring",
+    "type": "toggle",
+    "codes": "Orichalcum Ring"
+  },
+  {
+    "name": "Soldier Earring",
+    "type": "toggle",
+    "codes": "Soldier Earring"
+  },
+  {
+    "name": "Fencer Earring",
+    "type": "toggle",
+    "codes": "Fencer Earring"
+  },
+  {
+    "name": "Mage Earring",
+    "type": "toggle",
+    "codes": "Mage Earring"
+  },
+  {
+    "name": "Slayer Earring",
+    "type": "toggle",
+    "codes": "Slayer Earring"
+  },
+  {
+    "name": "Medal",
+    "type": "toggle",
+    "codes": "Medal"
+  },
+  {
+    "name": "Moon Amulet",
+    "type": "toggle",
+    "codes": "Moon Amulet"
+  },
+  {
+    "name": "Star Charm",
+    "type": "toggle",
+    "codes": "Star Charm"
+  },
+  {
+    "name": "Cosmic Arts",
+    "type": "toggle",
+    "codes": "Cosmic Arts"
+  },
+  {
+    "name": "Shadow Archive",
+    "type": "toggle",
+    "codes": "Shadow Archive"
+  },
+  {
+    "name": "Shadow Archive+",
+    "type": "toggle",
+    "codes": "Shadow Archive+"
+  },
+  {
+    "name": "Full Bloom",
+    "type": "toggle",
+    "codes": "Full Bloom"
+  },
+  {
+    "name": "Full Bloom+",
+    "type": "toggle",
+    "codes": "Full Bloom+"
+  },
+  {
+    "name": "Draw Ring",
+    "type": "toggle",
+    "codes": "Draw Ring"
+  },
+  {
+    "name": "Lucky Ring",
+    "type": "toggle",
+    "codes": "Lucky Ring"
+  },
+  {
+    "name": "Mickey Munny Pouch",
+    "type": "toggle",
+    "codes": "Mickey Munny Pouch"
+  },
+  {
+    "name": "Olette Munny Pouch",
+    "type": "toggle",
+    "codes": "Olette Munny Pouch"
+  },
+  {
+    "name": "Hades Cup Trophy",
+    "type": "toggle",
+    "codes": "Hades Cup Trophy"
+  },
+  {
+    "name": "Unknown Disk",
+    "type": "toggle",
+    "codes": "Unknown Disk"
+  },
+  {
+    "name": "Olympus Stone",
+    "type": "toggle",
+    "codes": "Olympus Stone"
+  },
+  {
+    "name": "Max HP Up",
+    "type": "toggle",
+    "codes": "Max HP Up"
+  },
+  {
+    "name": "Max MP Up",
+    "type": "toggle",
+    "codes": "Max MP Up"
+  },
+  {
+    "name": "Drive Gauge Up",
+    "type": "toggle",
+    "codes": "Drive Gauge Up"
+  },
+  {
+    "name": "Armor Slot Up",
+    "type": "toggle",
+    "codes": "Armor Slot Up"
+  },
+  {
+    "name": "Accessory Slot Up",
+    "type": "toggle",
+    "codes": "Accessory Slot Up"
+  },
+  {
+    "name": "Item Slot Up",
+    "type": "toggle",
+    "codes": "Item Slot Up"
+  },
+  {
+    "name": "Scan",
+    "type": "toggle",
+    "codes": "Scan"
+  },
+  {
+    "name": "Aerial Recovery",
+    "type": "toggle",
+    "codes": "Aerial Recovery"
+  },
+  {
+    "name": "Combo Master",
+    "type": "toggle",
+    "codes": "Combo Master"
+  },
+  {
+    "name": "Combo Plus",
+    "type": "toggle",
+    "codes": "Combo Plus"
+  },
+  {
+    "name": "Air Combo Plus",
+    "type": "toggle",
+    "codes": "Air Combo Plus"
+  },
+  {
+    "name": "Combo Boost",
+    "type": "toggle",
+    "codes": "Combo Boost"
+  },
+  {
+    "name": "Air Combo Boost",
+    "type": "toggle",
+    "codes": "Air Combo Boost"
+  },
+  {
+    "name": "Reaction Boost",
+    "type": "toggle",
+    "codes": "Reaction Boost"
+  },
+  {
+    "name": "Finishing Plus",
+    "type": "toggle",
+    "codes": "Finishing Plus"
+  },
+  {
+    "name": "Negative Combo",
+    "type": "toggle",
+    "codes": "Negative Combo"
+  },
+  {
+    "name": "Berserk Charge",
+    "type": "toggle",
+    "codes": "Berserk Charge"
+  },
+  {
+    "name": "Damage Drive",
+    "type": "toggle",
+    "codes": "Damage Drive"
+  },
+  {
+    "name": "Drive Boost",
+    "type": "toggle",
+    "codes": "Drive Boost"
+  },
+  {
+    "name": "Form Boost",
+    "type": "toggle",
+    "codes": "Form Boost"
+  },
+  {
+    "name": "Summon Boost",
+    "type": "toggle",
+    "codes": "Summon Boost"
+  },
+  {
+    "name": "Experience Boost",
+    "type": "toggle",
+    "codes": "Experience Boost"
+  },
+  {
+    "name": "Draw",
+    "type": "toggle",
+    "codes": "Draw"
+  },
+  {
+    "name": "Jackpot",
+    "type": "toggle",
+    "codes": "Jackpot"
+  },
+  {
+    "name": "Lucky Lucky",
+    "type": "toggle",
+    "codes": "Lucky Lucky"
+  },
+  {
+    "name": "Drive Converter",
+    "type": "toggle",
+    "codes": "Drive Converter"
+  },
+  {
+    "name": "Fire Boost",
+    "type": "toggle",
+    "codes": "Fire Boost"
+  },
+  {
+    "name": "Blizzard Boost",
+    "type": "toggle",
+    "codes": "Blizzard Boost"
+  },
+  {
+    "name": "Thunder Boost",
+    "type": "toggle",
+    "codes": "Thunder Boost"
+  },
+  {
+    "name": "Item Boost",
+    "type": "toggle",
+    "codes": "Item Boost"
+  },
+  {
+    "name": "MP Rage",
+    "type": "toggle",
+    "codes": "MP Rage"
+  },
+  {
+    "name": "MP Haste",
+    "type": "toggle",
+    "codes": "MP Haste"
+  },
+  {
+    "name": "MP Hastera",
+    "type": "toggle",
+    "codes": "MP Hastera"
+  },
+  {
+    "name": "MP Hastega",
+    "type": "toggle",
+    "codes": "MP Hastega"
+  },
+  {
+    "name": "Defender",
+    "type": "toggle",
+    "codes": "Defender"
+  },
+  {
+    "name": "Damage Control",
+    "type": "toggle",
+    "codes": "Damage Control"
+  },
+  {
+    "name": "No Experience",
+    "type": "toggle",
+    "codes": "No Experience"
+  },
+  {
+    "name": "Light & Darkness",
+    "type": "toggle",
+    "codes": "Light & Darkness"
+  },
+  {
+    "name": "Magic Lock-On",
+    "type": "toggle",
+    "codes": "Magic Lock-On"
+  },
+  {
+    "name": "Leaf Bracer",
+    "type": "toggle",
+    "codes": "Leaf Bracer"
+  },
+  {
+    "name": "Combination Boost",
+    "type": "toggle",
+    "codes": "Combination Boost"
+  },
+  {
+    "name": "Once More",
+    "type": "toggle",
+    "codes": "Once More"
+  },
+  {
+    "name": "Second Chance",
+    "type": "toggle",
+    "codes": "Second Chance"
+  },
+  {
+    "name": "Guard",
+    "type": "toggle",
+    "codes": "Guard"
+  },
+  {
+    "name": "Upper Slash",
+    "type": "toggle",
+    "codes": "Upper Slash"
+  },
+  {
+    "name": "Horizontal Slash",
+    "type": "toggle",
+    "codes": "Horizontal Slash"
+  },
+  {
+    "name": "Finishing Leap",
+    "type": "toggle",
+    "codes": "Finishing Leap"
+  },
+  {
+    "name": "Retaliating Slash",
+    "type": "toggle",
+    "codes": "Retaliating Slash"
+  },
+  {
+    "name": "Slapshot",
+    "type": "toggle",
+    "codes": "Slapshot"
+  },
+  {
+    "name": "Dodge Slash",
+    "type": "toggle",
+    "codes": "Dodge Slash"
+  },
+  {
+    "name": "Flash Step",
+    "type": "toggle",
+    "codes": "Flash Step"
+  },
+  {
+    "name": "Slide Dash",
+    "type": "toggle",
+    "codes": "Slide Dash"
+  },
+  {
+    "name": "Vicinity Break",
+    "type": "toggle",
+    "codes": "Vicinity Break"
+  },
+  {
+    "name": "Guard Break",
+    "type": "toggle",
+    "codes": "Guard Break"
+  },
+  {
+    "name": "Explosion",
+    "type": "toggle",
+    "codes": "Explosion"
+  },
+  {
+    "name": "Aerial Sweep",
+    "type": "toggle",
+    "codes": "Aerial Sweep"
+  },
+  {
+    "name": "Aerial Dive",
+    "type": "toggle",
+    "codes": "Aerial Dive"
+  },
+  {
+    "name": "Aerial Spiral",
+    "type": "toggle",
+    "codes": "Aerial Spiral"
+  },
+  {
+    "name": "Aerial Finish",
+    "type": "toggle",
+    "codes": "Aerial Finish"
+  },
+  {
+    "name": "Magnet Burst",
+    "type": "toggle",
+    "codes": "Magnet Burst"
+  },
+  {
+    "name": "Counterguard",
+    "type": "toggle",
+    "codes": "Counterguard"
+  },
+  {
+    "name": "Auto Valor",
+    "type": "toggle",
+    "codes": "Auto Valor"
+  },
+  {
+    "name": "Auto Wisdom",
+    "type": "toggle",
+    "codes": "Auto Wisdom"
+  },
+  {
+    "name": "Auto Limit",
+    "type": "toggle",
+    "codes": "Auto Limit"
+  },
+  {
+    "name": "Auto Master",
+    "type": "toggle",
+    "codes": "Auto Master"
+  },
+  {
+    "name": "Auto Final",
+    "type": "toggle",
+    "codes": "Auto Final"
+  },
+  {
+    "name": "Auto Summon",
+    "type": "toggle",
+    "codes": "Auto Summon"
+  },
+  {
+    "name": "Trinity Limit",
+    "type": "toggle",
+    "codes": "Trinity Limit"
+  },
+  {
+    "name": "Power Boost",
+    "type": "toggle",
+    "codes": "Power Boost"
+  },
+  {
+    "name": "Magic Boost",
+    "type": "toggle",
+    "codes": "Magic Boost"
+  },
+  {
+    "name": "Defense Boost",
+    "type": "toggle",
+    "codes": "Defense Boost"
+  },
+  {
+    "name": "AP Boost",
+    "type": "toggle",
+    "codes": "AP Boost"
+  },
+  {
+    "name": "Lucky Emblem",
+    "type": "toggle",
+    "codes": "Lucky Emblem"
+  },
+  {
+    "name": "Victory",
+    "type": "toggle",
+    "codes": "Victory"
+  },
+  {
+    "name": "Bounty",
+    "type": "toggle",
+    "codes": "Bounty"
+  },
+  {
+    "name": "Donald Fire",
+    "type": "toggle",
+    "codes": "Donald Fire"
+  },
+  {
+    "name": "Donald Blizzard",
+    "type": "toggle",
+    "codes": "Donald Blizzard"
+  },
+  {
+    "name": "Donald Thunder",
+    "type": "toggle",
+    "codes": "Donald Thunder"
+  },
+  {
+    "name": "Donald Cure",
+    "type": "toggle",
+    "codes": "Donald Cure"
+  },
+  {
+    "name": "Donald Fantasia",
+    "type": "toggle",
+    "codes": "Donald Fantasia"
+  },
+  {
+    "name": "Donald Flare Force",
+    "type": "toggle",
+    "codes": "Donald Flare Force"
+  },
+  {
+    "name": "Donald MP Rage",
+    "type": "toggle",
+    "codes": "Donald MP Rage"
+  },
+  {
+    "name": "Donald Jackpot",
+    "type": "toggle",
+    "codes": "Donald Jackpot"
+  },
+  {
+    "name": "Donald Lucky Lucky",
+    "type": "toggle",
+    "codes": "Donald Lucky Lucky"
+  },
+  {
+    "name": "Donald Fire Boost",
+    "type": "toggle",
+    "codes": "Donald Fire Boost"
+  },
+  {
+    "name": "Donald Blizzard Boost",
+    "type": "toggle",
+    "codes": "Donald Blizzard Boost"
+  },
+  {
+    "name": "Donald Thunder Boost",
+    "type": "toggle",
+    "codes": "Donald Thunder Boost"
+  },
+  {
+    "name": "Donald MP Haste",
+    "type": "toggle",
+    "codes": "Donald MP Haste"
+  },
+  {
+    "name": "Donald MP Hastera",
+    "type": "toggle",
+    "codes": "Donald MP Hastera"
+  },
+  {
+    "name": "Donald MP Hastega",
+    "type": "toggle",
+    "codes": "Donald MP Hastega"
+  },
+  {
+    "name": "Donald Auto Limit",
+    "type": "toggle",
+    "codes": "Donald Auto Limit"
+  },
+  {
+    "name": "Donald Hyper Healing",
+    "type": "toggle",
+    "codes": "Donald Hyper Healing"
+  },
+  {
+    "name": "Donald Auto Healing",
+    "type": "toggle",
+    "codes": "Donald Auto Healing"
+  },
+  {
+    "name": "Donald Item Boost",
+    "type": "toggle",
+    "codes": "Donald Item Boost"
+  },
+  {
+    "name": "Donald Damage Control",
+    "type": "toggle",
+    "codes": "Donald Damage Control"
+  },
+  {
+    "name": "Donald Draw",
+    "type": "toggle",
+    "codes": "Donald Draw"
+  },
+  {
+    "name": "Goofy Tornado",
+    "type": "toggle",
+    "codes": "Goofy Tornado"
+  },
+  {
+    "name": "Goofy Turbo",
+    "type": "toggle",
+    "codes": "Goofy Turbo"
+  },
+  {
+    "name": "Goofy Bash",
+    "type": "toggle",
+    "codes": "Goofy Bash"
+  },
+  {
+    "name": "Tornado Fusion",
+    "type": "toggle",
+    "codes": "Tornado Fusion"
+  },
+  {
+    "name": "Teamwork",
+    "type": "toggle",
+    "codes": "Teamwork"
+  },
+  {
+    "name": "Goofy Draw",
+    "type": "toggle",
+    "codes": "Goofy Draw"
+  },
+  {
+    "name": "Goofy Jackpot",
+    "type": "toggle",
+    "codes": "Goofy Jackpot"
+  },
+  {
+    "name": "Goofy Lucky Lucky",
+    "type": "toggle",
+    "codes": "Goofy Lucky Lucky"
+  },
+  {
+    "name": "Goofy Item Boost",
+    "type": "toggle",
+    "codes": "Goofy Item Boost"
+  },
+  {
+    "name": "Goofy MP Rage",
+    "type": "toggle",
+    "codes": "Goofy MP Rage"
+  },
+  {
+    "name": "Goofy Defender",
+    "type": "toggle",
+    "codes": "Goofy Defender"
+  },
+  {
+    "name": "Goofy Damage Control",
+    "type": "toggle",
+    "codes": "Goofy Damage Control"
+  },
+  {
+    "name": "Goofy Auto Limit",
+    "type": "toggle",
+    "codes": "Goofy Auto Limit"
+  },
+  {
+    "name": "Goofy Second Chance",
+    "type": "toggle",
+    "codes": "Goofy Second Chance"
+  },
+  {
+    "name": "Goofy Once More",
+    "type": "toggle",
+    "codes": "Goofy Once More"
+  },
+  {
+    "name": "Goofy Auto Change",
+    "type": "toggle",
+    "codes": "Goofy Auto Change"
+  },
+  {
+    "name": "Goofy Hyper Healing",
+    "type": "toggle",
+    "codes": "Goofy Hyper Healing"
+  },
+  {
+    "name": "Goofy Auto Healing",
+    "type": "toggle",
+    "codes": "Goofy Auto Healing"
+  },
+  {
+    "name": "Goofy MP Haste",
+    "type": "toggle",
+    "codes": "Goofy MP Haste"
+  },
+  {
+    "name": "Goofy MP Hastera",
+    "type": "toggle",
+    "codes": "Goofy MP Hastera"
+  },
+  {
+    "name": "Goofy MP Hastega",
+    "type": "toggle",
+    "codes": "Goofy MP Hastega"
+  },
+  {
+    "name": "Goofy Protect",
+    "type": "toggle",
+    "codes": "Goofy Protect"
+  },
+  {
+    "name": "Goofy Protera",
+    "type": "toggle",
+    "codes": "Goofy Protera"
+  },
+  {
+    "name": "Goofy Protega",
+    "type": "toggle",
+    "codes": "Goofy Protega"
+  },
+  {
+    "name": "Potion",
+    "type": "toggle",
+    "codes": "Potion"
+  },
+  {
+    "name": "Hi-Potion",
+    "type": "toggle",
+    "codes": "Hi-Potion"
+  },
+  {
+    "name": "Ether",
+    "type": "toggle",
+    "codes": "Ether"
+  },
+  {
+    "name": "Elixir",
+    "type": "toggle",
+    "codes": "Elixir"
+  },
+  {
+    "name": "Megalixir",
+    "type": "toggle",
+    "codes": "Megalixir"
+  },
+  {
+    "name": "Tent",
+    "type": "toggle",
+    "codes": "Tent"
+  },
+  {
+    "name": "Drive Recovery",
+    "type": "toggle",
+    "codes": "Drive Recovery"
+  },
+  {
+    "name": "High Drive Recovery",
+    "type": "toggle",
+    "codes": "High Drive Recovery"
   }
 ]

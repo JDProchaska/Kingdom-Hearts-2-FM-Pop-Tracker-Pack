@@ -1,6 +1,1268 @@
 [
   {
+    "name": "The World That Never Was - Dark City",
+    "children": [
+      {
+        "name": "(TWTNW) Fragment Crossing Mythril Stone",
+        "sections": [
+          {
+            "name": "(TWTNW) Fragment Crossing Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 135,
+            "y": 398
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Fragment Crossing Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TWTNW) Fragment Crossing Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 135,
+            "y": 324
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Fragment Crossing AP Boost",
+        "sections": [
+          {
+            "name": "(TWTNW) Fragment Crossing AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 260,
+            "y": 352
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Fragment Crossing Orichalcum",
+        "sections": [
+          {
+            "name": "(TWTNW) Fragment Crossing Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 214,
+            "y": 316
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Roxas Bonus: Sora Slot 1",
+        "sections": [
+          {
+            "name": "(TWTNW) Roxas Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Roxas Bonus: Sora Slot 2",
+        "sections": [
+          {
+            "name": "(TWTNW) Roxas Bonus: Sora Slot 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Roxas Secret Ansem Report 8",
+        "sections": [
+          {
+            "name": "(TWTNW) Roxas Secret Ansem Report 8",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Two Become One",
+        "sections": [
+          {
+            "name": "(TWTNW) Two Become One",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Memory's Skyscaper Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TWTNW) Memory's Skyscaper Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 64,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Memory's Skyscaper AP Boost",
+        "sections": [
+          {
+            "name": "(TWTNW) Memory's Skyscaper AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 124,
+            "y": 187
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Memory's Skyscaper Mythril Stone",
+        "sections": [
+          {
+            "name": "(TWTNW) Memory's Skyscaper Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 49,
+            "y": 175
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) The Brink of Despair Dark City Map",
+        "sections": [
+          {
+            "name": "(TWTNW) The Brink of Despair Dark City Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 34,
+            "y": 57
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) The Brink of Despair Orichalcum+",
+        "sections": [
+          {
+            "name": "(TWTNW) The Brink of Despair Orichalcum+",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-DC",
+            "x": 23,
+            "y": 48
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The World That Never Was - Castle",
+    "access_rules": ["Way to the Dawn"],
+    "children": [
+      {
+        "name": "(TWTNW) Nothing's Call Mythril Gem",
+        "sections": [
+          {
+            "name": "(TWTNW) Nothing's Call Mythril Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 332,
+            "y": 1326
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Nothing's Call Orichalcum",
+        "sections": [
+          {
+            "name": "(TWTNW) Nothing's Call Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 331,
+            "y": 1430
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Twilight's View Cosmic Belt",
+        "sections": [
+          {
+            "name": "(TWTNW) Twilight's View Cosmic Belt",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 319,
+            "y": 1093
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Xigbar Bonus: Sora Slot 1",
+        "sections": [
+          {
+            "name": "(TWTNW) Xigbar Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Xigbar Secret Ansem Report 3",
+        "sections": [
+          {
+            "name": "(TWTNW) Xigbar Secret Ansem Report 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Naught's Skyway Mythril Gem",
+        "sections": [
+          {
+            "name": "(TWTNW) Naught's Skyway Mythril Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 322,
+            "y": 644
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Naught's Skyway Orichalcum",
+        "sections": [
+          {
+            "name": "(TWTNW) Naught's Skyway Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 435,
+            "y": 691
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Naught's Skyway Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TWTNW) Naught's Skyway Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 414,
+            "y": 640
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Oblivion",
+        "sections": [
+          {
+            "name": "(TWTNW) Oblivion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Castle That Never Was Map",
+        "sections": [
+          {
+            "name": "(TWTNW) Castle That Never Was Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Luxord Bonus: Sora Slot 2",
+        "sections": [
+          {
+            "name": "(TWTNW) Luxord Bonus: Sora Slot 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Luxord Bonus: Sora Slot 1",
+        "sections": [
+          {
+            "name": "(TWTNW) Luxord Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Luxord Secret Ansem Report 9",
+        "sections": [
+          {
+            "name": "(TWTNW) Luxord Secret Ansem Report 9",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Saix Bonus: Sora Slot 1",
+        "sections": [
+          {
+            "name": "(TWTNW) Saix Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Saix Secret Ansem Report 12",
+        "sections": [
+          {
+            "name": "(TWTNW) Saix Secret Ansem Report 12",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Secret Ansem Report 11 (Pre-Xemnas 1)",
+        "sections": [
+          {
+            "name": "(TWTNW) Secret Ansem Report 11 (Pre-Xemnas 1)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Ruin and Creation's Passage Mythril Stone",
+        "sections": [
+          {
+            "name": "(TWTNW) Ruin and Creation's Passage Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 315,
+            "y": 402
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Ruin and Creation's Passage AP Boost",
+        "sections": [
+          {
+            "name": "(TWTNW) Ruin and Creation's Passage AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 252,
+            "y": 373
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Ruin and Creation's Passage Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TWTNW) Ruin and Creation's Passage Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 274,
+            "y": 443
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Ruin and Creation's Passage Orichalcum",
+        "sections": [
+          {
+            "name": "(TWTNW) Ruin and Creation's Passage Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TWTNW-Castle",
+            "x": 206,
+            "y": 467
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Xemnas 1 Bonus: Sora Slot 1",
+        "sections": [
+          {
+            "name": "(TWTNW) Xemnas 1 Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Xemnas 1 Bonus: Sora Slot 2",
+        "sections": [
+          {
+            "name": "(TWTNW) Xemnas 1 Bonus: Sora Slot 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "(TWTNW) Xemnas 1 Secret Ansem Report 13",
+        "sections": [
+          {
+            "name": "(TWTNW) Xemnas 1 Secret Ansem Report 13",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "Final Xemnas",
+        "sections": [
+          {
+            "name": "Final Xemnas",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "name": "Data Xemnas",
+        "sections": [
+          {
+            "name": "Data Xemnas",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 0,
+            "y": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twilight Town",
+    "access_rules": ["Ice Cream 1"],
+    "children": [
+      {
+        "name": "(TT) Old Mansion Potion",
+        "sections": [
+          {
+            "name": "(TT) Old Mansion Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 677,
+            "y": 335
+          }
+        ]
+      },
+      {
+        "name": "(TT) Old Mansion Mythril Shard",
+        "sections": [
+          {
+            "name": "(TT) Old Mansion Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 712,
+            "y": 270
+          }
+        ]
+      },
+      {
+        "name": "(TT) The Woods Potion",
+        "sections": [
+          {
+            "name": "(TT) The Woods Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 684,
+            "y": 461
+          }
+        ]
+      },
+      {
+        "name": "(TT) The Woods Mythril Shard",
+        "sections": [
+          {
+            "name": "(TT) The Woods Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 646,
+            "y": 454
+          }
+        ]
+      },
+      {
+        "name": "(TT) The Woods Hi-Potion",
+        "sections": [
+          {
+            "name": "(TT) The Woods Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 658,
+            "y": 495
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tram Common Hi-Potion",
+        "sections": [
+          {
+            "name": "(TT) Tram Common Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 500,
+            "y": 493
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tram Common AP Boost",
+        "sections": [
+          {
+            "name": "(TT) Tram Common AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 542,
+            "y": 456
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tram Common Tent",
+        "sections": [
+          {
+            "name": "(TT) Tram Common Tent",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 487,
+            "y": 423
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tram Common Mythril Shard 1",
+        "sections": [
+          {
+            "name": "(TT) Tram Common Mythril Shard 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 501,
+            "y": 474
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tram Common Potion 1",
+        "sections": [
+          {
+            "name": "(TT) Tram Common Potion 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 519,
+            "y": 507
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tram Common Mythril Shard 2",
+        "sections": [
+          {
+            "name": "(TT) Tram Common Mythril Shard 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 445,
+            "y": 469
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tram Common Potion 2",
+        "sections": [
+          {
+            "name": "(TT) Tram Common Potion 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 407,
+            "y": 543
+          }
+        ]
+      },
+      {
+        "name": "(TT) Central Station Tent",
+        "sections": [
+          {
+            "name": "(TT) Central Station Tent",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 320,
+            "y": 144
+          }
+        ]
+      },
+      {
+        "name": "(TT) Central Station Hi-Potion",
+        "sections": [
+          {
+            "name": "(TT) Central Station Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 324,
+            "y": 176
+          }
+        ]
+      },
+      {
+        "name": "(TT) Central Station Mythril Shard",
+        "sections": [
+          {
+            "name": "(TT) Central Station Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 407,
+            "y": 140
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twilight Town Third Visit",
+    "access_rules": ["Ice Cream 3"],
+    "children": [
+      {
+        "name": "(TT3) Underground Concourse Mythril Gem",
+        "sections": [
+          {
+            "name": "(TT3) Underground Concourse Mythril Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 244,
+            "y": 967
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Underground Concourse Orichalcum",
+        "sections": [
+          {
+            "name": "(TT3) Underground Concourse Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 306,
+            "y": 961
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Underground Concourse AP Boost",
+        "sections": [
+          {
+            "name": "(TT3) Underground Concourse AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 271,
+            "y": 946
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Underground Concourse Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TT3) Underground Concourse Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 354,
+            "y": 954
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Tunnelway Orichalcum",
+        "sections": [
+          {
+            "name": "(TT3) Tunnelway Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 219,
+            "y": 1144
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Tunnelway Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TT3) Tunnelway Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 343,
+            "y": 1175
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Sunset Terrace Orichalcum+",
+        "sections": [
+          {
+            "name": "(TT3) Sunset Terrace Orichalcum+",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 398,
+            "y": 1330
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Sunset Terrace Mythril Shard",
+        "sections": [
+          {
+            "name": "(TT3) Sunset Terrace Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 304,
+            "y": 1346
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Sunset Terrace Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TT3) Sunset Terrace Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 387,
+            "y": 1327
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Sunset Terrace AP Boost",
+        "sections": [
+          {
+            "name": "(TT3) Sunset Terrace AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 389,
+            "y": 1250
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Mansion Foyer Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TT3) Mansion Foyer Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 688,
+            "y": 80
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Mansion Foyer Mythril Stone",
+        "sections": [
+          {
+            "name": "(TT3) Mansion Foyer Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 704,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Mansion Foyer Serenity Crystal",
+        "sections": [
+          {
+            "name": "(TT3) Mansion Foyer Serenity Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 678,
+            "y": 69
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Mansion Dining Room Mythril Crystal",
+        "sections": [
+          {
+            "name": "(TT3) Mansion Dining Room Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 570,
+            "y": 90
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Mansion Dining Room Mythril Stone",
+        "sections": [
+          {
+            "name": "(TT3) Mansion Dining Room Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 621,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Mansion Library Orichalcum",
+        "sections": [
+          {
+            "name": "(TT3) Mansion Library Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 777,
+            "y": 137
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Mansion Basement Corridor Ultimate Recipe",
+        "sections": [
+          {
+            "name": "(TT3) Mansion Basement Corridor Ultimate Recipe",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 996,
+            "y": 238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twilight Town - Tower",
+    "access_rules": ["Ice Cream 1"],
+    "children": [
+      {
+        "name": "(TT) The Tower Potion",
+        "sections": [
+          {
+            "name": "(TT) The Tower Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT-MT",
+            "x": 159,
+            "y": 579
+          }
+        ]
+      },
+      {
+        "name": "(TT) The Tower Hi-Potion",
+        "sections": [
+          {
+            "name": "(TT) The Tower Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT-MT",
+            "x": 142,
+            "y": 563
+          }
+        ]
+      },
+      {
+        "name": "(TT) The Tower Ether",
+        "sections": [
+          {
+            "name": "(TT) The Tower Ether",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT-MT",
+            "x": 149,
+            "y": 536
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tower Entryway Ether",
+        "sections": [
+          {
+            "name": "(TT) Tower Entryway Ether",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT-MT",
+            "x": 196,
+            "y": 492
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tower Entryway Mythril Shard",
+        "sections": [
+          {
+            "name": "(TT) Tower Entryway Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT-MT",
+            "x": 190,
+            "y": 454
+          }
+        ]
+      },
+      {
+        "name": "(TT) Sorcerer's Loft Tower Map",
+        "sections": [
+          {
+            "name": "(TT) Sorcerer's Loft Tower Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT-MT",
+            "x": 210,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "(TT) Tower Wardrobe Mythril Stone",
+        "sections": [
+          {
+            "name": "(TT) Tower Wardrobe Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT-MT",
+            "x": 248,
+            "y": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Simulated Twilight Town",
+    "access_rules": ["Namine Sketches"],
     "children": [
       {
         "name": "(STT) Central Station Potion 1",
@@ -290,1698 +1552,406 @@
     ]
   },
   {
-    "name": "100 Acre Wood",
-    "access_rules": ["Torn Page 1"],
+    "name": "Pride Lands",
+    "access_rules": ["Proud Fang 1"],
     "children": [
       {
-        "name": "(100Acre) Pooh's House 100 Acre Wood Map",
+        "name": "(PL) Gorge Savannah Map",
         "sections": [
           {
-            "name": "(100Acre) Pooh's House 100 Acre Wood Map",
+            "name": "(PL) Gorge Savannah Map",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "100Acre",
-            "x": 621,
-            "y": 227
+            "map": "PL",
+            "x": 72,
+            "y": 866
           }
         ]
       },
       {
-        "name": "(100Acre) Pooh's House AP Boost",
+        "name": "(PL) Gorge Dark Gem",
         "sections": [
           {
-            "name": "(100Acre) Pooh's House AP Boost",
+            "name": "(PL) Gorge Dark Gem",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "100Acre",
-            "x": 614,
-            "y": 194
+            "map": "PL",
+            "x": 83,
+            "y": 852
           }
         ]
       },
       {
-        "name": "(100Acre) Pooh's House Mythril Stone",
+        "name": "(PL) Gorge Mythril Stone",
         "sections": [
           {
-            "name": "(100Acre) Pooh's House Mythril Stone",
+            "name": "(PL) Gorge Mythril Stone",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "100Acre",
-            "x": 600,
-            "y": 195
+            "map": "PL",
+            "x": 38,
+            "y": 822
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "100 Acre Wood 2nd Visit",
-    "access_rules": ["Torn Page 2"],
-    "children": [
-      {
-        "name": "(100Acre) Piglet's House Defense Boost",
-        "sections": [
-          {
-            "name": "(100Acre) Piglet's House Defense Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 587,
-            "y": 350
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Piglet's House AP Boost",
-        "sections": [
-          {
-            "name": "(100Acre) Piglet's House AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 551,
-            "y": 363
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Piglet's House Mythril Gem",
-        "sections": [
-          {
-            "name": "(100Acre) Piglet's House Mythril Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 553,
-            "y": 387
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "100 Acre Wood 3rd Visit",
-    "access_rules": ["Torn Page 3"],
-    "children": [
-      {
-        "name": "(100Acre) Rabbit's House Draw Ring",
-        "sections": [
-          {
-            "name": "(100Acre) Rabbit's House Draw Ring",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 555,
-            "y": 485
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Rabbit's House Mythril Crystal",
-        "sections": [
-          {
-            "name": "(100Acre) Rabbit's House Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 537,
-            "y": 505
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Rabbit's House AP Boost",
-        "sections": [
-          {
-            "name": "(100Acre) Rabbit's House AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 551,
-            "y": 513
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "100 Acre Wood 4th Visit",
-    "access_rules": ["Torn Page 4"],
-    "children": [
-      {
-        "name": "(100Acre) Kanga's House Magic Boost",
-        "sections": [
-          {
-            "name": "(100Acre) Kanga's House Magic Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 587,
-            "y": 645
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Kanga's House AP Boost",
-        "sections": [
-          {
-            "name": "(100Acre) Kanga's House AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 559,
-            "y": 643
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Kanga's House Orichalcum",
-        "sections": [
-          {
-            "name": "(100Acre) Kanga's House Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 521,
-            "y": 656
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "100 Acre Wood 5th Visit",
-    "access_rules": ["Torn Page 5"],
-    "children": [
-      {
-        "name": "(100Acre) Spooky Cave Mythril Gem",
-        "sections": [
-          {
-            "name": "(100Acre) Spooky Cave Mythril Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 614,
-            "y": 749
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Spooky Cave AP Boost",
-        "sections": [
-          {
-            "name": "(100Acre) Spooky Cave AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 552,
-            "y": 721
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Spooky Cave Orichalcum",
-        "sections": [
-          {
-            "name": "(100Acre) Spooky Cave Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 570,
-            "y": 844
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Spooky Cave Guard Recipe",
-        "sections": [
-          {
-            "name": "(100Acre) Spooky Cave Guard Recipe",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 525,
-            "y": 835
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Spooky Cave Mythril Crystal",
-        "sections": [
-          {
-            "name": "(100Acre) Spooky Cave Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 523,
-            "y": 820
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Spooky Cave AP Boost 2",
-        "sections": [
-          {
-            "name": "(100Acre) Spooky Cave AP Boost 2",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 509,
-            "y": 869
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Sweet Memories",
-        "sections": [
-          {
-            "name": "(100Acre) Sweet Memories",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 600,
-            "y": 195
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Spooky Cave Map",
-        "sections": [
-          {
-            "name": "(100Acre) Spooky Cave Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 600,
-            "y": 195
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Starry Hill Cosmic Ring",
-        "sections": [
-          {
-            "name": "(100Acre) Starry Hill Cosmic Ring",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 570,
-            "y": 966
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Starry Hill Style Recipe",
-        "sections": [
-          {
-            "name": "(100Acre) Starry Hill Style Recipe",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "100Acre",
-            "x": 613,
-            "y": 939
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Starry Hill Cure Element",
-        "sections": [
-          {
-            "name": "(100Acre) Starry Hill Cure Element",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 600,
-            "y": 195
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Starry Hill Orichalcum+",
-        "sections": [
-          {
-            "name": "(100Acre) Starry Hill Orichalcum+",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 600,
-            "y": 195
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Agraba",
-    "access_rules": ["Scimitar 1"],
-    "children": [
-      {
-        "name": "(AG) Agrabah Dark Shard",
-        "sections": [
-          {
-            "name": "(AG) Agrabah Dark Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 682,
-            "y": 233
-          }
-        ]
-      },
-      {
-        "name": "(AG) Agrabah Mythril Shard",
-        "sections": [
-          {
-            "name": "(AG) Agrabah Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 741,
-            "y": 288
-          }
-        ]
-      },
-      {
-        "name": "(AG) Agrabah Hi-Potion",
-        "sections": [
-          {
-            "name": "(AG) Agrabah Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 761,
-            "y": 267
-          }
-        ]
-      },
-      {
-        "name": "(AG) Agrabah AP Boost",
-        "sections": [
-          {
-            "name": "(AG) Agrabah AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 620,
-            "y": 227
-          }
-        ]
-      },
-      {
-        "name": "(AG) Agrabah Mythril Stone",
-        "sections": [
-          {
-            "name": "(AG) Agrabah Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 655,
-            "y": 266
-          }
-        ]
-      },
-      {
-        "name": "(AG) Agrabah Mythril Shard 2",
-        "sections": [
-          {
-            "name": "(AG) Agrabah Mythril Shard 2",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 657,
-            "y": 231
-          }
-        ]
-      },
-      {
-        "name": "(AG) Agrabah Serenity Shard",
-        "sections": [
-          {
-            "name": "(AG) Agrabah Serenity Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 673,
-            "y": 188
-          }
-        ]
-      },
-      {
-        "name": "(AG) Bazaar Mythril Gem",
-        "sections": [
-          {
-            "name": "(AG) Bazaar Mythril Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 781,
-            "y": 393
-          }
-        ]
-      },
-      {
-        "name": "(AG) Bazaar Power Shard",
-        "sections": [
-          {
-            "name": "(AG) Bazaar Power Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 746,
-            "y": 402
-          }
-        ]
-      },
-      {
-        "name": "(AG) Bazaar Hi-Potion",
-        "sections": [
-          {
-            "name": "(AG) Bazaar Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 735,
-            "y": 441
-          }
-        ]
-      },
-      {
-        "name": "(AG) Bazaar AP Boost",
-        "sections": [
-          {
-            "name": "(AG) Bazaar AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 750,
-            "y": 427
-          }
-        ]
-      },
-      {
-        "name": "(AG) Bazaar Mythril Shard",
-        "sections": [
-          {
-            "name": "(AG) Bazaar Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 767,
-            "y": 434
-          }
-        ]
-      },
-      {
-        "name": "(AG) Palace Walls Skill Ring",
-        "sections": [
-          {
-            "name": "(AG) Palace Walls Skill Ring",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 751,
-            "y": 510
-          }
-        ]
-      },
-      {
-        "name": "(AG) Palace Walls Mythril Stone",
-        "sections": [
-          {
-            "name": "(AG) Palace Walls Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 769,
-            "y": 473
-          }
-        ]
-      },
-      {
-        "name": "(AG) Cave Entrance Power Stone",
-        "sections": [
-          {
-            "name": "(AG) Cave Entrance Power Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 800,
-            "y": 1047
-          }
-        ]
-      },
-      {
-        "name": "(AG) Cave Entrance Mythril Shard",
-        "sections": [
-          {
-            "name": "(AG) Cave Entrance Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 768,
-            "y": 1048
-          }
-        ]
-      },
-      {
-        "name": "(AG) Valley of Stone Mythril Stone",
-        "sections": [
-          {
-            "name": "(AG) Valley of Stone Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 696,
-            "y": 1114
-          }
-        ]
-      },
-      {
-        "name": "(AG) Valley of Stone AP Boost",
-        "sections": [
-          {
-            "name": "(AG) Valley of Stone AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 677,
-            "y": 1163
-          }
-        ]
-      },
-      {
-        "name": "(AG) Valley of Stone Mythril Shard",
-        "sections": [
-          {
-            "name": "(AG) Valley of Stone Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 717,
-            "y": 1161
-          }
-        ]
-      },
-      {
-        "name": "(AG) Valley of Stone Hi-Potion",
-        "sections": [
-          {
-            "name": "(AG) Valley of Stone Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 737,
-            "y": 1131
-          }
-        ]
-      },
-      {
-        "name": "(AG) Abu Escort Bonus: Sora Slot 1",
-        "sections": [
-          {
-            "name": "(AG) Abu Escort Bonus: Sora Slot 1",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 1,
-            "y": 1
-          }
-        ]
-      },
-      {
-        "name": "(AG) Chasm of Challenges Cave of Wonders Map",
-        "sections": [
-          {
-            "name": "(AG) Chasm of Challenges Cave of Wonders Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 364,
-            "y": 995
-          }
-        ]
-      },
-      {
-        "name": "(AG) Chasm of Challenges AP Boost",
-        "sections": [
-          {
-            "name": "(AG) Chasm of Challenges AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 414,
-            "y": 995
-          }
-        ]
-      },
-      {
-        "name": "(AG) Treasure Room",
-        "sections": [
-          {
-            "name": "(AG) Treasure Room",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 1,
-            "y": 1
-          }
-        ]
-      },
-      {
-        "name": "(AG) Treasure Room AP Boost",
-        "sections": [
-          {
-            "name": "(AG) Treasure Room AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 393,
-            "y": 818
-          }
-        ]
-      },
-      {
-        "name": "(AG) Treasure Room Serenity Gem",
-        "sections": [
-          {
-            "name": "(AG) Treasure Room Serenity Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 368,
-            "y": 858
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Agraba Second Visit",
-    "access_rules": ["Scimitar 2"],
-    "children": [
-      {
-        "name": "(AG2) Ruined Chamber Torn Pages",
-        "sections": [
-          {
-            "name": "(AG2) Ruined Chamber Torn Pages",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 143,
-            "y": 215
-          }
-        ]
-      },
-      {
-        "name": "(AG2) Ruined Chamber Ruins Map",
-        "sections": [
-          {
-            "name": "(AG2) Ruined Chamber Ruins Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "AG",
-            "x": 175,
-            "y": 191
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Beasts Castle",
-    "access_rules": ["Beast's Claw 1"],
-    "children": [
-      {
-        "name": "(BC) Courtyard AP Boost",
-        "sections": [
-          {
-            "name": "(BC) Courtyard AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 461,
-            "y": 553
-          }
-        ]
-      },
-      {
-        "name": "(BC) Courtyard Hi-Potion",
-        "sections": [
-          {
-            "name": "(BC) Courtyard Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 533,
-            "y": 521
-          }
-        ]
-      },
-      {
-        "name": "(BC) Courtyard Mythril Shard",
-        "sections": [
-          {
-            "name": "(BC) Courtyard Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 514,
-            "y": 561
-          }
-        ]
-      },
-      {
-        "name": "(BC) Belle's Room Castle Map",
-        "sections": [
-          {
-            "name": "(BC) Belle's Room Castle Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 735,
-            "y": 438
-          }
-        ]
-      },
-      {
-        "name": "(BC) Belle's Room Mega-Recipe",
-        "sections": [
-          {
-            "name": "(BC) Belle's Room Mega-Recipe",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 768,
-            "y": 442
-          }
-        ]
-      },
-      {
-        "name": "(BC) The East Wing Mythril Shard",
-        "sections": [
-          {
-            "name": "(BC) The East Wing Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 652,
-            "y": 386
-          }
-        ]
-      },
-      {
-        "name": "(BC) The East Wing Tent",
-        "sections": [
-          {
-            "name": "(BC) The East Wing Tent",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 702,
-            "y": 383
-          }
-        ]
-      },
-      {
-        "name": "(BC) The West Hall Hi-Potion",
-        "sections": [
-          {
-            "name": "(BC) The West Hall Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 344,
-            "y": 386
-          }
-        ]
-      },
-      {
-        "name": "(BC) The West Hall Mythril Shard",
-        "sections": [
-          {
-            "name": "(BC) The West Hall Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 326,
-            "y": 420
-          }
-        ]
-      },
-      {
-        "name": "(BC) The West Hall Power Shard",
-        "sections": [
-          {
-            "name": "(BC) The West Hall Power Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 305,
-            "y": 364
-          }
-        ]
-      },
-      {
-        "name": "(BC) The West Hall Mythril Shard 2",
-        "sections": [
-          {
-            "name": "(BC) The West Hall Mythril Shard 2",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 314,
-            "y": 300
-          }
-        ]
-      },
-      {
-        "name": "(BC) The West Hall Bright Stone",
-        "sections": [
-          {
-            "name": "(BC) The West Hall Bright Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 294,
-            "y": 289
-          }
-        ]
-      },
-      {
-        "name": "(BC) The West Hall AP Boost Post Dungeon",
-        "sections": [
-          {
-            "name": "(BC) The West Hall AP Boost Post Dungeon",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 340,
-            "y": 329
-          }
-        ]
-      },
-      {
-        "name": "(BC) Dungeon Basement Map",
-        "sections": [
-          {
-            "name": "(BC) Dungeon Basement Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 58,
-            "y": 314
-          }
-        ]
-      },
-      {
-        "name": "(BC) Dungeon AP Boost",
-        "sections": [
-          {
-            "name": "(BC) Dungeon AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 23,
-            "y": 315
-          }
-        ]
-      },
-      {
-        "name": "(BC) Secret Passage Mythril Shard",
-        "sections": [
-          {
-            "name": "(BC) Secret Passage Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 210,
-            "y": 536
-          }
-        ]
-      },
-      {
-        "name": "(BC) Secret Passage Hi-Potion",
-        "sections": [
-          {
-            "name": "(BC) Secret Passage Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 232,
-            "y": 534
-          }
-        ]
-      },
-      {
-        "name": "(BC) Secret Passage Lucid Shard",
-        "sections": [
-          {
-            "name": "(BC) Secret Passage Lucid Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 280,
-            "y": 522
-          }
-        ]
-      },
-      {
-        "name": "(BC) The West Wing Mythril Shard",
-        "sections": [
-          {
-            "name": "(BC) The West Wing Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 373,
-            "y": 252
-          }
-        ]
-      },
-      {
-        "name": "(BC) The West Wing Tent",
-        "sections": [
-          {
-            "name": "(BC) The West Wing Tent",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 328,
-            "y": 209
-          }
-        ]
-      },
-      {
-        "name": "(BC) The Beast's Room Blazing Shard",
-        "sections": [
-          {
-            "name": "(BC) The Beast's Room Blazing Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "BC",
-            "x": 385,
-            "y": 57
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Disney Castle",
-    "access_rules": ["Disney Castle Key 1"],
-    "children": [
-      {
-        "name": "(DC) Courtyard Mythril Shard",
-        "sections": [
-          {
-            "name": "(DC) Courtyard Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "DC",
-            "x": 271,
-            "y": 420
-          }
-        ]
-      },
-      {
-        "name": "(DC) Courtyard Star Recipe",
-        "sections": [
-          {
-            "name": "(DC) Courtyard Star Recipe",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "DC",
-            "x": 271,
-            "y": 378
-          }
-        ]
-      },
-      {
-        "name": "(DC) Courtyard AP Boost",
-        "sections": [
-          {
-            "name": "(DC) Courtyard AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "DC",
-            "x": 236,
-            "y": 416
-          }
-        ]
-      },
-      {
-        "name": "(DC) Courtyard Mythril Stone",
-        "sections": [
-          {
-            "name": "(DC) Courtyard Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "DC",
-            "x": 297,
-            "y": 379
-          }
-        ]
-      },
-      {
-        "name": "(DC) Courtyard Blazing Stone",
-        "sections": [
-          {
-            "name": "(DC) Courtyard Blazing Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "DC",
-            "x": 249,
-            "y": 359
-          }
-        ]
-      },
-      {
-        "name": "(DC) Courtyard Blazing Shard",
-        "sections": [
-          {
-            "name": "(DC) Courtyard Blazing Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "DC",
-            "x": 264,
-            "y": 378
-          }
-        ]
-      },
-      {
-        "name": "(DC) Courtyard Mythril Shard 2",
-        "sections": [
-          {
-            "name": "(DC) Courtyard Mythril Shard 2",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "DC",
-            "x": 288,
-            "y": 368
-          }
-        ]
-      },
-      {
-        "name": "(DC) Library Torn Pages",
-        "sections": [
-          {
-            "name": "(DC) Library Torn Pages",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "DC",
-            "x": 68,
-            "y": 279
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Timeless River",
-    "access_rules": ["Disney Castle Key 2"],
-    "children": [
-      {
-        "name": "(TR) Cornerstone Hill Map",
-        "sections": [
-          {
-            "name": "(TR) Cornerstone Hill Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TR",
-            "x": 46,
-            "y": 258
-          }
-        ]
-      },
-      {
-        "name": "(TR) Cornerstone Hill Frost Shard",
-        "sections": [
-          {
-            "name": "(TR) Cornerstone Hill Frost Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TR",
-            "x": 63,
-            "y": 237
-          }
-        ]
-      },
-      {
-        "name": "(TR) Pier Mythril Shard",
-        "sections": [
-          {
-            "name": "(TR) Pier Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TR",
-            "x": 185,
-            "y": 360
-          }
-        ]
-      },
-      {
-        "name": "(TR) Pier Hi-Potion",
-        "sections": [
-          {
-            "name": "(TR) Pier Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TR",
-            "x": 144,
-            "y": 412
-          }
-        ]
-      },
-      {
-        "name": "(TR) Waterway Mythril Stone",
-        "sections": [
-          {
-            "name": "(TR) Waterway Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TR",
-            "x": 300,
-            "y": 233
-          }
-        ]
-      },
-      {
-        "name": "(TR) Waterway AP Boost",
-        "sections": [
-          {
-            "name": "(TR) Waterway AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TR",
-            "x": 323,
-            "y": 217
-          }
-        ]
-      },
-      {
-        "name": "(TR) Waterway Frost Stone",
-        "sections": [
-          {
-            "name": "(TR) Waterway Frost Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TR",
-            "x": 278,
-            "y": 269
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Halloween Town",
-    "access_rules": ["Bone Fist 1"],
-    "children": [
-      {
-        "name": "(HT) Graveyard Mythril Shard",
-        "sections": [
-          {
-            "name": "(HT) Graveyard Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 366,
-            "y": 350
-          }
-        ]
-      },
-      {
-        "name": "(HT) Graveyard Serenity Gem",
-        "sections": [
-          {
-            "name": "(HT) Graveyard Serenity Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 311,
-            "y": 366
-          }
-        ]
-      },
-      {
-        "name": "(HT) Finklestein's Lab Halloween Town Map",
-        "sections": [
-          {
-            "name": "(HT) Finklestein's Lab Halloween Town Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 229,
-            "y": 52
-          }
-        ]
-      },
-      {
-        "name": "(HT) Town Square Mythril Stone",
-        "sections": [
-          {
-            "name": "(HT) Town Square Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 289,
-            "y": 169
-          }
-        ]
-      },
-      {
-        "name": "(HT) Town Square Energy Shard",
-        "sections": [
-          {
-            "name": "(HT) Town Square Energy Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 263,
-            "y": 187
-          }
-        ]
-      },
-      {
-        "name": "(HT) Hinterlands Lightning Shard",
-        "sections": [
-          {
-            "name": "(HT) Hinterlands Lightning Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 324,
-            "y": 551
-          }
-        ]
-      },
-      {
-        "name": "(HT) Hinterlands Mythril Stone",
-        "sections": [
-          {
-            "name": "(HT) Hinterlands Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 311,
-            "y": 571
-          }
-        ]
-      },
-      {
-        "name": "(HT) Hinterlands AP Boost",
-        "sections": [
-          {
-            "name": "(HT) Hinterlands AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 351,
-            "y": 575
-          }
-        ]
-      },
-      {
-        "name": "(HT) Candy Cane Lane Mega-Potion",
-        "sections": [
-          {
-            "name": "(HT) Candy Cane Lane Mega-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 293,
-            "y": 984
-          }
-        ]
-      },
-      {
-        "name": "(HT) Candy Cane Lane Mythril Gem",
-        "sections": [
-          {
-            "name": "(HT) Candy Cane Lane Mythril Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "HT",
-            "x": 326,
-            "y": 944
-          }
-        ]
       },
       {
-        "name": "(HT) Candy Cane Lane Lightning Stone",
+        "name": "(PL) Elephant Graveyard Frost Gem",
         "sections": [
           {
-            "name": "(HT) Candy Cane Lane Lightning Stone",
+            "name": "(PL) Elephant Graveyard Frost Gem",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "HT",
-            "x": 347,
-            "y": 984
+            "map": "PL",
+            "x": 217,
+            "y": 718
           }
         ]
       },
       {
-        "name": "(HT) Candy Cane Lane Mythril Stone",
+        "name": "(PL) Elephant Graveyard Mythril Stone",
         "sections": [
           {
-            "name": "(HT) Candy Cane Lane Mythril Stone",
+            "name": "(PL) Elephant Graveyard Mythril Stone",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "HT",
+            "map": "PL",
             "x": 310,
-            "y": 1003
+            "y": 723
           }
         ]
       },
       {
-        "name": "(HT) Santa's House Christmas Town Map",
+        "name": "(PL) Elephant Graveyard Bright Stone",
         "sections": [
           {
-            "name": "(HT) Santa's House Christmas Town Map",
+            "name": "(PL) Elephant Graveyard Bright Stone",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "HT",
-            "x": 383,
-            "y": 1041
+            "map": "PL",
+            "x": 394,
+            "y": 683
           }
         ]
       },
       {
-        "name": "(HT) Santa's House AP Boost",
+        "name": "(PL) Elephant Graveyard AP Boost",
         "sections": [
           {
-            "name": "(HT) Santa's House AP Boost",
+            "name": "(PL) Elephant Graveyard AP Boost",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "HT",
-            "x": 358,
-            "y": 1016
+            "map": "PL",
+            "x": 271,
+            "y": 851
+          }
+        ]
+      },
+      {
+        "name": "(PL) Elephant Graveyard Mythril Shard",
+        "sections": [
+          {
+            "name": "(PL) Elephant Graveyard Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 324,
+            "y": 743
+          }
+        ]
+      },
+      {
+        "name": "(PL) Pride Rock Map",
+        "sections": [
+          {
+            "name": "(PL) Pride Rock Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 440,
+            "y": 405
+          }
+        ]
+      },
+      {
+        "name": "(PL) Pride Rock Mythril Stone",
+        "sections": [
+          {
+            "name": "(PL) Pride Rock Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 483,
+            "y": 372
+          }
+        ]
+      },
+      {
+        "name": "(PL) Pride Rock Serenity Crystal",
+        "sections": [
+          {
+            "name": "(PL) Pride Rock Serenity Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 452,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "(PL) Wildebeest Valley Energy Stone",
+        "sections": [
+          {
+            "name": "(PL) Wildebeest Valley Energy Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 573,
+            "y": 800
+          }
+        ]
+      },
+      {
+        "name": "(PL) Wildebeest Valley AP Boost",
+        "sections": [
+          {
+            "name": "(PL) Wildebeest Valley AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 605,
+            "y": 822
+          }
+        ]
+      },
+      {
+        "name": "(PL) Wildebeest Valley Mythril Gem",
+        "sections": [
+          {
+            "name": "(PL) Wildebeest Valley Mythril Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 599,
+            "y": 865
+          }
+        ]
+      },
+      {
+        "name": "(PL) Wildebeest Valley Mythril Stone",
+        "sections": [
+          {
+            "name": "(PL) Wildebeest Valley Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 546,
+            "y": 816
+          }
+        ]
+      },
+      {
+        "name": "(PL) Wildebeest Valley Lucid Gem",
+        "sections": [
+          {
+            "name": "(PL) Wildebeest Valley Lucid Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 653,
+            "y": 890
+          }
+        ]
+      },
+      {
+        "name": "(PL) Wastelands Mythril Shard",
+        "sections": [
+          {
+            "name": "(PL) Wastelands Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 653,
+            "y": 1089
+          }
+        ]
+      },
+      {
+        "name": "(PL) Wastelands Serenity Gem",
+        "sections": [
+          {
+            "name": "(PL) Wastelands Serenity Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 648,
+            "y": 1155
+          }
+        ]
+      },
+      {
+        "name": "(PL) Wastelands Mythril Stone",
+        "sections": [
+          {
+            "name": "(PL) Wastelands Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 637,
+            "y": 1222
+          }
+        ]
+      },
+      {
+        "name": "(PL) Jungle Serenity Gem",
+        "sections": [
+          {
+            "name": "(PL) Jungle Serenity Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 854,
+            "y": 1283
+          }
+        ]
+      },
+      {
+        "name": "(PL) Jungle Mythril Stone",
+        "sections": [
+          {
+            "name": "(PL) Jungle Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 911,
+            "y": 1283
+          }
+        ]
+      },
+      {
+        "name": "(PL) Jungle Serenity Crystal",
+        "sections": [
+          {
+            "name": "(PL) Jungle Serenity Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 842,
+            "y": 1274
+          }
+        ]
+      },
+      {
+        "name": "(PL) Oasis Map",
+        "sections": [
+          {
+            "name": "(PL) Oasis Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 1108,
+            "y": 1196
+          }
+        ]
+      },
+      {
+        "name": "(PL) Oasis Torn Pages",
+        "sections": [
+          {
+            "name": "(PL) Oasis Torn Pages",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 1107,
+            "y": 1149
+          }
+        ]
+      },
+      {
+        "name": "(PL) Oasis AP Boost",
+        "sections": [
+          {
+            "name": "(PL) Oasis AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 1070,
+            "y": 1152
           }
         ]
       }
@@ -2747,674 +2717,230 @@
     ]
   },
   {
-    "name": "Land of Dragons",
-    "access_rules": ["Sword of the Ancestor 1"],
+    "name": "Halloween Town",
+    "access_rules": ["Bone Fist 1"],
     "children": [
       {
-        "name": "(LoD) Bamboo Grove Dark Shard",
+        "name": "(HT) Graveyard Mythril Shard",
         "sections": [
           {
-            "name": "(LoD) Bamboo Grove Dark Shard",
+            "name": "(HT) Graveyard Mythril Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "LoD",
-            "x": 91,
-            "y": 939
+            "map": "HT",
+            "x": 366,
+            "y": 350
           }
         ]
       },
       {
-        "name": "(LoD) Bamboo Grove Ether",
+        "name": "(HT) Graveyard Serenity Gem",
         "sections": [
           {
-            "name": "(LoD) Bamboo Grove Ether",
+            "name": "(HT) Graveyard Serenity Gem",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "LoD",
-            "x": 89,
-            "y": 901
+            "map": "HT",
+            "x": 311,
+            "y": 366
           }
         ]
       },
       {
-        "name": "(LoD) Bamboo Grove Mythril Shard",
+        "name": "(HT) Finklestein's Lab Halloween Town Map",
         "sections": [
           {
-            "name": "(LoD) Bamboo Grove Mythril Shard",
+            "name": "(HT) Finklestein's Lab Halloween Town Map",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "LoD",
-            "x": 110,
-            "y": 908
+            "map": "HT",
+            "x": 229,
+            "y": 52
           }
         ]
       },
       {
-        "name": "(LoD) Checkpoint Hi-Potion",
+        "name": "(HT) Town Square Mythril Stone",
         "sections": [
           {
-            "name": "(LoD) Checkpoint Hi-Potion",
+            "name": "(HT) Town Square Mythril Stone",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "LoD",
-            "x": 261,
-            "y": 830
+            "map": "HT",
+            "x": 289,
+            "y": 169
           }
         ]
       },
       {
-        "name": "(LoD) Checkpoint Mythril Shard",
+        "name": "(HT) Town Square Energy Shard",
         "sections": [
           {
-            "name": "(LoD) Checkpoint Mythril Shard",
+            "name": "(HT) Town Square Energy Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "LoD",
-            "x": 265,
-            "y": 876
+            "map": "HT",
+            "x": 263,
+            "y": 187
           }
         ]
       },
       {
-        "name": "(LoD) Mountain Trail Lightning Shard",
+        "name": "(HT) Hinterlands Lightning Shard",
         "sections": [
           {
-            "name": "(LoD) Mountain Trail Lightning Shard",
+            "name": "(HT) Hinterlands Lightning Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "LoD",
-            "x": 121,
-            "y": 695
+            "map": "HT",
+            "x": 324,
+            "y": 551
           }
         ]
       },
       {
-        "name": "(LoD) Mountain Trail Recovery Recipe",
+        "name": "(HT) Hinterlands Mythril Stone",
         "sections": [
           {
-            "name": "(LoD) Mountain Trail Recovery Recipe",
+            "name": "(HT) Hinterlands Mythril Stone",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "LoD",
-            "x": 158,
-            "y": 622
+            "map": "HT",
+            "x": 311,
+            "y": 571
           }
         ]
       },
       {
-        "name": "(LoD) Mountain Trail Ether",
+        "name": "(HT) Hinterlands AP Boost",
         "sections": [
           {
-            "name": "(LoD) Mountain Trail Ether",
+            "name": "(HT) Hinterlands AP Boost",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "LoD",
-            "x": 161,
-            "y": 648
-          }
-        ]
-      },
-      {
-        "name": "(LoD) Mountain Trail Mythril Shard",
-        "sections": [
-          {
-            "name": "(LoD) Mountain Trail Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 174,
-            "y": 698
-          }
-        ]
-      },
-      {
-        "name": "(LoD) Village Cave AP Boost",
-        "sections": [
-          {
-            "name": "(LoD) Village Cave AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 439,
-            "y": 499
-          }
-        ]
-      },
-      {
-        "name": "(LoD) Village Cave Dark Shard",
-        "sections": [
-          {
-            "name": "(LoD) Village Cave Dark Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 453,
-            "y": 470
-          }
-        ]
-      },
-      {
-        "name": "(LoD) Ridge Frost Shard",
-        "sections": [
-          {
-            "name": "(LoD) Ridge Frost Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 354,
-            "y": 279
-          }
-        ]
-      },
-      {
-        "name": "(LoD) Ridge AP Boost",
-        "sections": [
-          {
-            "name": "(LoD) Ridge AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 363,
-            "y": 252
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Land of Dragons Second Visit",
-    "access_rules": ["Sword of the Ancestor 2"],
-    "children": [
-      {
-        "name": "(LoD2) Throne Room Torn Pages",
-        "sections": [
-          {
-            "name": "(LoD2) Throne Room Torn Pages",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 712,
-            "y": 339
-          }
-        ]
-      },
-      {
-        "name": "(LoD2) Throne Room Palace Map",
-        "sections": [
-          {
-            "name": "(LoD2) Throne Room Palace Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 673,
-            "y": 343
-          }
-        ]
-      },
-      {
-        "name": "(LoD2) Throne Room AP Boost",
-        "sections": [
-          {
-            "name": "(LoD2) Throne Room AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 711,
-            "y": 349
-          }
-        ]
-      },
-      {
-        "name": "(LoD2) Throne Room Queen Recipe",
-        "sections": [
-          {
-            "name": "(LoD2) Throne Room Queen Recipe",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 723,
-            "y": 356
-          }
-        ]
-      },
-      {
-        "name": "(LoD2) Throne Room AP Boost 2",
-        "sections": [
-          {
-            "name": "(LoD2) Throne Room AP Boost 2",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 673,
-            "y": 351
-          }
-        ]
-      },
-      {
-        "name": "(LoD2) Throne Room Ogre Shield",
-        "sections": [
-          {
-            "name": "(LoD2) Throne Room Ogre Shield",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 662,
-            "y": 356
-          }
-        ]
-      },
-      {
-        "name": "(LoD2) Throne Room Mythril Crystal",
-        "sections": [
-          {
-            "name": "(LoD2) Throne Room Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 699,
-            "y": 339
-          }
-        ]
-      },
-      {
-        "name": "(LoD2) Throne Room Orichalcum",
-        "sections": [
-          {
-            "name": "(LoD2) Throne Room Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "LoD",
-            "x": 688,
-            "y": 339
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Olympus Coliseum",
-    "access_rules": ["Battlefields of War 1"],
-    "children": [
-      {
-        "name": "(OC) Underworld Entrance Power Boost",
-        "sections": [
-          {
-            "name": "(OC) Underworld Entrance Power Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 246,
-            "y": 508
-          }
-        ]
-      },
-      {
-        "name": "(OC) Passage Mythril Shard",
-        "sections": [
-          {
-            "name": "(OC) Passage Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 136,
-            "y": 776
-          }
-        ]
-      },
-      {
-        "name": "(OC) Passage Mythril Stone",
-        "sections": [
-          {
-            "name": "(OC) Passage Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 152,
-            "y": 803
-          }
-        ]
-      },
-      {
-        "name": "(OC) Passage Ether",
-        "sections": [
-          {
-            "name": "(OC) Passage Ether",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 198,
-            "y": 797
-          }
-        ]
-      },
-      {
-        "name": "(OC) Passage AP Boost",
-        "sections": [
-          {
-            "name": "(OC) Passage AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 169,
-            "y": 836
-          }
-        ]
-      },
-      {
-        "name": "(OC) Passage Hi-Potion",
-        "sections": [
-          {
-            "name": "(OC) Passage Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 133,
-            "y": 862
-          }
-        ]
-      },
-      {
-        "name": "(OC) Inner Chamber Underworld Map",
-        "sections": [
-          {
-            "name": "(OC) Inner Chamber Underworld Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 58,
-            "y": 985
-          }
-        ]
-      },
-      {
-        "name": "(OC) Inner Chamber Mythril Shard",
-        "sections": [
-          {
-            "name": "(OC) Inner Chamber Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 81,
-            "y": 934
-          }
-        ]
-      },
-      {
-        "name": "(OC) Caverns Entrance Lucid Shard",
-        "sections": [
-          {
-            "name": "(OC) Caverns Entrance Lucid Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 360,
-            "y": 594
-          }
-        ]
-      },
-      {
-        "name": "(OC) Caverns Entrance AP Boost",
-        "sections": [
-          {
-            "name": "(OC) Caverns Entrance AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
+            "map": "HT",
             "x": 351,
-            "y": 607
+            "y": 575
           }
         ]
       },
       {
-        "name": "(OC) Caverns Entrance Mythril Shard",
+        "name": "(HT) Candy Cane Lane Mega-Potion",
         "sections": [
           {
-            "name": "(OC) Caverns Entrance Mythril Shard",
+            "name": "(HT) Candy Cane Lane Mega-Potion",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "OC",
-            "x": 318,
-            "y": 594
+            "map": "HT",
+            "x": 293,
+            "y": 984
           }
         ]
       },
       {
-        "name": "(OC) The Lost Road Bright Shard",
+        "name": "(HT) Candy Cane Lane Mythril Gem",
         "sections": [
           {
-            "name": "(OC) The Lost Road Bright Shard",
+            "name": "(HT) Candy Cane Lane Mythril Gem",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "OC",
-            "x": 446,
-            "y": 690
+            "map": "HT",
+            "x": 326,
+            "y": 944
           }
         ]
       },
       {
-        "name": "(OC) The Lost Road Ether",
+        "name": "(HT) Candy Cane Lane Lightning Stone",
         "sections": [
           {
-            "name": "(OC) The Lost Road Ether",
+            "name": "(HT) Candy Cane Lane Lightning Stone",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "OC",
-            "x": 422,
-            "y": 768
+            "map": "HT",
+            "x": 347,
+            "y": 984
           }
         ]
       },
       {
-        "name": "(OC) The Lost Road Mythril Shard",
+        "name": "(HT) Candy Cane Lane Mythril Stone",
         "sections": [
           {
-            "name": "(OC) The Lost Road Mythril Shard",
+            "name": "(HT) Candy Cane Lane Mythril Stone",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "OC",
-            "x": 510,
-            "y": 804
+            "map": "HT",
+            "x": 310,
+            "y": 1003
           }
         ]
       },
       {
-        "name": "(OC) The Lost Road Mythril Stone",
+        "name": "(HT) Santa's House Christmas Town Map",
         "sections": [
           {
-            "name": "(OC) The Lost Road Mythril Stone",
+            "name": "(HT) Santa's House Christmas Town Map",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "OC",
-            "x": 507,
-            "y": 672
+            "map": "HT",
+            "x": 383,
+            "y": 1041
           }
         ]
       },
       {
-        "name": "(OC) Atrium Lucid Stone",
+        "name": "(HT) Santa's House AP Boost",
         "sections": [
           {
-            "name": "(OC) Atrium Lucid Stone",
+            "name": "(HT) Santa's House AP Boost",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "OC",
-            "x": 566,
-            "y": 862
-          }
-        ]
-      },
-      {
-        "name": "(OC) Atrium AP Boost",
-        "sections": [
-          {
-            "name": "(OC) Atrium AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 562,
-            "y": 879
-          }
-        ]
-      },
-      {
-        "name": "(OC) The Lock Caverns Map",
-        "sections": [
-          {
-            "name": "(OC) The Lock Caverns Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 560,
-            "y": 1037
-          }
-        ]
-      },
-      {
-        "name": "(OC) The Lock Mythril Shard",
-        "sections": [
-          {
-            "name": "(OC) The Lock Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 566,
-            "y": 1015
-          }
-        ]
-      },
-      {
-        "name": "(OC) The Lock AP Boost",
-        "sections": [
-          {
-            "name": "(OC) The Lock AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "OC",
-            "x": 612,
-            "y": 1040
+            "map": "HT",
+            "x": 358,
+            "y": 1016
           }
         ]
       }
@@ -3769,412 +3295,6 @@
     ]
   },
   {
-    "name": "Pride Lands",
-    "access_rules": ["Proud Fang 1"],
-    "children": [
-      {
-        "name": "(PL) Gorge Savannah Map",
-        "sections": [
-          {
-            "name": "(PL) Gorge Savannah Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 72,
-            "y": 866
-          }
-        ]
-      },
-      {
-        "name": "(PL) Gorge Dark Gem",
-        "sections": [
-          {
-            "name": "(PL) Gorge Dark Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 83,
-            "y": 852
-          }
-        ]
-      },
-      {
-        "name": "(PL) Gorge Mythril Stone",
-        "sections": [
-          {
-            "name": "(PL) Gorge Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 38,
-            "y": 822
-          }
-        ]
-      },
-      {
-        "name": "(PL) Elephant Graveyard Frost Gem",
-        "sections": [
-          {
-            "name": "(PL) Elephant Graveyard Frost Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 217,
-            "y": 718
-          }
-        ]
-      },
-      {
-        "name": "(PL) Elephant Graveyard Mythril Stone",
-        "sections": [
-          {
-            "name": "(PL) Elephant Graveyard Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 310,
-            "y": 723
-          }
-        ]
-      },
-      {
-        "name": "(PL) Elephant Graveyard Bright Stone",
-        "sections": [
-          {
-            "name": "(PL) Elephant Graveyard Bright Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 394,
-            "y": 683
-          }
-        ]
-      },
-      {
-        "name": "(PL) Elephant Graveyard AP Boost",
-        "sections": [
-          {
-            "name": "(PL) Elephant Graveyard AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 271,
-            "y": 851
-          }
-        ]
-      },
-      {
-        "name": "(PL) Elephant Graveyard Mythril Shard",
-        "sections": [
-          {
-            "name": "(PL) Elephant Graveyard Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 324,
-            "y": 743
-          }
-        ]
-      },
-      {
-        "name": "(PL) Pride Rock Map",
-        "sections": [
-          {
-            "name": "(PL) Pride Rock Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 440,
-            "y": 405
-          }
-        ]
-      },
-      {
-        "name": "(PL) Pride Rock Mythril Stone",
-        "sections": [
-          {
-            "name": "(PL) Pride Rock Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 483,
-            "y": 372
-          }
-        ]
-      },
-      {
-        "name": "(PL) Pride Rock Serenity Crystal",
-        "sections": [
-          {
-            "name": "(PL) Pride Rock Serenity Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 452,
-            "y": 362
-          }
-        ]
-      },
-      {
-        "name": "(PL) Wildebeest Valley Energy Stone",
-        "sections": [
-          {
-            "name": "(PL) Wildebeest Valley Energy Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 573,
-            "y": 800
-          }
-        ]
-      },
-      {
-        "name": "(PL) Wildebeest Valley AP Boost",
-        "sections": [
-          {
-            "name": "(PL) Wildebeest Valley AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 605,
-            "y": 822
-          }
-        ]
-      },
-      {
-        "name": "(PL) Wildebeest Valley Mythril Gem",
-        "sections": [
-          {
-            "name": "(PL) Wildebeest Valley Mythril Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 599,
-            "y": 865
-          }
-        ]
-      },
-      {
-        "name": "(PL) Wildebeest Valley Mythril Stone",
-        "sections": [
-          {
-            "name": "(PL) Wildebeest Valley Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 546,
-            "y": 816
-          }
-        ]
-      },
-      {
-        "name": "(PL) Wildebeest Valley Lucid Gem",
-        "sections": [
-          {
-            "name": "(PL) Wildebeest Valley Lucid Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 653,
-            "y": 890
-          }
-        ]
-      },
-      {
-        "name": "(PL) Wastelands Mythril Shard",
-        "sections": [
-          {
-            "name": "(PL) Wastelands Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 653,
-            "y": 1089
-          }
-        ]
-      },
-      {
-        "name": "(PL) Wastelands Serenity Gem",
-        "sections": [
-          {
-            "name": "(PL) Wastelands Serenity Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 648,
-            "y": 1155
-          }
-        ]
-      },
-      {
-        "name": "(PL) Wastelands Mythril Stone",
-        "sections": [
-          {
-            "name": "(PL) Wastelands Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 637,
-            "y": 1222
-          }
-        ]
-      },
-      {
-        "name": "(PL) Jungle Serenity Gem",
-        "sections": [
-          {
-            "name": "(PL) Jungle Serenity Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 854,
-            "y": 1283
-          }
-        ]
-      },
-      {
-        "name": "(PL) Jungle Mythril Stone",
-        "sections": [
-          {
-            "name": "(PL) Jungle Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 911,
-            "y": 1283
-          }
-        ]
-      },
-      {
-        "name": "(PL) Jungle Serenity Crystal",
-        "sections": [
-          {
-            "name": "(PL) Jungle Serenity Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 842,
-            "y": 1274
-          }
-        ]
-      },
-      {
-        "name": "(PL) Oasis Map",
-        "sections": [
-          {
-            "name": "(PL) Oasis Map",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 1108,
-            "y": 1196
-          }
-        ]
-      },
-      {
-        "name": "(PL) Oasis Torn Pages",
-        "sections": [
-          {
-            "name": "(PL) Oasis Torn Pages",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 1107,
-            "y": 1149
-          }
-        ]
-      },
-      {
-        "name": "(PL) Oasis AP Boost",
-        "sections": [
-          {
-            "name": "(PL) Oasis AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "PL",
-            "x": 1070,
-            "y": 1152
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Space Paranoids",
     "access_rules": ["Identity Disk 1"],
     "children": [
@@ -4411,952 +3531,2147 @@
     ]
   },
   {
-    "name": "The World That Never Was",
-    "access_rules": ["Way to the Dawn"],
+    "name": "Beasts Castle",
+    "access_rules": ["Beast's Claw 1"],
     "children": [
       {
-        "name": "(TWTNW) Fragment Crossing Mythril Stone",
+        "name": "(BC) Courtyard AP Boost",
         "sections": [
           {
-            "name": "(TWTNW) Fragment Crossing Mythril Stone",
+            "name": "(BC) Courtyard AP Boost",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
-            "x": 135,
-            "y": 398
+            "map": "BC",
+            "x": 461,
+            "y": 553
           }
         ]
       },
       {
-        "name": "(TWTNW) Fragment Crossing Mythril Crystal",
+        "name": "(BC) Courtyard Hi-Potion",
         "sections": [
           {
-            "name": "(TWTNW) Fragment Crossing Mythril Crystal",
+            "name": "(BC) Courtyard Hi-Potion",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
-            "x": 135,
-            "y": 324
+            "map": "BC",
+            "x": 533,
+            "y": 521
           }
         ]
       },
       {
-        "name": "(TWTNW) Fragment Crossing AP Boost",
+        "name": "(BC) Courtyard Mythril Shard",
         "sections": [
           {
-            "name": "(TWTNW) Fragment Crossing AP Boost",
+            "name": "(BC) Courtyard Mythril Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
-            "x": 260,
-            "y": 352
+            "map": "BC",
+            "x": 514,
+            "y": 561
           }
         ]
       },
       {
-        "name": "(TWTNW) Fragment Crossing Orichalcum",
+        "name": "(BC) Belle's Room Castle Map",
         "sections": [
           {
-            "name": "(TWTNW) Fragment Crossing Orichalcum",
+            "name": "(BC) Belle's Room Castle Map",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
-            "x": 214,
-            "y": 316
+            "map": "BC",
+            "x": 735,
+            "y": 438
           }
         ]
       },
       {
-        "name": "(TWTNW) Memory's Skyscaper Mythril Crystal",
+        "name": "(BC) Belle's Room Mega-Recipe",
         "sections": [
           {
-            "name": "(TWTNW) Memory's Skyscaper Mythril Crystal",
+            "name": "(BC) Belle's Room Mega-Recipe",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
-            "x": 64,
-            "y": 190
+            "map": "BC",
+            "x": 768,
+            "y": 442
           }
         ]
       },
       {
-        "name": "(TWTNW) Memory's Skyscaper AP Boost",
+        "name": "(BC) The East Wing Mythril Shard",
         "sections": [
           {
-            "name": "(TWTNW) Memory's Skyscaper AP Boost",
+            "name": "(BC) The East Wing Mythril Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
-            "x": 124,
-            "y": 187
+            "map": "BC",
+            "x": 652,
+            "y": 386
           }
         ]
       },
       {
-        "name": "(TWTNW) Memory's Skyscaper Mythril Stone",
+        "name": "(BC) The East Wing Tent",
         "sections": [
           {
-            "name": "(TWTNW) Memory's Skyscaper Mythril Stone",
+            "name": "(BC) The East Wing Tent",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
-            "x": 49,
-            "y": 175
+            "map": "BC",
+            "x": 702,
+            "y": 383
           }
         ]
       },
       {
-        "name": "(TWTNW) The Brink of Despair Dark City Map",
+        "name": "(BC) The West Hall Hi-Potion",
         "sections": [
           {
-            "name": "(TWTNW) The Brink of Despair Dark City Map",
+            "name": "(BC) The West Hall Hi-Potion",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
-            "x": 34,
-            "y": 57
+            "map": "BC",
+            "x": 344,
+            "y": 386
           }
         ]
       },
       {
-        "name": "(TWTNW) The Brink of Despair Orichalcum+",
+        "name": "(BC) The West Hall Mythril Shard",
         "sections": [
           {
-            "name": "(TWTNW) The Brink of Despair Orichalcum+",
+            "name": "(BC) The West Hall Mythril Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-DC",
+            "map": "BC",
+            "x": 326,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "name": "(BC) The West Hall Power Shard",
+        "sections": [
+          {
+            "name": "(BC) The West Hall Power Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 305,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "(BC) The West Hall Mythril Shard 2",
+        "sections": [
+          {
+            "name": "(BC) The West Hall Mythril Shard 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 314,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "(BC) The West Hall Bright Stone",
+        "sections": [
+          {
+            "name": "(BC) The West Hall Bright Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 294,
+            "y": 289
+          }
+        ]
+      },
+      {
+        "name": "(BC) The West Hall AP Boost Post Dungeon",
+        "sections": [
+          {
+            "name": "(BC) The West Hall AP Boost Post Dungeon",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 340,
+            "y": 329
+          }
+        ]
+      },
+      {
+        "name": "(BC) Dungeon Basement Map",
+        "sections": [
+          {
+            "name": "(BC) Dungeon Basement Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 58,
+            "y": 314
+          }
+        ]
+      },
+      {
+        "name": "(BC) Dungeon AP Boost",
+        "sections": [
+          {
+            "name": "(BC) Dungeon AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
             "x": 23,
-            "y": 48
+            "y": 315
           }
         ]
       },
       {
-        "name": "(TWTNW) Nothing's Call Mythril Gem",
+        "name": "(BC) Secret Passage Mythril Shard",
         "sections": [
           {
-            "name": "(TWTNW) Nothing's Call Mythril Gem",
+            "name": "(BC) Secret Passage Mythril Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TWTNW-Castle",
-            "x": 332,
-            "y": 1326
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Nothing's Call Orichalcum",
-        "sections": [
-          {
-            "name": "(TWTNW) Nothing's Call Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 331,
-            "y": 1430
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Twilight's View Cosmic Belt",
-        "sections": [
-          {
-            "name": "(TWTNW) Twilight's View Cosmic Belt",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 319,
-            "y": 1093
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Naught's Skyway Mythril Gem",
-        "sections": [
-          {
-            "name": "(TWTNW) Naught's Skyway Mythril Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 322,
-            "y": 644
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Naught's Skyway Orichalcum",
-        "sections": [
-          {
-            "name": "(TWTNW) Naught's Skyway Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 435,
-            "y": 691
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Naught's Skyway Mythril Crystal",
-        "sections": [
-          {
-            "name": "(TWTNW) Naught's Skyway Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 414,
-            "y": 640
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Ruin and Creation's Passage Mythril Stone",
-        "sections": [
-          {
-            "name": "(TWTNW) Ruin and Creation's Passage Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 315,
-            "y": 402
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Ruin and Creation's Passage AP Boost",
-        "sections": [
-          {
-            "name": "(TWTNW) Ruin and Creation's Passage AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 252,
-            "y": 373
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Ruin and Creation's Passage Mythril Crystal",
-        "sections": [
-          {
-            "name": "(TWTNW) Ruin and Creation's Passage Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 274,
-            "y": 443
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Ruin and Creation's Passage Orichalcum",
-        "sections": [
-          {
-            "name": "(TWTNW) Ruin and Creation's Passage Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TWTNW-Castle",
-            "x": 206,
-            "y": 467
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Twilight Town",
-    "access_rules": ["Ice Cream 1"],
-    "children": [
-      {
-        "name": "(TT) Old Mansion Potion",
-        "sections": [
-          {
-            "name": "(TT) Old Mansion Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 677,
-            "y": 335
-          }
-        ]
-      },
-      {
-        "name": "(TT) Old Mansion Mythril Shard",
-        "sections": [
-          {
-            "name": "(TT) Old Mansion Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 712,
-            "y": 270
-          }
-        ]
-      },
-      {
-        "name": "(TT) The Woods Potion",
-        "sections": [
-          {
-            "name": "(TT) The Woods Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 684,
-            "y": 461
-          }
-        ]
-      },
-      {
-        "name": "(TT) The Woods Mythril Shard",
-        "sections": [
-          {
-            "name": "(TT) The Woods Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 646,
-            "y": 454
-          }
-        ]
-      },
-      {
-        "name": "(TT) The Woods Hi-Potion",
-        "sections": [
-          {
-            "name": "(TT) The Woods Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 658,
-            "y": 495
-          }
-        ]
-      },
-      {
-        "name": "(TT) Tram Common Hi-Potion",
-        "sections": [
-          {
-            "name": "(TT) Tram Common Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 500,
-            "y": 493
-          }
-        ]
-      },
-      {
-        "name": "(TT) Tram Common AP Boost",
-        "sections": [
-          {
-            "name": "(TT) Tram Common AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 542,
-            "y": 456
-          }
-        ]
-      },
-      {
-        "name": "(TT) Tram Common Tent",
-        "sections": [
-          {
-            "name": "(TT) Tram Common Tent",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 487,
-            "y": 423
-          }
-        ]
-      },
-      {
-        "name": "(TT) Tram Common Mythril Shard 1",
-        "sections": [
-          {
-            "name": "(TT) Tram Common Mythril Shard 1",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 501,
-            "y": 474
-          }
-        ]
-      },
-      {
-        "name": "(TT) Tram Common Potion 1",
-        "sections": [
-          {
-            "name": "(TT) Tram Common Potion 1",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 519,
-            "y": 507
-          }
-        ]
-      },
-      {
-        "name": "(TT) Tram Common Mythril Shard 2",
-        "sections": [
-          {
-            "name": "(TT) Tram Common Mythril Shard 2",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 445,
-            "y": 469
-          }
-        ]
-      },
-      {
-        "name": "(TT) Tram Common Potion 2",
-        "sections": [
-          {
-            "name": "(TT) Tram Common Potion 2",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 407,
-            "y": 543
-          }
-        ]
-      },
-      {
-        "name": "(TT) Central Station Tent",
-        "sections": [
-          {
-            "name": "(TT) Central Station Tent",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 230,
-            "y": 144
-          }
-        ]
-      },
-      {
-        "name": "(TT) Central Station Hi-Potion",
-        "sections": [
-          {
-            "name": "(TT) Central Station Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 324,
-            "y": 176
-          }
-        ]
-      },
-      {
-        "name": "(TT) Central Station Mythril Shard",
-        "sections": [
-          {
-            "name": "(TT) Central Station Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 407,
-            "y": 140
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Twilight Town Third Visit",
-    "access_rules": ["Ice Cream 3"],
-    "children": [
-      {
-        "name": "(TT3) Underground Concourse Mythril Gem",
-        "sections": [
-          {
-            "name": "(TT3) Underground Concourse Mythril Gem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 244,
-            "y": 967
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Underground Concourse Orichalcum",
-        "sections": [
-          {
-            "name": "(TT3) Underground Concourse Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 306,
-            "y": 961
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Underground Concourse AP Boost",
-        "sections": [
-          {
-            "name": "(TT3) Underground Concourse AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 271,
-            "y": 946
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Underground Concourse Mythril Crystal",
-        "sections": [
-          {
-            "name": "(TT3) Underground Concourse Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 354,
-            "y": 954
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Tunnelway Orichalcum",
-        "sections": [
-          {
-            "name": "(TT3) Tunnelway Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 219,
-            "y": 1144
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Tunnelway Mythril Crystal",
-        "sections": [
-          {
-            "name": "(TT3) Tunnelway Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 343,
-            "y": 1175
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Sunset Terrace Orichalcum+",
-        "sections": [
-          {
-            "name": "(TT3) Sunset Terrace Orichalcum+",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 398,
-            "y": 1330
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Sunset Terrace Mythril Shard",
-        "sections": [
-          {
-            "name": "(TT3) Sunset Terrace Mythril Shard",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 304,
-            "y": 1346
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Sunset Terrace Mythril Crystal",
-        "sections": [
-          {
-            "name": "(TT3) Sunset Terrace Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 387,
-            "y": 1327
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Sunset Terrace AP Boost",
-        "sections": [
-          {
-            "name": "(TT3) Sunset Terrace AP Boost",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 389,
-            "y": 1250
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Mansion Foyer Mythril Crystal",
-        "sections": [
-          {
-            "name": "(TT3) Mansion Foyer Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 688,
-            "y": 80
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Mansion Foyer Mythril Stone",
-        "sections": [
-          {
-            "name": "(TT3) Mansion Foyer Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 704,
-            "y": 84
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Mansion Foyer Serenity Crystal",
-        "sections": [
-          {
-            "name": "(TT3) Mansion Foyer Serenity Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 678,
-            "y": 69
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Mansion Dining Room Mythril Crystal",
-        "sections": [
-          {
-            "name": "(TT3) Mansion Dining Room Mythril Crystal",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 570,
-            "y": 90
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Mansion Dining Room Mythril Stone",
-        "sections": [
-          {
-            "name": "(TT3) Mansion Dining Room Mythril Stone",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 621,
-            "y": 75
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Mansion Library Orichalcum",
-        "sections": [
-          {
-            "name": "(TT3) Mansion Library Orichalcum",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 777,
-            "y": 137
-          }
-        ]
-      },
-      {
-        "name": "(TT3) Mansion Basement Corridor Ultimate Recipe",
-        "sections": [
-          {
-            "name": "(TT3) Mansion Basement Corridor Ultimate Recipe",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT",
-            "x": 996,
-            "y": 238
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Twilight Town - Tower",
-    "access_rules": ["Ice Cream 1"],
-    "children": [
-      {
-        "name": "(TT) The Tower Potion",
-        "sections": [
-          {
-            "name": "(TT) The Tower Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT-MT",
-            "x": 159,
-            "y": 579
-          }
-        ]
-      },
-      {
-        "name": "(TT) The Tower Hi-Potion",
-        "sections": [
-          {
-            "name": "(TT) The Tower Hi-Potion",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT-MT",
-            "x": 142,
-            "y": 563
-          }
-        ]
-      },
-      {
-        "name": "(TT) The Tower Ether",
-        "sections": [
-          {
-            "name": "(TT) The Tower Ether",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TT-MT",
-            "x": 149,
+            "map": "BC",
+            "x": 210,
             "y": 536
           }
         ]
       },
       {
-        "name": "(TT) Tower Entryway Ether",
+        "name": "(BC) Secret Passage Hi-Potion",
         "sections": [
           {
-            "name": "(TT) Tower Entryway Ether",
+            "name": "(BC) Secret Passage Hi-Potion",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TT-MT",
-            "x": 196,
-            "y": 492
+            "map": "BC",
+            "x": 232,
+            "y": 534
           }
         ]
       },
       {
-        "name": "(TT) Tower Entryway Mythril Shard",
+        "name": "(BC) Secret Passage Lucid Shard",
         "sections": [
           {
-            "name": "(TT) Tower Entryway Mythril Shard",
+            "name": "(BC) Secret Passage Lucid Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TT-MT",
-            "x": 190,
-            "y": 454
+            "map": "BC",
+            "x": 280,
+            "y": 522
           }
         ]
       },
       {
-        "name": "(TT) Sorcerer's Loft Tower Map",
+        "name": "(BC) The West Wing Mythril Shard",
         "sections": [
           {
-            "name": "(TT) Sorcerer's Loft Tower Map",
+            "name": "(BC) The West Wing Mythril Shard",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TT-MT",
-            "x": 210,
-            "y": 113
+            "map": "BC",
+            "x": 373,
+            "y": 252
           }
         ]
       },
       {
-        "name": "(TT) Tower Wardrobe Mythril Stone",
+        "name": "(BC) The West Wing Tent",
         "sections": [
           {
-            "name": "(TT) Tower Wardrobe Mythril Stone",
+            "name": "(BC) The West Wing Tent",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "TT-MT",
-            "x": 248,
-            "y": 70
+            "map": "BC",
+            "x": 328,
+            "y": 209
+          }
+        ]
+      },
+      {
+        "name": "(BC) The Beast's Room Blazing Shard",
+        "sections": [
+          {
+            "name": "(BC) The Beast's Room Blazing Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 385,
+            "y": 57
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Olympus Coliseum",
+    "access_rules": ["Battlefields of War 1"],
+    "children": [
+      {
+        "name": "(OC) Underworld Entrance Power Boost",
+        "sections": [
+          {
+            "name": "(OC) Underworld Entrance Power Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 246,
+            "y": 508
+          }
+        ]
+      },
+      {
+        "name": "(OC) Passage Mythril Shard",
+        "sections": [
+          {
+            "name": "(OC) Passage Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 136,
+            "y": 776
+          }
+        ]
+      },
+      {
+        "name": "(OC) Passage Mythril Stone",
+        "sections": [
+          {
+            "name": "(OC) Passage Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 152,
+            "y": 803
+          }
+        ]
+      },
+      {
+        "name": "(OC) Passage Ether",
+        "sections": [
+          {
+            "name": "(OC) Passage Ether",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 198,
+            "y": 797
+          }
+        ]
+      },
+      {
+        "name": "(OC) Passage AP Boost",
+        "sections": [
+          {
+            "name": "(OC) Passage AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 169,
+            "y": 836
+          }
+        ]
+      },
+      {
+        "name": "(OC) Passage Hi-Potion",
+        "sections": [
+          {
+            "name": "(OC) Passage Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 133,
+            "y": 862
+          }
+        ]
+      },
+      {
+        "name": "(OC) Inner Chamber Underworld Map",
+        "sections": [
+          {
+            "name": "(OC) Inner Chamber Underworld Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 58,
+            "y": 985
+          }
+        ]
+      },
+      {
+        "name": "(OC) Inner Chamber Mythril Shard",
+        "sections": [
+          {
+            "name": "(OC) Inner Chamber Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 81,
+            "y": 934
+          }
+        ]
+      },
+      {
+        "name": "(OC) Caverns Entrance Lucid Shard",
+        "sections": [
+          {
+            "name": "(OC) Caverns Entrance Lucid Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 360,
+            "y": 594
+          }
+        ]
+      },
+      {
+        "name": "(OC) Caverns Entrance AP Boost",
+        "sections": [
+          {
+            "name": "(OC) Caverns Entrance AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 351,
+            "y": 607
+          }
+        ]
+      },
+      {
+        "name": "(OC) Caverns Entrance Mythril Shard",
+        "sections": [
+          {
+            "name": "(OC) Caverns Entrance Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 318,
+            "y": 594
+          }
+        ]
+      },
+      {
+        "name": "(OC) The Lost Road Bright Shard",
+        "sections": [
+          {
+            "name": "(OC) The Lost Road Bright Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 446,
+            "y": 690
+          }
+        ]
+      },
+      {
+        "name": "(OC) The Lost Road Ether",
+        "sections": [
+          {
+            "name": "(OC) The Lost Road Ether",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 422,
+            "y": 768
+          }
+        ]
+      },
+      {
+        "name": "(OC) The Lost Road Mythril Shard",
+        "sections": [
+          {
+            "name": "(OC) The Lost Road Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 510,
+            "y": 804
+          }
+        ]
+      },
+      {
+        "name": "(OC) The Lost Road Mythril Stone",
+        "sections": [
+          {
+            "name": "(OC) The Lost Road Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 507,
+            "y": 672
+          }
+        ]
+      },
+      {
+        "name": "(OC) Atrium Lucid Stone",
+        "sections": [
+          {
+            "name": "(OC) Atrium Lucid Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 566,
+            "y": 862
+          }
+        ]
+      },
+      {
+        "name": "(OC) Atrium AP Boost",
+        "sections": [
+          {
+            "name": "(OC) Atrium AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 562,
+            "y": 879
+          }
+        ]
+      },
+      {
+        "name": "(OC) The Lock Caverns Map",
+        "sections": [
+          {
+            "name": "(OC) The Lock Caverns Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 560,
+            "y": 1037
+          }
+        ]
+      },
+      {
+        "name": "(OC) The Lock Mythril Shard",
+        "sections": [
+          {
+            "name": "(OC) The Lock Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 566,
+            "y": 1015
+          }
+        ]
+      },
+      {
+        "name": "(OC) The Lock AP Boost",
+        "sections": [
+          {
+            "name": "(OC) The Lock AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 612,
+            "y": 1040
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood",
+    "children": [
+      {
+        "name": "(100Acre) Pooh's House 100 Acre Wood Map",
+        "sections": [
+          {
+            "name": "(100Acre) Pooh's House 100 Acre Wood Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 621,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Pooh's House AP Boost",
+        "sections": [
+          {
+            "name": "(100Acre) Pooh's House AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 614,
+            "y": 194
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Pooh's House Mythril Stone",
+        "sections": [
+          {
+            "name": "(100Acre) Pooh's House Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 600,
+            "y": 195
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 2nd Visit",
+    "access_rules": ["Torn Page 1"],
+    "children": [
+      {
+        "name": "(100Acre) Piglet's House Defense Boost",
+        "sections": [
+          {
+            "name": "(100Acre) Piglet's House Defense Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 587,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Piglet's House AP Boost",
+        "sections": [
+          {
+            "name": "(100Acre) Piglet's House AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 551,
+            "y": 363
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Piglet's House Mythril Gem",
+        "sections": [
+          {
+            "name": "(100Acre) Piglet's House Mythril Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 553,
+            "y": 387
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 3rd Visit",
+    "access_rules": ["Torn Page 2"],
+    "children": [
+      {
+        "name": "(100Acre) Rabbit's House Draw Ring",
+        "sections": [
+          {
+            "name": "(100Acre) Rabbit's House Draw Ring",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 555,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Rabbit's House Mythril Crystal",
+        "sections": [
+          {
+            "name": "(100Acre) Rabbit's House Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 537,
+            "y": 505
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Rabbit's House AP Boost",
+        "sections": [
+          {
+            "name": "(100Acre) Rabbit's House AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 551,
+            "y": 513
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 4th Visit",
+    "access_rules": ["Torn Page 3"],
+    "children": [
+      {
+        "name": "(100Acre) Kanga's House Magic Boost",
+        "sections": [
+          {
+            "name": "(100Acre) Kanga's House Magic Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 587,
+            "y": 645
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Kanga's House AP Boost",
+        "sections": [
+          {
+            "name": "(100Acre) Kanga's House AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 559,
+            "y": 643
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Kanga's House Orichalcum",
+        "sections": [
+          {
+            "name": "(100Acre) Kanga's House Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 521,
+            "y": 656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 5th Visit",
+    "access_rules": ["Torn Page 4"],
+    "children": [
+      {
+        "name": "(100Acre) Spooky Cave Mythril Gem",
+        "sections": [
+          {
+            "name": "(100Acre) Spooky Cave Mythril Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 614,
+            "y": 749
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Spooky Cave AP Boost",
+        "sections": [
+          {
+            "name": "(100Acre) Spooky Cave AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 552,
+            "y": 721
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Spooky Cave Orichalcum",
+        "sections": [
+          {
+            "name": "(100Acre) Spooky Cave Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 570,
+            "y": 844
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Spooky Cave Guard Recipe",
+        "sections": [
+          {
+            "name": "(100Acre) Spooky Cave Guard Recipe",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 525,
+            "y": 835
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Spooky Cave Mythril Crystal",
+        "sections": [
+          {
+            "name": "(100Acre) Spooky Cave Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 523,
+            "y": 820
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Spooky Cave AP Boost 2",
+        "sections": [
+          {
+            "name": "(100Acre) Spooky Cave AP Boost 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 509,
+            "y": 869
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 6th Visit",
+    "access_rules": ["Torn Page 5"],
+    "children": [
+      {
+        "name": "(100Acre) Sweet Memories",
+        "sections": [
+          {
+            "name": "(100Acre) Sweet Memories",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 600,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Spooky Cave Map",
+        "sections": [
+          {
+            "name": "(100Acre) Spooky Cave Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 600,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Starry Hill Cosmic Ring",
+        "sections": [
+          {
+            "name": "(100Acre) Starry Hill Cosmic Ring",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 570,
+            "y": 966
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Starry Hill Style Recipe",
+        "sections": [
+          {
+            "name": "(100Acre) Starry Hill Style Recipe",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "100Acre",
+            "x": 613,
+            "y": 939
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Starry Hill Cure Element",
+        "sections": [
+          {
+            "name": "(100Acre) Starry Hill Cure Element",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 600,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "name": "(100Acre) Starry Hill Orichalcum+",
+        "sections": [
+          {
+            "name": "(100Acre) Starry Hill Orichalcum+",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 600,
+            "y": 195
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Disney Castle",
+    "access_rules": ["Disney Castle Key 1"],
+    "children": [
+      {
+        "name": "(DC) Courtyard Mythril Shard",
+        "sections": [
+          {
+            "name": "(DC) Courtyard Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 271,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "name": "(DC) Courtyard Star Recipe",
+        "sections": [
+          {
+            "name": "(DC) Courtyard Star Recipe",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 271,
+            "y": 378
+          }
+        ]
+      },
+      {
+        "name": "(DC) Courtyard AP Boost",
+        "sections": [
+          {
+            "name": "(DC) Courtyard AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 236,
+            "y": 416
+          }
+        ]
+      },
+      {
+        "name": "(DC) Courtyard Mythril Stone",
+        "sections": [
+          {
+            "name": "(DC) Courtyard Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 297,
+            "y": 379
+          }
+        ]
+      },
+      {
+        "name": "(DC) Courtyard Blazing Stone",
+        "sections": [
+          {
+            "name": "(DC) Courtyard Blazing Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 249,
+            "y": 359
+          }
+        ]
+      },
+      {
+        "name": "(DC) Courtyard Blazing Shard",
+        "sections": [
+          {
+            "name": "(DC) Courtyard Blazing Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 264,
+            "y": 378
+          }
+        ]
+      },
+      {
+        "name": "(DC) Courtyard Mythril Shard 2",
+        "sections": [
+          {
+            "name": "(DC) Courtyard Mythril Shard 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 288,
+            "y": 368
+          }
+        ]
+      },
+      {
+        "name": "(DC) Library Torn Pages",
+        "sections": [
+          {
+            "name": "(DC) Library Torn Pages",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 68,
+            "y": 279
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Timeless River",
+    "access_rules": ["Disney Castle Key 2"],
+    "children": [
+      {
+        "name": "(TR) Cornerstone Hill Map",
+        "sections": [
+          {
+            "name": "(TR) Cornerstone Hill Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 46,
+            "y": 258
+          }
+        ]
+      },
+      {
+        "name": "(TR) Cornerstone Hill Frost Shard",
+        "sections": [
+          {
+            "name": "(TR) Cornerstone Hill Frost Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 63,
+            "y": 237
+          }
+        ]
+      },
+      {
+        "name": "(TR) Pier Mythril Shard",
+        "sections": [
+          {
+            "name": "(TR) Pier Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 185,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "(TR) Pier Hi-Potion",
+        "sections": [
+          {
+            "name": "(TR) Pier Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 144,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "(TR) Waterway Mythril Stone",
+        "sections": [
+          {
+            "name": "(TR) Waterway Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 300,
+            "y": 233
+          }
+        ]
+      },
+      {
+        "name": "(TR) Waterway AP Boost",
+        "sections": [
+          {
+            "name": "(TR) Waterway AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 323,
+            "y": 217
+          }
+        ]
+      },
+      {
+        "name": "(TR) Waterway Frost Stone",
+        "sections": [
+          {
+            "name": "(TR) Waterway Frost Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 278,
+            "y": 269
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agraba",
+    "access_rules": ["Scimitar 1"],
+    "children": [
+      {
+        "name": "(AG) Agrabah Dark Shard",
+        "sections": [
+          {
+            "name": "(AG) Agrabah Dark Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 682,
+            "y": 233
+          }
+        ]
+      },
+      {
+        "name": "(AG) Agrabah Mythril Shard",
+        "sections": [
+          {
+            "name": "(AG) Agrabah Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 741,
+            "y": 288
+          }
+        ]
+      },
+      {
+        "name": "(AG) Agrabah Hi-Potion",
+        "sections": [
+          {
+            "name": "(AG) Agrabah Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 761,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "(AG) Agrabah AP Boost",
+        "sections": [
+          {
+            "name": "(AG) Agrabah AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 620,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "(AG) Agrabah Mythril Stone",
+        "sections": [
+          {
+            "name": "(AG) Agrabah Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 655,
+            "y": 266
+          }
+        ]
+      },
+      {
+        "name": "(AG) Agrabah Mythril Shard 2",
+        "sections": [
+          {
+            "name": "(AG) Agrabah Mythril Shard 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 657,
+            "y": 231
+          }
+        ]
+      },
+      {
+        "name": "(AG) Agrabah Serenity Shard",
+        "sections": [
+          {
+            "name": "(AG) Agrabah Serenity Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 673,
+            "y": 188
+          }
+        ]
+      },
+      {
+        "name": "(AG) Bazaar Mythril Gem",
+        "sections": [
+          {
+            "name": "(AG) Bazaar Mythril Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 781,
+            "y": 393
+          }
+        ]
+      },
+      {
+        "name": "(AG) Bazaar Power Shard",
+        "sections": [
+          {
+            "name": "(AG) Bazaar Power Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 746,
+            "y": 402
+          }
+        ]
+      },
+      {
+        "name": "(AG) Bazaar Hi-Potion",
+        "sections": [
+          {
+            "name": "(AG) Bazaar Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 735,
+            "y": 441
+          }
+        ]
+      },
+      {
+        "name": "(AG) Bazaar AP Boost",
+        "sections": [
+          {
+            "name": "(AG) Bazaar AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 750,
+            "y": 427
+          }
+        ]
+      },
+      {
+        "name": "(AG) Bazaar Mythril Shard",
+        "sections": [
+          {
+            "name": "(AG) Bazaar Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 767,
+            "y": 434
+          }
+        ]
+      },
+      {
+        "name": "(AG) Palace Walls Skill Ring",
+        "sections": [
+          {
+            "name": "(AG) Palace Walls Skill Ring",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 751,
+            "y": 510
+          }
+        ]
+      },
+      {
+        "name": "(AG) Palace Walls Mythril Stone",
+        "sections": [
+          {
+            "name": "(AG) Palace Walls Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 769,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "(AG) Cave Entrance Power Stone",
+        "sections": [
+          {
+            "name": "(AG) Cave Entrance Power Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 800,
+            "y": 1047
+          }
+        ]
+      },
+      {
+        "name": "(AG) Cave Entrance Mythril Shard",
+        "sections": [
+          {
+            "name": "(AG) Cave Entrance Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 768,
+            "y": 1048
+          }
+        ]
+      },
+      {
+        "name": "(AG) Valley of Stone Mythril Stone",
+        "sections": [
+          {
+            "name": "(AG) Valley of Stone Mythril Stone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 696,
+            "y": 1114
+          }
+        ]
+      },
+      {
+        "name": "(AG) Valley of Stone AP Boost",
+        "sections": [
+          {
+            "name": "(AG) Valley of Stone AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 677,
+            "y": 1163
+          }
+        ]
+      },
+      {
+        "name": "(AG) Valley of Stone Mythril Shard",
+        "sections": [
+          {
+            "name": "(AG) Valley of Stone Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 717,
+            "y": 1161
+          }
+        ]
+      },
+      {
+        "name": "(AG) Valley of Stone Hi-Potion",
+        "sections": [
+          {
+            "name": "(AG) Valley of Stone Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 737,
+            "y": 1131
+          }
+        ]
+      },
+      {
+        "name": "(AG) Abu Escort Bonus: Sora Slot 1",
+        "sections": [
+          {
+            "name": "(AG) Abu Escort Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 1,
+            "y": 1
+          }
+        ]
+      },
+      {
+        "name": "(AG) Chasm of Challenges Cave of Wonders Map",
+        "sections": [
+          {
+            "name": "(AG) Chasm of Challenges Cave of Wonders Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 364,
+            "y": 995
+          }
+        ]
+      },
+      {
+        "name": "(AG) Chasm of Challenges AP Boost",
+        "sections": [
+          {
+            "name": "(AG) Chasm of Challenges AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 414,
+            "y": 995
+          }
+        ]
+      },
+      {
+        "name": "(AG) Treasure Room",
+        "sections": [
+          {
+            "name": "(AG) Treasure Room",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 1,
+            "y": 1
+          }
+        ]
+      },
+      {
+        "name": "(AG) Treasure Room AP Boost",
+        "sections": [
+          {
+            "name": "(AG) Treasure Room AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 393,
+            "y": 818
+          }
+        ]
+      },
+      {
+        "name": "(AG) Treasure Room Serenity Gem",
+        "sections": [
+          {
+            "name": "(AG) Treasure Room Serenity Gem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 368,
+            "y": 858
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agraba Second Visit",
+    "access_rules": ["Scimitar 2"],
+    "children": [
+      {
+        "name": "(AG2) Ruined Chamber Torn Pages",
+        "sections": [
+          {
+            "name": "(AG2) Ruined Chamber Torn Pages",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 143,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "(AG2) Ruined Chamber Ruins Map",
+        "sections": [
+          {
+            "name": "(AG2) Ruined Chamber Ruins Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 175,
+            "y": 191
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Land of Dragons",
+    "access_rules": ["Sword of the Ancestor 1"],
+    "children": [
+      {
+        "name": "(LoD) Bamboo Grove Dark Shard",
+        "sections": [
+          {
+            "name": "(LoD) Bamboo Grove Dark Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 91,
+            "y": 939
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Bamboo Grove Ether",
+        "sections": [
+          {
+            "name": "(LoD) Bamboo Grove Ether",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 89,
+            "y": 901
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Bamboo Grove Mythril Shard",
+        "sections": [
+          {
+            "name": "(LoD) Bamboo Grove Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 110,
+            "y": 908
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Checkpoint Hi-Potion",
+        "sections": [
+          {
+            "name": "(LoD) Checkpoint Hi-Potion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 261,
+            "y": 830
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Checkpoint Mythril Shard",
+        "sections": [
+          {
+            "name": "(LoD) Checkpoint Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 265,
+            "y": 876
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Mountain Trail Lightning Shard",
+        "sections": [
+          {
+            "name": "(LoD) Mountain Trail Lightning Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 121,
+            "y": 695
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Mountain Trail Recovery Recipe",
+        "sections": [
+          {
+            "name": "(LoD) Mountain Trail Recovery Recipe",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 158,
+            "y": 622
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Mountain Trail Ether",
+        "sections": [
+          {
+            "name": "(LoD) Mountain Trail Ether",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 161,
+            "y": 648
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Mountain Trail Mythril Shard",
+        "sections": [
+          {
+            "name": "(LoD) Mountain Trail Mythril Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 174,
+            "y": 698
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Village Cave AP Boost",
+        "sections": [
+          {
+            "name": "(LoD) Village Cave AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 439,
+            "y": 499
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Village Cave Dark Shard",
+        "sections": [
+          {
+            "name": "(LoD) Village Cave Dark Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 453,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Ridge Frost Shard",
+        "sections": [
+          {
+            "name": "(LoD) Ridge Frost Shard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 354,
+            "y": 279
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Ridge AP Boost",
+        "sections": [
+          {
+            "name": "(LoD) Ridge AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 363,
+            "y": 252
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Land of Dragons Second Visit",
+    "access_rules": ["Sword of the Ancestor 2"],
+    "children": [
+      {
+        "name": "(LoD2) Throne Room Torn Pages",
+        "sections": [
+          {
+            "name": "(LoD2) Throne Room Torn Pages",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 712,
+            "y": 339
+          }
+        ]
+      },
+      {
+        "name": "(LoD2) Throne Room Palace Map",
+        "sections": [
+          {
+            "name": "(LoD2) Throne Room Palace Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 673,
+            "y": 343
+          }
+        ]
+      },
+      {
+        "name": "(LoD2) Throne Room AP Boost",
+        "sections": [
+          {
+            "name": "(LoD2) Throne Room AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 711,
+            "y": 349
+          }
+        ]
+      },
+      {
+        "name": "(LoD2) Throne Room Queen Recipe",
+        "sections": [
+          {
+            "name": "(LoD2) Throne Room Queen Recipe",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 723,
+            "y": 356
+          }
+        ]
+      },
+      {
+        "name": "(LoD2) Throne Room AP Boost 2",
+        "sections": [
+          {
+            "name": "(LoD2) Throne Room AP Boost 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 673,
+            "y": 351
+          }
+        ]
+      },
+      {
+        "name": "(LoD2) Throne Room Ogre Shield",
+        "sections": [
+          {
+            "name": "(LoD2) Throne Room Ogre Shield",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 662,
+            "y": 356
+          }
+        ]
+      },
+      {
+        "name": "(LoD2) Throne Room Mythril Crystal",
+        "sections": [
+          {
+            "name": "(LoD2) Throne Room Mythril Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 699,
+            "y": 339
+          }
+        ]
+      },
+      {
+        "name": "(LoD2) Throne Room Orichalcum",
+        "sections": [
+          {
+            "name": "(LoD2) Throne Room Orichalcum",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 688,
+            "y": 339
           }
         ]
       }
