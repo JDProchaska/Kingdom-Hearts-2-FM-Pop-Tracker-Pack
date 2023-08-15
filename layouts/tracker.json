@@ -62,10 +62,17 @@
               }
             },
             {
-              "title": "Hollow Bastion",
+              "title": "Hollow Bastion 1",
               "content": {
                 "type": "map",
-                "maps": ["HB"]
+                "maps": ["HB1"]
+              }
+            },
+            {
+              "title": "Hollow Bastion 2",
+              "content": {
+                "type": "map",
+                "maps": ["HB2"]
               }
             },
             {
@@ -154,6 +161,11 @@
             {
               "type": "layout",
               "key": "visit_locks"
+            },
+            {
+              "type": "layout",
+              "dock": "bottom",
+              "key": "important_checks"
             }
           ]
         }

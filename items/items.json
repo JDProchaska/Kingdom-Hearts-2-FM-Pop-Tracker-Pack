@@ -6,15 +6,15 @@
     "stages": [
       {
         "codes": "Ice Cream 1",
-        "img": "images/worlds/Twilight Town.png"
+        "img": "images/worlds/Twilight Town 1.png"
       },
       {
         "codes": "Ice Cream 2",
-        "img": "images/worlds/Twilight Town.png"
+        "img": "images/worlds/Twilight Town 2.png"
       },
       {
         "codes": "Ice Cream 3",
-        "img": "images/worlds/Twilight Town.png"
+        "img": "images/worlds/Twilight Town 3.png"
       }
     ]
   },
@@ -25,23 +25,23 @@
     "stages": [
       {
         "codes": "Torn Page 1",
-        "img": "images/worlds/100 Acre Wood.png"
+        "img": "images/worlds/100 Acre Wood 1.png"
       },
       {
         "codes": "Torn Page 2",
-        "img": "images/worlds/100 Acre Wood.png"
+        "img": "images/worlds/100 Acre Wood 2.png"
       },
       {
         "codes": "Torn Page 3",
-        "img": "images/worlds/100 Acre Wood.png"
+        "img": "images/worlds/100 Acre Wood 3.png"
       },
       {
         "codes": "Torn Page 4",
-        "img": "images/worlds/100 Acre Wood.png"
+        "img": "images/worlds/100 Acre Wood 4.png"
       },
       {
         "codes": "Torn Page 5",
-        "img": "images/worlds/100 Acre Wood.png"
+        "img": "images/worlds/100 Acre Wood 5.png"
       }
     ]
   },
@@ -52,11 +52,11 @@
     "stages": [
       {
         "codes": "Bone Fist 1",
-        "img": "images/worlds/Halloween Town.png"
+        "img": "images/worlds/Halloween Town 1.png"
       },
       {
         "codes": "Bone Fist 2",
-        "img": "images/worlds/Halloween Town.png"
+        "img": "images/worlds/Halloween Town 2.png"
       }
     ]
   },
@@ -84,11 +84,11 @@
     "codes": "Battlefields of War",
     "stages": [
       {
-        "img": "images/worlds/Olympus Coliseum.png",
+        "img": "images/worlds/Olympus Coliseum 1.png",
         "codes": "Battlefields of War 1"
       },
       {
-        "img": "images/worlds/Olympus Coliseum.png",
+        "img": "images/worlds/Olympus Coliseum 2.png",
         "codes": "Battlefields of War 2"
       }
     ]
@@ -99,26 +99,26 @@
     "codes": "Sword of the Ancestor",
     "stages": [
       {
-        "img": "images/worlds/Land of Dragons.png",
+        "img": "images/worlds/Land of Dragons 1.png",
         "codes": "Sword of the Ancestor 1"
       },
       {
-        "img": "images/worlds/Land of Dragons.png",
+        "img": "images/worlds/Land of Dragons 2.png",
         "codes": "Sword of the Ancestor 2"
       }
     ]
   },
   {
     "name": "Beast's Claw",
-    "type": "toggle",
+    "type": "progressive",
     "codes": "Beast's Claw",
     "stages": [
       {
-        "img": "images/worlds/Beast's Castle.png",
+        "img": "images/worlds/Beasts Castle 1.png",
         "codes": "Beast's Claw 1"
       },
       {
-        "img": "images/worlds/Beast's Castle.png",
+        "img": "images/worlds/Beasts Castle 2.png",
         "codes": "Beast's Claw 2"
       }
     ]
@@ -129,11 +129,11 @@
     "codes": "Proud Fang",
     "stages": [
       {
-        "img": "images/worlds/Pride Lands.png",
+        "img": "images/worlds/Pride Lands 1.png",
         "codes": "Proud Fang 1"
       },
       {
-        "img": "images/worlds/Pride Lands.png",
+        "img": "images/worlds/Pride Lands 2.png",
         "codes": "Proud Fang 2"
       }
     ]
@@ -144,11 +144,11 @@
     "codes": "Skull and Crossbones",
     "stages": [
       {
-        "img": "images/worlds/Port Royal.png",
+        "img": "images/worlds/Port Royal 1.png",
         "codes": "Skull and Crossbones 1"
       },
       {
-        "img": "images/worlds/Port Royal.png",
+        "img": "images/worlds/Port Royal 2.png",
         "codes": "Skull and Crossbones 2"
       }
     ]
@@ -159,11 +159,11 @@
     "codes": "Scimitar",
     "stages": [
       {
-        "img": "images/worlds/Agrabah.png",
+        "img": "images/worlds/Agrabah 1.png",
         "codes": "Scimitar 1"
       },
       {
-        "img": "images/worlds/Agrabah.png",
+        "img": "images/worlds/Agrabah 2.png",
         "codes": "Scimitar 2"
       }
     ]
@@ -174,18 +174,18 @@
     "codes": "Membership Card",
     "stages": [
       {
-        "img": "images/worlds/Hollow Bastion.png",
+        "img": "images/worlds/Hollow Bastion 1.png",
         "codes": "Membership Card 1"
       },
       {
-        "img": "images/worlds/Hollow Bastion.png",
+        "img": "images/worlds/Hollow Bastion 2.png",
         "codes": "Membership Card 2"
       }
     ]
   },
   {
     "name": "Way to the Dawn",
-    "img": "images/worlds/The_World_That_Never_Was.png",
+    "img": "images/worlds/The_World_That_Never_Was 2.png",
     "type": "toggle",
     "codes": "Way to the Dawn"
   },
@@ -201,11 +201,11 @@
     "codes": "Identity Disk",
     "stages": [
       {
-        "img": "images/worlds/Space Paranoids.png",
+        "img": "images/worlds/Space Paranoids 1.png",
         "codes": "Identity Disk 1"
       },
       {
-        "img": "images/worlds/Space Paranoids.png",
+        "img": "images/worlds/Space Paranoids 2.png",
         "codes": "Identity Disk 2"
       }
     ]
@@ -216,14 +216,44 @@
     "codes": "Disney Castle Key",
     "stages": [
       {
-        "img": "images/worlds/Disney Castle.png",
+        "img": "images/worlds/Disney Castle 1.png",
         "codes": "Disney Castle Key 1"
       },
       {
-        "img": "images/worlds/Disney Castle.png",
+        "img": "images/worlds/Disney Castle 2.png",
         "codes": "Disney Castle Key 2"
       }
     ]
+  },
+  {
+    "name": "Valor Form",
+    "img": "images/items/Important Checks/Valor.png",
+    "type": "toggle",
+    "codes": "Valor Form"
+  },
+  {
+    "name": "Wisdom Form",
+    "img": "images/items/Important Checks/Wisdom.png",
+    "type": "toggle",
+    "codes": "Wisdom Form"
+  },
+  {
+    "name": "Limit Form",
+    "img": "images/items/Important Checks/Limit.png",
+    "type": "toggle",
+    "codes": "Limit Form"
+  },
+  {
+    "name": "Master Form",
+    "img": "images/items/Important Checks/Master.png",
+    "type": "toggle",
+    "codes": "Master Form"
+  },
+  {
+    "name": "Final Form",
+    "img": "images/items/Important Checks/Final.png",
+    "type": "toggle",
+    "codes": "Final Form"
   },
   {
     "name": "Secret Ansem's Report 1",
@@ -292,31 +322,37 @@
   },
   {
     "name": "Fire Element",
+    "img": "images/items/Important Checks/Fire.png",
     "type": "toggle",
     "codes": "Fire Element"
   },
   {
     "name": "Blizzard Element",
+    "img": "images/items/Important Checks/Blizzard.png",
     "type": "toggle",
     "codes": "Blizzard Element"
   },
   {
     "name": "Thunder Element",
+    "img": "images/items/Important Checks/Thunder.png",
     "type": "toggle",
     "codes": "Thunder Element"
   },
   {
     "name": "Cure Element",
+    "img": "images/items/Important Checks/Cure.png",
     "type": "toggle",
     "codes": "Cure Element"
   },
   {
     "name": "Magnet Element",
+    "img": "images/items/Important Checks/Magnet.png",
     "type": "toggle",
     "codes": "Magnet Element"
   },
   {
     "name": "Reflect Element",
+    "img": "images/items/Important Checks/Reflect.png",
     "type": "toggle",
     "codes": "Reflect Element"
   },
