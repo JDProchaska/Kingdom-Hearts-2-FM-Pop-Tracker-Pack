@@ -3,13 +3,13 @@
     "name": "100Acre",
     "location_size": 12,
     "location_border_thickness": 2,
-    "img": "images/maps/100Acre.png"
+    "img": "images/maps/100 Acre Woods/100Acre-ReSized.png"
   },
   {
     "name": "AG",
     "location_size": 12,
     "location_border_thickness": 2,
-    "img": "images/maps/AG.png"
+    "img": "images/maps/AG/AG-ReSized.png"
   },
   {
     "name": "BC",
@@ -33,13 +33,19 @@
     "name": "HT",
     "location_size": 12,
     "location_border_thickness": 2,
-    "img": "images/maps/HT.png"
+    "img": "images/maps/HT/HT.png"
   },
   {
-    "name": "HB",
+    "name": "HB1",
     "location_size": 12,
     "location_border_thickness": 2,
-    "img": "images/maps/HB.png"
+    "img": "images/maps/HB/HB 1.png"
+  },
+  {
+    "name": "HB2",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/HB/HB 2.png"
   },
   {
     "name": "CoR",

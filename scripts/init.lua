@@ -29,7 +29,8 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
 end
 
 -- Layout
-Tracker:AddLayouts("layouts/items.json")
+Tracker:AddLayouts("layouts/visit_locks.json")
+Tracker:AddLayouts("layouts/important_checks.json")
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 
