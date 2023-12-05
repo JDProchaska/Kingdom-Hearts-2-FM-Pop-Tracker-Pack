@@ -1,0 +1,17 @@
+﻿{
+  "shared_item_grid": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "layout",
+        "dock": "top",
+        "key": "visit_locks"
+      },
+      {
+        "type": "layout",
+        "dock": "bottom",
+        "key": "important_checks"
+      }
+    ]
+  }
+}

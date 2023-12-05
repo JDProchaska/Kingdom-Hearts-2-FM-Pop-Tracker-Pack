@@ -1,18 +1,46 @@
 {
   "important_checks": {
-    "type": "itemgrid",
-    "item_margin": "5,5",
-    "item_size": "40,40",
-    "rows": [
-      [
-        "Fire Element",
-        "Blizzard Element",
-        "Thunder Element",
-        "Cure Element",
-        "Magnet Element",
-        "Reflect Element"
-      ],
-      ["Valor Form", "Wisdom Form", "Limit Form", "Master Form", "Final Form"]
+    "type": "dock",
+    "content": [
+      {
+        "type": "group",
+        "header": "Magic",
+        "content": {
+          "type": "itemgrid",
+          "dock": "bottom",
+          "item_margin": "5,5",
+          "item_size": "40,40",
+          "rows": [
+            [
+              "Fire Element",
+              "Blizzard Element",
+              "Thunder Element",
+              "Cure Element",
+              "Magnet Element",
+              "Reflect Element"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Drive Forms",
+        "content": {
+          "type": "itemgrid",
+          "dock": "bottom",
+          "item_margin": "5,5",
+          "item_size": "40,40",
+          "rows": [
+            [
+              "Valor Form",
+              "Wisdom Form",
+              "Limit Form",
+              "Master Form",
+              "Final Form"
+            ]
+          ]
+        }
+      }
     ]
   }
 }

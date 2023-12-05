@@ -4,7 +4,7 @@ ENABLE_DEBUG_LOG = true
 -- get current variant
 local variant = Tracker.ActiveVariantUID
 -- check variant info
-IS_ITEMS_ONLY = variant:find("itemsonly")
+IS_ITEMS_ONLY = variant:find("var_itemsonly")
 
 print("-- Example Tracker --")
 print("Loaded variant: ", variant)
@@ -29,9 +29,10 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
 end
 
 -- Layout
+Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/visit_locks.json")
 Tracker:AddLayouts("layouts/important_checks.json")
-Tracker:AddLayouts("layouts/tracker.json")
+Tracker:AddLayouts("layouts/shared_item_grid.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 
 -- AutoTracking for Poptracker

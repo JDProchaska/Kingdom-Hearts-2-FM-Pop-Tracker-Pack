@@ -214,7 +214,7 @@
   },
   {
     "name": "The World That Never Was - Castle",
-    "access_rules": ["Way to the Dawn"],
+    "access_rules": ["Way to the Dawn:1"],
     "children": [
       {
         "name": "(TWTNW) Nothing's Call Mythril Gem",
@@ -620,7 +620,7 @@
   },
   {
     "name": "Twilight Town",
-    "access_rules": ["Ice Cream 1"],
+    "access_rules": ["Ice Cream:1"],
     "children": [
       {
         "name": "(TT) Old Mansion Potion",
@@ -866,7 +866,7 @@
   },
   {
     "name": "Twilight Town Third Visit",
-    "access_rules": ["Ice Cream 3"],
+    "access_rules": ["Ice Cream:3"],
     "children": [
       {
         "name": "(TT3) Underground Concourse Mythril Gem",
@@ -1144,7 +1144,7 @@
   },
   {
     "name": "Twilight Town - Tower",
-    "access_rules": ["Ice Cream 1"],
+    "access_rules": ["Ice Cream:1"],
     "children": [
       {
         "name": "(TT) The Tower Potion",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Pride Lands",
-    "access_rules": ["Proud Fang 1"],
+    "access_rules": ["Proud Fang:1"],
     "children": [
       {
         "name": "(PL) Gorge Savannah Map",
@@ -1959,7 +1959,7 @@
   },
   {
     "name": "Hollow Bastion",
-    "access_rules": ["Membership Card 1"],
+    "access_rules": ["Membership Card:1"],
     "children": [
       {
         "name": "(HB) Borough Drive Recovery",
@@ -2045,7 +2045,7 @@
   },
   {
     "name": "Hollow Bastion Second Visit",
-    "access_rules": ["Membership Card  2"],
+    "access_rules": ["Membership Card:2"],
     "children": [
       {
         "name": "(HB2) Postern Castle Perimeter Map",
@@ -2323,7 +2323,7 @@
   },
   {
     "name": "Hollow Bastion - Cavern of Remembrance",
-    "access_rules": ["Membership Card 2"],
+    "access_rules": ["Membership Card:2"],
     "children": [
       {
         "name": "(CoR) Depths AP Boost",
@@ -2718,7 +2718,7 @@
   },
   {
     "name": "Halloween Town",
-    "access_rules": ["Bone Fist 1"],
+    "access_rules": ["Bone Fist:1"],
     "children": [
       {
         "name": "(HT) Graveyard Mythril Shard",
@@ -2948,7 +2948,7 @@
   },
   {
     "name": "Port Royal",
-    "access_rules": ["Skull and Crossbones 1"],
+    "access_rules": ["Skull and Crossbones:1"],
     "children": [
       {
         "name": "(PR) Rampart Naval Map",
@@ -3178,7 +3178,7 @@
   },
   {
     "name": "Port Royal Second Visit",
-    "access_rules": ["Skull and Crossbones 2"],
+    "access_rules": ["Skull and Crossbones:2"],
     "children": [
       {
         "name": "(PR2) Interceptor's Hold Feather Charm",
@@ -3296,7 +3296,7 @@
   },
   {
     "name": "Space Paranoids",
-    "access_rules": ["Identity Disk 1"],
+    "access_rules": ["Identity Disk:1"],
     "children": [
       {
         "name": "(SP) Pit Cell Area Map",
@@ -3462,7 +3462,7 @@
   },
   {
     "name": "Space Paranoids Second Visit",
-    "access_rules": ["Identity Disk 2"],
+    "access_rules": ["Identity Disk:2"],
     "children": [
       {
         "name": "(SP2) Central Computer Core AP Boost",
@@ -3532,7 +3532,7 @@
   },
   {
     "name": "Beasts Castle",
-    "access_rules": ["Beast's Claw 1"],
+    "access_rules": ["Beast's Claw:1"],
     "children": [
       {
         "name": "(BC) Courtyard AP Boost",
@@ -3874,7 +3874,7 @@
   },
   {
     "name": "Olympus Coliseum",
-    "access_rules": ["Battlefields of War 1"],
+    "access_rules": ["Battlefields of War:1"],
     "children": [
       {
         "name": "(OC) Underworld Entrance Power Boost",
@@ -4253,7 +4253,7 @@
   },
   {
     "name": "100 Acre Wood 2nd Visit",
-    "access_rules": ["Torn Page 1"],
+    "access_rules": ["Torn Page:1"],
     "children": [
       {
         "name": "(100Acre) Piglet's House Defense Boost",
@@ -4307,7 +4307,7 @@
   },
   {
     "name": "100 Acre Wood 3rd Visit",
-    "access_rules": ["Torn Page 2"],
+    "access_rules": ["Torn Page:2"],
     "children": [
       {
         "name": "(100Acre) Rabbit's House Draw Ring",
@@ -4361,7 +4361,7 @@
   },
   {
     "name": "100 Acre Wood 4th Visit",
-    "access_rules": ["Torn Page 3"],
+    "access_rules": ["Torn Page:3"],
     "children": [
       {
         "name": "(100Acre) Kanga's House Magic Boost",
@@ -4415,7 +4415,7 @@
   },
   {
     "name": "100 Acre Wood 5th Visit",
-    "access_rules": ["Torn Page 4"],
+    "access_rules": ["Torn Page:4"],
     "children": [
       {
         "name": "(100Acre) Spooky Cave Mythril Gem",
@@ -4517,7 +4517,7 @@
   },
   {
     "name": "100 Acre Wood 6th Visit",
-    "access_rules": ["Torn Page 5"],
+    "access_rules": ["Torn Page:5"],
     "children": [
       {
         "name": "(100Acre) Sweet Memories",
@@ -4619,7 +4619,7 @@
   },
   {
     "name": "Disney Castle",
-    "access_rules": ["Disney Castle Key 1"],
+    "access_rules": ["Disney Castle Key:1"],
     "children": [
       {
         "name": "(DC) Courtyard Mythril Shard",
@@ -4753,7 +4753,7 @@
   },
   {
     "name": "Timeless River",
-    "access_rules": ["Disney Castle Key 2"],
+    "access_rules": ["Disney Castle Key:2"],
     "children": [
       {
         "name": "(TR) Cornerstone Hill Map",
@@ -4871,7 +4871,7 @@
   },
   {
     "name": "Agraba",
-    "access_rules": ["Scimitar 1"],
+    "access_rules": ["Scimitar:1"],
     "children": [
       {
         "name": "(AG) Agrabah Dark Shard",
@@ -5293,7 +5293,7 @@
   },
   {
     "name": "Agraba Second Visit",
-    "access_rules": ["Scimitar 2"],
+    "access_rules": ["Scimitar:2"],
     "children": [
       {
         "name": "(AG2) Ruined Chamber Torn Pages",
@@ -5331,7 +5331,7 @@
   },
   {
     "name": "Land of Dragons",
-    "access_rules": ["Sword of the Ancestor 1"],
+    "access_rules": ["Sword of the Ancestor:1"],
     "children": [
       {
         "name": "(LoD) Bamboo Grove Dark Shard",
@@ -5545,7 +5545,7 @@
   },
   {
     "name": "Land of Dragons Second Visit",
-    "access_rules": ["Sword of the Ancestor 2"],
+    "access_rules": ["Sword of the Ancestor:2"],
     "children": [
       {
         "name": "(LoD2) Throne Room Torn Pages",

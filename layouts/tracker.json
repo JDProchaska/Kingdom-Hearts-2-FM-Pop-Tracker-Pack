@@ -1,18 +1,9 @@
 ﻿{
   "tracker_default": {
     "type": "container",
-    "background": "#000000",
     "content": {
       "type": "dock",
-      "dropshadow": false,
-      "content": []
-    }
-  },
-  "tracker_horizontal": {
-    "type": "container",
-    "background": "#000000",
-    "content": {
-      "type": "dock",
+      "background": "#0A1136",
       "dock": "right",
       "dropshadow": false,
       "content": [
@@ -21,6 +12,7 @@
           "tabs": [
             {
               "title": "100 Acre Woods",
+              //"background": "#37200b",
               "content": {
                 "type": "map",
                 "maps": ["100Acre"]
@@ -160,12 +152,7 @@
           "content": [
             {
               "type": "layout",
-              "key": "visit_locks"
-            },
-            {
-              "type": "layout",
-              "dock": "bottom",
-              "key": "important_checks"
+              "key": "shared_item_grid"
             }
           ]
         }
