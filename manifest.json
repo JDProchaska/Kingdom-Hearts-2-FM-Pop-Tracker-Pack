@@ -4,7 +4,7 @@
 {
   "name": "Kingdom Hearts 2 Randomizer",
   "game_name": "Kingdom Hearts 2",
-  "package_version": "0.4",
+  "package_version": "0.5",
   "package_uid": "kh2fm_JDProchaska",
   "platform": "PC",
   "author": "JDProchaska",
@@ -15,6 +15,14 @@
     },
     "var_itemsonly": {
       "display_name": "Items Only",
+      "flags": ["ap"]
+    },
+    "var_lucky_emblem_items": {
+      "display_name": "Lucky Emblem and Items Only",
+      "flags": ["ap"]
+    },
+    "var_bounty_items": {
+      "display_name": "Bounty and Items Only",
       "flags": ["ap"]
     }
   }

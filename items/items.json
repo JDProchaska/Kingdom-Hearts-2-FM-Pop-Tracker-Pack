@@ -25,20 +25,26 @@
   },
   {
     "name": "Proof of Connection",
-    "img": "images/items/proof_of_connection.png",
-    "type": "toggle",
+    "img": "images/items/proofs/Proof of Connection.png",
+    "type": "consumable",
+    "max_quantity": 1,
+    "overlay_font_size": 24,
     "codes": "Proof of Connection"
   },
   {
     "name": "Proof of Nonexistence",
-    "img": "images/items/proof_of_nonexistence.png",
-    "type": "toggle",
+    "img": "images/items/proofs/Proof of Nonexistence.png",
+    "type": "consumable",
+    "max_quantity": 1,
+    "overlay_font_size": 24,
     "codes": "Proof of Nonexistence"
   },
   {
     "name": "Proof of Peace",
-    "img": "images/items/proof_of_tranquility.png",
-    "type": "toggle",
+    "img": "images/items/proofs/Proof of Tranquility.png",
+    "type": "consumable",
+    "max_quantity": 1,
+    "overlay_font_size": 24,
     "codes": "Proof of Peace"
   },
   {
@@ -99,7 +105,7 @@
   },
   {
     "name": "Way to the Dawn",
-    "img": "images/worlds/The_World_That_Never_Was.png",
+    "img": "images/worlds/The World That Never Was.png",
     "type": "consumable",
     "codes": "Way to the Dawn",
     "max_quantity": 2,
@@ -107,7 +113,7 @@
   },
   {
     "name": "Namine Sketches",
-    "img": "images/worlds/Twilight Town.png",
+    "img": "images/worlds/Simulated Twilight Town.png",
     "type": "toggle",
     "codes": "Namine Sketches"
   },
@@ -129,31 +135,31 @@
   },
   {
     "name": "Valor Form",
-    "img": "images/items/Important Checks/Valor.png",
+    "img": "images/items/Important Checks/Valor Orb.png",
     "type": "toggle",
     "codes": "Valor Form"
   },
   {
     "name": "Wisdom Form",
-    "img": "images/items/Important Checks/Wisdom.png",
+    "img": "images/items/Important Checks/Wisdom Orb.png",
     "type": "toggle",
     "codes": "Wisdom Form"
   },
   {
     "name": "Limit Form",
-    "img": "images/items/Important Checks/Limit.png",
+    "img": "images/items/Important Checks/Limit Orb.png",
     "type": "toggle",
     "codes": "Limit Form"
   },
   {
     "name": "Master Form",
-    "img": "images/items/Important Checks/Master.png",
+    "img": "images/items/Important Checks/Master Orb.png",
     "type": "toggle",
     "codes": "Master Form"
   },
   {
     "name": "Final Form",
-    "img": "images/items/Important Checks/Final.png",
+    "img": "images/items/Important Checks/Final Orb.png",
     "type": "toggle",
     "codes": "Final Form"
   },
@@ -1247,7 +1253,9 @@
   },
   {
     "name": "Lucky Emblem",
-    "type": "toggle",
+    "type": "consumable",
+    "img": "images/items/Important Checks/Lucky Emblem.png",
+    "overlay_font_size": 24,
     "codes": "Lucky Emblem"
   },
   {
@@ -1257,7 +1265,9 @@
   },
   {
     "name": "Bounty",
-    "type": "toggle",
+    "type": "consumable",
+    "img": "images/items/Important Checks/Bounty.png",
+    "overlay_font_size": 24,
     "codes": "Bounty"
   },
   {

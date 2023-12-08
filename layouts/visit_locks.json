@@ -5,7 +5,6 @@
     "content": {
       "type": "itemgrid",
       "dock": "bottom",
-      "background": "#000000",
       "item_margin": "7,7",
       "item_size": "70,70",
       "rows": [

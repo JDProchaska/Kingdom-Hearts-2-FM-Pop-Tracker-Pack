@@ -9,7 +9,7 @@
           "type": "itemgrid",
           "dock": "bottom",
           "item_margin": "5,5",
-          "item_size": "40,40",
+          "item_size": "45,45",
           "rows": [
             [
               "Fire Element",
@@ -29,7 +29,7 @@
           "type": "itemgrid",
           "dock": "bottom",
           "item_margin": "5,5",
-          "item_size": "40,40",
+          "item_size": "60,60",
           "rows": [
             [
               "Valor Form",
