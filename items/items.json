@@ -80,9 +80,9 @@
     "img": "images/worlds/Pride Lands.png"
   },
   {
-    "name": "Skull and Crossbones",
+    "name": "Skill and Crossbones",
     "type": "consumable",
-    "codes": "Skull and Crossbones",
+    "codes": "Skill and Crossbones",
     "max_quantity": 2,
     "overlay_font_size": 24,
     "img": "images/worlds/Port Royal.png"
