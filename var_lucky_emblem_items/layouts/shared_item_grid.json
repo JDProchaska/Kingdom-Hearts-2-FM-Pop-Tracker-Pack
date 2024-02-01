@@ -13,15 +13,13 @@
       },
       {
         "type": "group",
-        "dock": "bottom",
-        "header": "Proofs",
+        "header": "Lucky Emblems",
         "content": {
           "type": "itemgrid",
-          "item_margin": "5,5",
-          "item_size": "80,80",
-          "rows": [
-            ["Proof of Connection", "Proof of Nonexistence", "Proof of Peace"]
-          ]
+          "dock": "bottom",
+          "item_margin": "7,7",
+          "item_size": "70,70",
+          "rows": [["Lucky Emblem"]]
         }
       }
     ]

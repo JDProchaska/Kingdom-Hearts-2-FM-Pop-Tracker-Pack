@@ -2948,7 +2948,7 @@
   },
   {
     "name": "Port Royal",
-    "access_rules": ["Skull and Crossbones:1"],
+    "access_rules": ["Skill and Crossbones:1"],
     "children": [
       {
         "name": "(PR) Rampart Naval Map",
@@ -3178,7 +3178,7 @@
   },
   {
     "name": "Port Royal Second Visit",
-    "access_rules": ["Skull and Crossbones:2"],
+    "access_rules": ["Skill and Crossbones:2"],
     "children": [
       {
         "name": "(PR2) Interceptor's Hold Feather Charm",

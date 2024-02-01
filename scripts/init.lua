@@ -4,7 +4,7 @@ ENABLE_DEBUG_LOG = true
 -- get current variant
 local variant = Tracker.ActiveVariantUID
 -- check variant info
-IS_ITEMS_ONLY = variant:find("var_itemsonly")
+IS_MAP = variant:find("standard")
 
 print("-- Example Tracker --")
 print("Loaded variant: ", variant)
@@ -21,7 +21,7 @@ Tracker:AddItems("items/items.json")
 ScriptHost:LoadScript("scripts/logic/logic.lua")
 
 
-if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
+if IS_MAP then -- <--- use variant info to optimize loading
     -- Maps
     Tracker:AddMaps("maps/maps.json")    
     -- Locations

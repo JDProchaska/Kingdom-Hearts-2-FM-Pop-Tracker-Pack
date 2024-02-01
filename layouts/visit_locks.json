@@ -5,7 +5,6 @@
     "content": {
       "type": "itemgrid",
       "dock": "bottom",
-      "background": "#000000",
       "item_margin": "7,7",
       "item_size": "70,70",
       "rows": [
@@ -14,7 +13,7 @@
         [
           "Sword of the Ancestor",
           "Battlefields of War",
-          "Skull and Crossbones"
+          "Skill and Crossbones"
         ],
         ["Proud Fang", "Namine Sketches", "Identity Disk"],
         ["Ice Cream", "Way to the Dawn"]
