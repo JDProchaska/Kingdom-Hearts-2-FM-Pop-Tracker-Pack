@@ -19,7 +19,7 @@
               }
             },
             {
-              "title": "Agraba",
+              "title": "Agrabah",
               "content": {
                 "type": "map",
                 "maps": ["AG"]
@@ -82,7 +82,7 @@
               }
             },
             {
-              "title": "Olympus Colosium",
+              "title": "Olympus Coliseum",
               "content": {
                 "type": "map",
                 "maps": ["OC"]
