@@ -65,7 +65,13 @@
             "y": 316
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "The World That Never Was - Castle",
+    "access_rules": ["Way to the Dawn:1"],
+    "children": [
       {
         "name": "(TWTNW) Roxas Bonus: Sora Slot 1",
         "sections": [
@@ -209,13 +215,7 @@
             "y": 48
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "The World That Never Was - Castle",
-    "access_rules": ["Way to the Dawn:1"],
-    "children": [
+      },
       {
         "name": "(TWTNW) Nothing's Call Mythril Gem",
         "sections": [
@@ -5293,7 +5293,9 @@
   },
   {
     "name": "Agraba Second Visit",
-    "access_rules": ["Scimitar:2"],
+    "access_rules": [
+      "Scimitar:2, Fire Element:1, Blizzard Element:1, Thunder Element:1"
+    ],
     "children": [
       {
         "name": "(AG2) Ruined Chamber Torn Pages",
