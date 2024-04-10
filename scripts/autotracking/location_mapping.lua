@@ -35,7 +35,6 @@ LOCATIONS = {
     { "(TWTNW) Xemnas 1 Bonus: Sora Slot 1" },
     { "(TWTNW) Xemnas 1 Bonus: Sora Slot 2" },
     { "(TWTNW) Xemnas 1 Secret Ansem Report 13" },
-    { "Final Xemnas" },
     { "Data Xemnas" },
     { "@Twilight Town/(TT) Old Mansion Potion/(TT) Old Mansion Potion" },
     { "@Twilight Town/(TT) Old Mansion Mythril Shard/(TT) Old Mansion Mythril Shard" },

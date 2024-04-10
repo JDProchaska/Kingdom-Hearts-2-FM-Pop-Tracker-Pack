@@ -240,7 +240,6 @@ ITEM_MAPPING = {
     ["Defense Boost"] = {"Defense Boost", "toggle"},
     ["AP Boost"] = {"AP Boost", "toggle"},
     ["Lucky Emblem"] = {"Lucky Emblem", "toggle"},
-    ["Victory"] = {"Victory", "toggle"},
     ["Bounty"] = {"Bounty", "toggle"},
     ["Donald Fire"] = {"Donald Fire", "toggle"},
     ["Donald Blizzard"] = {"Donald Blizzard", "toggle"},
