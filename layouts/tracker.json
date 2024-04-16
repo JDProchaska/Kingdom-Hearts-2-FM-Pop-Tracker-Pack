@@ -82,7 +82,7 @@
               }
             },
             {
-              "title": "Olympus Colosium",
+              "title": "Olympus Coliseum",
               "content": {
                 "type": "map",
                 "maps": ["OC"]
@@ -117,7 +117,7 @@
               }
             },
             {
-              "title": "Twighlight Town",
+              "title": "Twilight Town",
               "content": {
                 "type": "map",
                 "maps": ["TT"]
