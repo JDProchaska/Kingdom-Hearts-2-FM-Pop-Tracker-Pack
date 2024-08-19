@@ -456,6 +456,12 @@
           }
         ]
       },
+	]
+  },
+  {
+    "name": "The World That Never Was - Final",
+    "access_rules": ["Way to the Dawn:2"],
+    "children": [
       {
         "name": "(TWTNW) Secret Ansem Report 11 (Pre-Xemnas 1)",
         "sections": [
