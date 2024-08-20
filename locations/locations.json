@@ -73,56 +73,20 @@
     "access_rules": ["Way to the Dawn:1"],
     "children": [
       {
-        "name": "(TWTNW) Roxas Bonus: Sora Slot 1",
+        "name": "(TWTNW) Roxas",
         "sections": [
           {
             "name": "(TWTNW) Roxas Bonus: Sora Slot 1",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Roxas Bonus: Sora Slot 2",
-        "sections": [
+          },
           {
             "name": "(TWTNW) Roxas Bonus: Sora Slot 2",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Roxas Secret Ansem Report 8",
-        "sections": [
+          },
           {
             "name": "(TWTNW) Roxas Secret Ansem Report 8",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Two Become One",
-        "sections": [
+          },
           {
             "name": "(TWTNW) Two Become One",
             "item_count": 1
@@ -130,9 +94,9 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 0,
-            "y": 0
+            "map": "TWTNW-DC",
+            "x": 91,
+            "y": 234
           }
         ]
       },
@@ -265,24 +229,12 @@
         ]
       },
       {
-        "name": "(TWTNW) Xigbar Bonus: Sora Slot 1",
+        "name": "(TWTNW) Xigbar",
         "sections": [
           {
             "name": "(TWTNW) Xigbar Bonus: Sora Slot 1",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Xigbar Secret Ansem Report 3",
-        "sections": [
+          },
           {
             "name": "(TWTNW) Xigbar Secret Ansem Report 3",
             "item_count": 1
@@ -290,9 +242,9 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 0,
-            "y": 0
+            "map": "TWTNW-Castle",
+            "x": 343,
+            "y": 908
           }
         ]
       },
@@ -350,19 +302,7 @@
           {
             "name": "(TWTNW) Oblivion",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Castle That Never Was Map",
-        "sections": [
+          },
           {
             "name": "(TWTNW) Castle That Never Was Map",
             "item_count": 1
@@ -370,47 +310,23 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 0,
-            "y": 0
+            "map": "TWTNW-Castle",
+            "x": 343,
+            "y": 819
           }
         ]
       },
       {
-        "name": "(TWTNW) Luxord Bonus: Sora Slot 2",
-        "sections": [
-          {
-            "name": "(TWTNW) Luxord Bonus: Sora Slot 2",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Luxord Bonus: Sora Slot 1",
+        "name": "(TWTNW) Luxord",
         "sections": [
           {
             "name": "(TWTNW) Luxord Bonus: Sora Slot 1",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
+          },
           {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Luxord Secret Ansem Report 9",
-        "sections": [
+            "name": "(TWTNW) Luxord Bonus: Sora Slot 2",
+            "item_count": 1
+          },
           {
             "name": "(TWTNW) Luxord Secret Ansem Report 9",
             "item_count": 1
@@ -418,31 +334,19 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 0,
-            "y": 0
+            "map": "TWTNW-Castle",
+            "x": 67,
+            "y": 613
           }
         ]
       },
       {
-        "name": "(TWTNW) Saix Bonus: Sora Slot 1",
+        "name": "(TWTNW) Saix",
         "sections": [
           {
             "name": "(TWTNW) Saix Bonus: Sora Slot 1",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Saix Secret Ansem Report 12",
-        "sections": [
+          },
           {
             "name": "(TWTNW) Saix Secret Ansem Report 12",
             "item_count": 1
@@ -450,12 +354,12 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 0,
-            "y": 0
+            "map": "TWTNW-Castle",
+            "x": 226,
+            "y": 600
           }
         ]
-      },
+      }
 	]
   },
   {
@@ -472,9 +376,9 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 0,
-            "y": 0
+            "map": "TWTNW-Castle",
+            "x": 418,
+            "y": 356
           }
         ]
       },
@@ -543,40 +447,16 @@
         ]
       },
       {
-        "name": "(TWTNW) Xemnas 1 Bonus: Sora Slot 1",
+        "name": "Xemnas",
         "sections": [
           {
             "name": "(TWTNW) Xemnas 1 Bonus: Sora Slot 1",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Xemnas 1 Bonus: Sora Slot 2",
-        "sections": [
+          },
           {
             "name": "(TWTNW) Xemnas 1 Bonus: Sora Slot 2",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 0,
-            "y": 0
-          }
-        ]
-      },
-      {
-        "name": "(TWTNW) Xemnas 1 Secret Ansem Report 13",
-        "sections": [
+          },
           {
             "name": "(TWTNW) Xemnas 1 Secret Ansem Report 13",
             "item_count": 1
@@ -584,9 +464,9 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 0,
-            "y": 0
+            "map": "TWTNW-Castle",
+            "x": 256,
+            "y": 160
           }
         ]
       },
@@ -616,9 +496,9 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 0,
-            "y": 0
+            "map": "TWTNW-Castle",
+            "x": 270,
+            "y": 133
           }
         ]
       }
@@ -837,6 +717,30 @@
         ]
       },
       {
+        "name": "(TT) Station Plaza",
+        "sections": [
+          {
+            "name": "(TT) Station Plaza Secret Ansem Report 2",
+            "item_count": 1
+          },
+          {
+            "name": "(TT) Munny Pouch Mickey",
+            "item_count": 1
+          },
+          {
+            "name": "(TT) Crystal Orb",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 355,
+            "y": 253
+          }
+        ]
+      },
+      {
         "name": "(TT) Central Station Hi-Potion",
         "sections": [
           {
@@ -865,6 +769,48 @@
             "map": "TT",
             "x": 407,
             "y": 140
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twilight Town Second Visit",
+    "access_rules": ["Ice Cream:2"],
+    "children": [
+      {
+        "name": "(TT2) Seifer's Trophy",
+        "sections": [
+          {
+            "name": "(TT2) Seifer's Trophy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 387,
+            "y": 707
+          }
+        ]
+      },
+      {
+        "name": "(TT2) Limit Form",
+        "sections": [
+          {
+            "name": "(TT2) Limit Form",
+            "item_count": 1
+          },
+          {
+            "name": "(TT2) Oathkeeper",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 375,
+            "y": 253
           }
         ]
       }
@@ -1035,6 +981,26 @@
         ]
       },
       {
+        "name": "(TT3) Mansion Nobodies",
+        "sections": [
+          {
+            "name": "(TT3) Mansion Nobodies Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+		  {
+            "name": "(TT3) Mansion Nobodies Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 694,
+            "y": 360
+          }
+        ]
+      },
+      {
         "name": "(TT3) Mansion Foyer Mythril Crystal",
         "sections": [
           {
@@ -1131,6 +1097,22 @@
         ]
       },
       {
+        "name": "(TT3) Beam Secret Ansem Report 10",
+        "sections": [
+          {
+            "name": "(TT3) Beam Secret Ansem Report 10",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 1113,
+            "y": 113
+          }
+        ]
+      },
+      {
         "name": "(TT3) Mansion Basement Corridor Ultimate Recipe",
         "sections": [
           {
@@ -1143,6 +1125,42 @@
             "map": "TT",
             "x": 996,
             "y": 238
+          }
+        ]
+      },
+      {
+        "name": "(TT3) Betwixt and Between",
+        "sections": [
+          {
+            "name": "(TT3) Betwixt and Between",
+            "item_count": 1
+          },
+          {
+            "name": "(TT3) Betwixt and Between Bond of Flame",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 1326,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Data Axel",
+        "sections": [
+          {
+            "name": "Data Axel",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT",
+            "x": 1356,
+            "y": 235
           }
         ]
       }
@@ -1263,6 +1281,26 @@
             "y": 70
           }
         ]
+      },
+      {
+        "name": "(TT) Valor Form",
+        "sections": [
+          {
+            "name": "(TT) Valor Form",
+            "item_count": 1
+          },
+          {
+            "name": "(TT) Star Seeker",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TT-MT",
+            "x": 261,
+            "y": 46
+          }
+        ]
       }
     ]
   },
@@ -1270,6 +1308,66 @@
     "name": "Simulated Twilight Town",
     "access_rules": ["Namine Sketches"],
     "children": [
+      {
+        "name": "(STT) Twilight Town Map",
+        "sections": [
+          {
+            "name": "(STT) Twilight Town Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "STT",
+            "x": 80,
+            "y": 631
+          }
+        ]
+      },
+	  {
+        "name": "(STT) Munny Pouch Olette",
+        "sections": [
+          {
+            "name": "(STT) Munny Pouch Olette",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "STT",
+            "x": 365,
+            "y": 250
+          }
+        ]
+      },
+	  {
+        "name": "Struggle Tournament",
+        "sections": [
+          {
+            "name": "(STT) Axel 1",
+            "item_count": 1
+          },
+          {
+            "name": "(STT) Junk Champion Belt",
+            "item_count": 1
+          },
+          {
+            "name": "(STT) Junk Medal",
+            "item_count": 1
+          },
+          {
+            "name": "(STT) The Struggle Trophy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "STT",
+            "x": 387,
+            "y": 707
+          }
+        ]
+      },
       {
         "name": "(STT) Central Station Potion 1",
         "sections": [
@@ -1372,8 +1470,12 @@
         ]
       },
       {
-        "name": "(STT) Station of Calling Potion",
+        "name": "(STT) Station of Calling",
         "sections": [
+          {
+            "name": "(STT) Station Dusks",
+            "item_count": 1
+          },
           {
             "name": "(STT) Station of Calling Potion",
             "hosted_item": "potion",
@@ -1389,11 +1491,15 @@
         ]
       },
       {
-        "name": "(STT) Station of Serenity Potion",
+        "name": "(STT) Station of Serenity",
         "sections": [
           {
             "name": "(STT) Station of Serenity Potion",
             "hosted_item": "potion",
+            "item_count": 1
+          },
+          {
+            "name": "(STT) Twilight Thorn",
             "item_count": 1
           }
         ],
@@ -1552,6 +1658,38 @@
             "map": "STT",
             "x": 631,
             "y": 170
+          }
+        ]
+      },
+	  {
+        "name": "(STT) Axel 2",
+        "sections": [
+          {
+            "name": "(STT) Axel 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "STT",
+            "x": 1100,
+            "y": 216
+          }
+        ]
+      },
+	  {
+        "name": "Data Roxas",
+        "sections": [
+          {
+            "name": "Data Roxas",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "STT",
+            "x": 974,
+            "y": 166
           }
         ]
       }
@@ -1960,14 +2098,152 @@
             "y": 1152
           }
         ]
+      },
+      {
+        "name": "(PL) Circle of Life",
+        "sections": [
+          {
+            "name": "(PL) Circle of Life",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 1108,
+            "y": 1181
+          }
+        ]
+      },
+      {
+        "name": "(PL) Hyenas 1",
+        "sections": [
+          {
+            "name": "(PL) Hyenas 1 Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PL) Hyenas 1 Bonus: Goofy Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 529,
+            "y": 223
+          }
+        ]
+      },
+      {
+        "name": "(PL) Scar",
+        "sections": [
+          {
+            "name": "(PL) Scar Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PL) Scar Fire Element",
+            "item_count": 1
+          },
+          {
+            "name": "(PL) Scar Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 455,
+            "y": 89
+          }
+        ]
       }
     ]
+  },
+  {
+	"name": "Pride Lands Second Visit",
+	"access_rules": ["Proud Fang:2"],
+    "children": [
+	  {
+        "name": "(PL2) Hyenas 2",
+        "sections": [
+          {
+            "name": "(PL2) Hyenas 2 Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PL2) Hyenas 2 Bonus: Goofy Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 374,
+            "y": 711
+          }
+        ]
+      },
+	  {
+        "name": "(PL2) Groundshaker",
+        "sections": [
+          {
+            "name": "(PL2) Groundshaker Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PL2) Groundshaker Bonus: Sora Slot 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 534,
+            "y": 657
+          }
+        ]
+      },
+	  {
+        "name": "Data Saix",
+        "sections": [
+          {
+            "name": "Data Saix",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PL",
+            "x": 473,
+            "y": 116
+          }
+        ]
+      }
+	]
   },
   {
     "name": "Hollow Bastion",
     "access_rules": ["Membership Card:1"],
     "children": [
       {
+        "name": "(HB) Marketplace Map",
+        "sections": [
+          {
+            "name": "(HB) Marketplace Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB1",
+            "x": 1173,
+            "y": 410
+          }
+        ]
+      },
+	  {
         "name": "(HB) Borough Drive Recovery",
         "sections": [
           {
@@ -2044,6 +2320,50 @@
             "map": "HB1",
             "x": 1197,
             "y": 529
+          }
+        ]
+      },
+      {
+        "name": "(HB) Merlin's House",
+        "sections": [
+          {
+            "name": "(HB) Merlin's House Membership Card",
+            "item_count": 1
+          },
+          {
+            "name": "(HB) Merlin's House Blizzard Element",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB1",
+            "x": 1085,
+            "y": 468
+          }
+        ]
+      },
+      {
+        "name": "(HB) Bailey",
+        "sections": [
+          {
+            "name": "(HB) Bailey Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(HB) Bailey Secret Ansem Report 7",
+            "item_count": 1
+          },
+          {
+            "name": "(HB) Baseball Charm",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB1",
+            "x": 709,
+            "y": 836
           }
         ]
       }
@@ -2166,6 +2486,26 @@
         ]
       },
       {
+        "name": "(HB2) Master Form",
+        "sections": [
+          {
+            "name": "(HB2) Ansem's Study Master Form",
+            "item_count": 1
+          },
+          {
+            "name": "(HB2) Ansem's Study Sleeping Lion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB1",
+            "x": 413,
+            "y": 184
+          }
+        ]
+      },
+      {
         "name": "(HB2) Ansem's Study Skill Recipe",
         "sections": [
           {
@@ -2226,6 +2566,46 @@
             "map": "HB1",
             "x": 456,
             "y": 686
+          }
+        ]
+      },
+      {
+        "name": "(HB2) Demyx",
+        "sections": [
+          {
+            "name": "(HB2) Demyx Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(HB2) Demyx Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(HB2) Demyx Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB2",
+            "x": 973,
+            "y": 101
+          }
+        ]
+      },
+      {
+        "name": "(HB2) FF Fights Cure Element",
+        "sections": [
+          {
+            "name": "(HB2) FF Fights Cure Element",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB2",
+            "x": 844,
+            "y": 357
           }
         ]
       },
@@ -2294,6 +2674,34 @@
         ]
       },
       {
+        "name": "(HB2) 1000 Heartless",
+        "sections": [
+          {
+            "name": "(HB2) 1000 Heartless",
+            "item_count": 1
+          },
+          {
+            "name": "(HB2) 1000 Heartless Secret Ansem Report 1",
+            "item_count": 1
+          },
+          {
+            "name": "(HB2) 1000 Heartless Ice Cream",
+            "item_count": 1
+          },
+          {
+            "name": "(HB2) 1000 Heartless Picture",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB2",
+            "x": 639,
+            "y": 650
+          }
+        ]
+      },
+      {
         "name": "(HB2) Postern Gull Wing",
         "sections": [
           {
@@ -2322,6 +2730,63 @@
             "map": "HB1",
             "x": 612,
             "y": 248
+          }
+        ]
+      },
+      {
+        "name": "(HB2) Sephiroth",
+        "sections": [
+          {
+            "name": "Sephiroth Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "Sephiroth Fenrir",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB2",
+            "x": 767,
+            "y": 867
+          }
+        ]
+      },
+      {
+        "name": "(HB2) Mushroom XIII",
+		"access_rules": ["Proof of Peace"],
+        "sections": [
+          {
+            "name": "(HB2) Winner's Proof",
+            "item_count": 1
+          },
+          {
+            "name": "(HB2) Proof of Peace",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB2",
+            "x": 625,
+            "y": 675
+          }
+        ]
+      },
+      {
+        "name": "Data Demyx",
+        "sections": [
+          {
+            "name": "Data Demyx",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HB1",
+            "x": 434,
+            "y": 658
           }
         ]
       }
@@ -2666,6 +3131,22 @@
             "y": 617
           }
         ]
+      },
+      {
+        "name": "Transport to Remembrance",
+        "sections": [
+          {
+            "name": "Transport to Remembrance",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CoR",
+            "x": 490,
+            "y": 617
+          }
+        ]
       }
     ]
   },
@@ -2949,8 +3430,158 @@
             "y": 589
           }
         ]
+      },
+      {
+        "name": "(HT) Prison Keeper",
+        "sections": [
+          {
+            "name": "(HT) Prison Keeper Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+		  {
+            "name": "(HT) Prison Keeper Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HT",
+            "x": 75,
+            "y": 497
+          }
+        ]
+      },
+      {
+        "name": "(HT) Oogie Boogie",
+        "sections": [
+          {
+            "name": "(HT) Oogie Boogie Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(HT) Oogie Boogie Bonus: Goofy Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(HT) Oogie Boogie Magnet Element",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HT",
+            "x": 735,
+            "y": 839
+          }
+        ]
       }
     ]
+  },
+  {
+    "name": "Halloween Town Second Visit",
+    "access_rules": ["Bone Fist:2"],
+    "children": [
+	  {
+        "name": "(HT2) Lock, Shock and Barrel",
+        "sections": [
+          {
+            "name": "(HT2) Lock, Shock and Barrel Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(HT2) Lock, Shock and Barrel Bonus: Goofy Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HT",
+            "x": 908,
+            "y": 595
+          }
+        ]
+      },
+	  {
+        "name": "(HT2) Present",
+        "sections": [
+          {
+            "name": "(HT2) Present",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HT",
+            "x": 244,
+            "y": 288
+          }
+        ]
+      },
+	  {
+        "name": "(HT2) Decoy Presents",
+        "sections": [
+          {
+            "name": "(HT2) Decoy Presents",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HT",
+            "x": 875,
+            "y": 570
+          }
+        ]
+      },
+	  {
+        "name": "(HT2) Experiment",
+        "sections": [
+          {
+            "name": "(HT2) Experiment Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(HT2) Decisive Pumpkin",
+            "item_count": 1
+          },
+          {
+            "name": "(HT2) Experiment Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HT",
+            "x": 1209,
+            "y": 103
+          }
+        ]
+      },
+	  {
+        "name": "Data Vexen",
+        "sections": [
+          {
+            "name": "Vexen Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "AS Vexen",
+            "item_count": 1
+          },
+          {
+            "name": "Data Vexen",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HT",
+            "x": 1002,
+            "y": 29
+          }
+        ]
+      }
+	]
   },
   {
     "name": "Port Royal",
@@ -3101,6 +3732,50 @@
         ]
       },
       {
+        "name": "(PR) Isla de Muerta Map",
+        "sections": [
+          {
+            "name": "(PR) Isla de Muerta Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PR",
+            "x": 647,
+            "y": 481
+          }
+        ]
+      },
+      {
+        "name": "(PR) Boat Fights",
+        "sections": [
+          {
+            "name": "(PR) Boat Fight Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PR) Boat Fight Bonus: Donald Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PR) Interceptor Barrels Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PR) Interceptor Barrels Bonus: Goofy Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PR",
+            "x": 301,
+            "y": 888
+          }
+        ]
+      },
+      {
         "name": "(PR) Powder Store AP Boost 1",
         "sections": [
           {
@@ -3179,6 +3854,38 @@
             "y": 188
           }
         ]
+      },
+      {
+        "name": "(PR) Barbossa",
+        "sections": [
+          {
+            "name": "(PR) Barbossa Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PR) Barbossa Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(PR) Barbossa Bonus: Goofy Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PR) Barbossa Bonus: Goofy Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(PR) Follow the Wind",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PR",
+            "x": 560,
+            "y": 60
+          }
+        ]
       }
     ]
   },
@@ -3186,6 +3893,26 @@
     "name": "Port Royal Second Visit",
     "access_rules": ["Skill and Crossbones:2"],
     "children": [
+      {
+        "name": "(PR2) Grim Reaper 1",
+        "sections": [
+          {
+            "name": "(PR2) Grim Reaper 1 Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PR2) Grim Reaper 1 Bonus: Goofy Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PR",
+            "x": 512,
+            "y": 888
+          }
+        ]
+      },
       {
         "name": "(PR2) Interceptor's Hold Feather Charm",
         "sections": [
@@ -3297,6 +4024,66 @@
             "y": 561
           }
         ]
+      },
+      {
+        "name": "(PR2) Seadrift Row Gambler",
+        "sections": [
+          {
+            "name": "(PR2) Seadrift Row Cursed Medallion",
+            "item_count": 1
+          },
+          {
+            "name": "(PR2) Seadrift Row Ship Graveyard Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PR",
+            "x": 351,
+            "y": 646
+          }
+        ]
+      },
+      {
+        "name": "(PR2) Grim Reaper 2",
+        "sections": [
+          {
+            "name": "(PR2) Grim Reaper 2 Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PR2) Grim Reaper 2 Bonus: Donald Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(PR2) Secret Ansem Report 6 (Grim Reaper 2)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PR",
+            "x": 454,
+            "y": 1068
+          }
+        ]
+      },
+      {
+        "name": "Data Luxord",
+        "sections": [
+          {
+            "name": "Data Luxord",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PR",
+            "x": 560,
+            "y": 40
+          }
+        ]
       }
     ]
   },
@@ -3401,6 +4188,26 @@
         ]
       },
       {
+        "name": "(SP) Screens",
+        "sections": [
+          {
+            "name": "(SP) Screens Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(SP) Screens Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SP",
+            "x": 372,
+            "y": 563
+          }
+        ]
+      },
+      {
         "name": "(SP) Hallway Power Crystal",
         "sections": [
           {
@@ -3433,10 +4240,10 @@
         ]
       },
       {
-        "name": "(SP) Communications Room I/O Tower Map",
+        "name": "(SP) Communications Room IO Tower Map",
         "sections": [
           {
-            "name": "(SP) Communications Room I/O Tower Map",
+            "name": "(SP) Communications Room IO Tower Map",
             "item_count": 1
           }
         ],
@@ -3463,6 +4270,34 @@
             "y": 421
           }
         ]
+      },
+      {
+        "name": "(SP) Hostile Program",
+        "sections": [
+          {
+            "name": "(SP) Hostile Program Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(SP) Hostile Program Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(SP) Hostile Program Bonus: Goofy Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(SP) Photon Debugger",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SP",
+            "x": 240,
+            "y": 445
+          }
+        ]
       }
     ]
   },
@@ -3470,6 +4305,26 @@
     "name": "Space Paranoids Second Visit",
     "access_rules": ["Identity Disk:2"],
     "children": [
+      {
+        "name": "(SP2) Solar Sailer",
+        "sections": [
+          {
+            "name": "(SP2) Solar Sailer",
+            "item_count": 1
+          },
+          {
+            "name": "(SP2) Solar Sailer Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SP",
+            "x": 136,
+            "y": 263
+          }
+        ]
+      },
       {
         "name": "(SP2) Central Computer Core AP Boost",
         "sections": [
@@ -3531,6 +4386,50 @@
             "map": "SP",
             "x": 174,
             "y": 173
+          }
+        ]
+      },
+      {
+        "name": "(SP2) MCP",
+        "sections": [
+          {
+            "name": "(SP2) MCP Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(SP2) MCP Bonus: Sora Slot 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SP",
+            "x": 157,
+            "y": 64
+          }
+        ]
+      },
+      {
+        "name": "Data Larxene",
+        "sections": [
+          {
+            "name": "Larxene Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "AS Larxene",
+            "item_count": 1
+          },
+          {
+            "name": "Data Larxene",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SP",
+            "x": 99,
+            "y": 189
           }
         ]
       }
@@ -3749,6 +4648,26 @@
         ]
       },
       {
+        "name": "(BC) Thresholder",
+        "sections": [
+          {
+            "name": "(BC) Thresholder Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(BC) Thresholder Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 86,
+            "y": 290
+          }
+        ]
+      },
+      {
         "name": "(BC) Dungeon Basement Map",
         "sections": [
           {
@@ -3861,6 +4780,26 @@
         ]
       },
       {
+        "name": "(BC) Beast",
+        "sections": [
+          {
+            "name": "(BC) Beast Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(BC) Beast Bonus: Goofy Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 374,
+            "y": 112
+          }
+        ]
+      },
+      {
         "name": "(BC) The Beast's Room Blazing Shard",
         "sections": [
           {
@@ -3875,8 +4814,102 @@
             "y": 57
           }
         ]
+      },
+      {
+        "name": "(BC) Dark Thorn",
+        "sections": [
+          {
+            "name": "(BC) Dark Thorn Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(BC) Dark Thorn Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(BC) Dark Thorn Cure Element",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 497,
+            "y": 306
+          }
+        ]
       }
     ]
+  },
+  {
+    "name": "Beasts Castle Second Visit",
+    "access_rules": ["Beast's Claw:2"],
+    "children": [
+	  {
+        "name": "(BC2) Rumbling Rose",
+        "sections": [
+          {
+            "name": "(BC2) Rumbling Rose",
+            "item_count": 1
+          },
+          {
+            "name": "(BC2) Castle Walls Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 375,
+            "y": 75
+          }
+        ]
+      },
+	  {
+        "name": "(BC2) Xaldin",
+        "sections": [
+          {
+            "name": "(BC2) Xaldin Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(BC2) Xaldin Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(BC2) Xaldin Bonus: Donald Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(BC2) Secret Ansem Report 4 (Xaldin)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 496,
+            "y": 677
+          }
+        ]
+      },
+	  {
+        "name": "Data Xaldin",
+        "sections": [
+          {
+            "name": "Data Xaldin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BC",
+            "x": 497,
+            "y": 280
+          }
+        ]
+      }
+	]
   },
   {
     "name": "Olympus Coliseum",
@@ -4007,6 +5040,54 @@
             "map": "OC",
             "x": 81,
             "y": 934
+          }
+        ]
+      },
+      {
+        "name": "(OC) Cerberus",
+        "sections": [
+          {
+            "name": "(OC) Cerberus Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 115,
+            "y": 575
+          }
+        ]
+      },
+      {
+        "name": "(OC) Coliseum Map",
+        "sections": [
+          {
+            "name": "(OC) Coliseum Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 207,
+            "y": 183
+          }
+        ]
+      },
+      {
+        "name": "(OC) Urns",
+        "sections": [
+          {
+            "name": "(OC) Urns Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 207,
+            "y": 99
           }
         ]
       },
@@ -4155,6 +5236,34 @@
         ]
       },
       {
+        "name": "(OC) Demyx",
+        "sections": [
+          {
+            "name": "(OC) Demyx Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(OC) Secret Ansem Report 5 (Demyx)",
+            "item_count": 1
+          },
+          {
+            "name": "(OC) Olympus Stone",
+            "item_count": 1
+          },
+          {
+            "name": "(OC) Demyx Bonus: Donald Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 585,
+            "y": 919
+          }
+        ]
+      },
+      {
         "name": "(OC) The Lock Caverns Map",
         "sections": [
           {
@@ -4201,8 +5310,126 @@
             "y": 1040
           }
         ]
+      },
+      {
+        "name": "(OC) Pete",
+        "sections": [
+          {
+            "name": "(OC) Pete OC Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(OC) Pete Bonus: Goofy Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 588,
+            "y": 1031
+          }
+        ]
+      },
+      {
+        "name": "(OC) Hydra",
+        "sections": [
+          {
+            "name": "(OC) Hydra Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(OC) Hydra Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(OC) Hero's Crest",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 324,
+            "y": 247
+          }
+        ]
       }
     ]
+  },
+  {
+    "name": "Olympus Coliseum Second Visit",
+    "access_rules": ["Battlefields of War:2"],
+    "children": [
+	  {
+        "name": "(OC2) Auron's Statue",
+        "sections": [
+          {
+            "name": "(OC2) Auron's Statue",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 409,
+            "y": 1260
+          }
+        ]
+      },
+	  {
+        "name": "(OC2) Hades",
+        "sections": [
+          {
+            "name": "(OC2) Hades Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(OC2) Hades Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(OC2) Guardian Soul",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 187,
+            "y": 517
+          }
+        ]
+      },
+	  {
+        "name": "Data Zexion",
+        "sections": [
+          {
+            "name": "Zexion Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "Zexion Bonus: Goofy Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "AS Zexion",
+            "item_count": 1
+          },
+          {
+            "name": "Data Zexion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "OC",
+            "x": 170,
+            "y": 1065
+          }
+        ]
+      }
+	]
   },
   {
     "name": "100 Acre Wood",
@@ -4518,13 +5745,7 @@
             "y": 559
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "100 Acre Wood 6th Visit",
-    "access_rules": ["Torn Page:5"],
-    "children": [
+      },
       {
         "name": "(100Acre) Sweet Memories",
         "sections": [
@@ -4535,9 +5756,9 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 600,
-            "y": 195
+            "map": "100Acre",
+            "x": 277,
+            "y": 585
           }
         ]
       },
@@ -4551,12 +5772,18 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 600,
-            "y": 195
+            "map": "100Acre",
+            "x": 428,
+            "y": 518
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "100 Acre Wood 6th Visit",
+    "access_rules": ["Torn Page:5"],
+    "children": [
       {
         "name": "(100Acre) Starry Hill Cosmic Ring",
         "sections": [
@@ -4590,24 +5817,12 @@
         ]
       },
       {
-        "name": "(100Acre) Starry Hill Cure Element",
+        "name": "(100Acre) Starry Hill",
         "sections": [
           {
             "name": "(100Acre) Starry Hill Cure Element",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "",
-            "x": 600,
-            "y": 195
-          }
-        ]
-      },
-      {
-        "name": "(100Acre) Starry Hill Orichalcum+",
-        "sections": [
+          },
           {
             "name": "(100Acre) Starry Hill Orichalcum+",
             "item_count": 1
@@ -4615,9 +5830,9 @@
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 600,
-            "y": 195
+            "map": "100Acre",
+            "x": 1006,
+            "y": 429
           }
         ]
       }
@@ -4754,6 +5969,30 @@
             "y": 279
           }
         ]
+      },
+      {
+        "name": "(DC) Minnie Escort",
+        "sections": [
+          {
+            "name": "(DC) Disney Castle Map",
+            "item_count": 1
+          },
+          {
+            "name": "(DC) Minnie Escort Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(DC) Minnie Escort Bonus: Sora Slot 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 34,
+            "y": 297
+          }
+        ]
       }
     ]
   },
@@ -4872,6 +6111,126 @@
             "y": 269
           }
         ]
+      },
+      {
+        "name": "(TR) Window of Time Map",
+        "sections": [
+          {
+            "name": "(TR) Window of Time Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 104,
+            "y": 231
+          }
+        ]
+      },
+      {
+        "name": "(TR) Boat Pete",
+        "sections": [
+          {
+            "name": "(TR) Boat Pete Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+		  {
+            "name": "(TR) Boat Pete Bonus: Donald Slot 1",
+            "item_count": 1
+          },
+		  {
+            "name": "(TR) Boat Pete Bonus: Donald Slot 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 327,
+            "y": 262
+          }
+        ]
+      },
+      {
+        "name": "(TR) Future Pete",
+        "sections": [
+          {
+            "name": "(TR) Future Pete Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(TR) Future Pete Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(TR) Future Pete Bonus: Goofy Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(TR) Monochrome",
+            "item_count": 1
+          },
+          {
+            "name": "(TR) Wisdom Form",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TR",
+            "x": 76,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Data Marluxia",
+        "sections": [
+          {
+            "name": "Marluxia Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "AS Marluxia",
+            "item_count": 1
+          },
+          {
+            "name": "Data Marluxia",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 378,
+            "y": 347
+          }
+        ]
+      },
+      {
+        "name": "Lingering Will",
+        "sections": [
+          {
+            "name": "Lingering Will Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "Lingering Will Proof of Connection",
+            "item_count": 1
+          },
+          {
+            "name": "Lingering Will Manifest Illusion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "DC",
+            "x": 377,
+            "y": 484
+          }
+        ]
       }
     ]
   },
@@ -4879,6 +6238,22 @@
     "name": "Agraba",
     "access_rules": ["Scimitar:1"],
     "children": [
+	  {
+        "name": "(AG) Agrabah Map",
+        "sections": [
+          {
+            "name": "(AG) Agrabah Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 1430,
+            "y": 324
+          }
+        ]
+      },
       {
         "name": "(AG) Agrabah Dark Shard",
         "sections": [
@@ -5200,10 +6575,14 @@
         ]
       },
       {
-        "name": "(AG) Abu Escort Bonus: Sora Slot 1",
+        "name": "(AG) Abu Escort",
         "sections": [
           {
             "name": "(AG) Abu Escort Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(AG) Abu Escort Bonus: Donald Slot 1",
             "item_count": 1
           }
         ],
@@ -5253,6 +6632,10 @@
           {
             "name": "(AG) Treasure Room",
             "item_count": 1
+          },
+          {
+            "name": "(AG) Treasure Room Heartless Bonus: Goofy Slot 1",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -5294,6 +6677,26 @@
             "y": 237
           }
         ]
+      },
+      {
+        "name": "(AG) Elemental Lords",
+        "sections": [
+          {
+            "name": "(AG) Elemental Lords Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(AG) Lamp Charm",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 1221,
+            "y": 65
+          }
+        ]
       }
     ]
   },
@@ -5332,6 +6735,50 @@
             "map": "AG",
             "x": 728,
             "y": 1177
+          }
+        ]
+      },
+      {
+        "name": "(AG2) Genie Jafar",
+        "sections": [
+          {
+            "name": "(AG2) Genie Jafar",
+            "item_count": 1
+          },
+          {
+            "name": "(AG2) Wishing Lamp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 1239,
+            "y": 65
+          }
+        ]
+      },
+      {
+        "name": "Data Lexaeus",
+        "sections": [
+          {
+            "name": "Lexaeus Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "AS Lexaeus",
+            "item_count": 1
+          },
+          {
+            "name": "Data Lexaeus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AG",
+            "x": 1475,
+            "y": 263
           }
         ]
       }
@@ -5386,6 +6833,26 @@
             "map": "LoD",
             "x": 110,
             "y": 908
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Missions",
+        "sections": [
+          {
+            "name": "(LoD) Bamboo Grove Encampment Area Map",
+            "item_count": 1
+          },
+          {
+            "name": "(LoD) Mission 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 239,
+            "y": 1011
           }
         ]
       },
@@ -5486,6 +6953,22 @@
         ]
       },
       {
+        "name": "(LoD) Village Cave Area Map",
+        "sections": [
+          {
+            "name": "(LoD) Village Cave Area Map",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 230,
+            "y": 662
+          }
+        ]
+      },
+      {
         "name": "(LoD) Village Cave AP Boost",
         "sections": [
           {
@@ -5518,6 +7001,22 @@
         ]
       },
       {
+        "name": "(LoD) Village Cave",
+        "sections": [
+          {
+            "name": "(LoD) Village Cave Bonus: Sora Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 512,
+            "y": 491
+          }
+        ]
+      },
+      {
         "name": "(LoD) Ridge Frost Shard",
         "sections": [
           {
@@ -5538,6 +7037,34 @@
         "sections": [
           {
             "name": "(LoD) Ridge AP Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 363,
+            "y": 252
+          }
+        ]
+      },
+      {
+        "name": "(LoD) Shan-Yu",
+        "sections": [
+          {
+            "name": "(LoD) Shan-Yu Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(LoD) Shan-Yu Bonus: Sora Slot 2",
+            "item_count": 1
+          },
+          {
+            "name": "(LoD) Shan-Yu Bonus: Goofy Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(LoD) Hidden Dragon",
             "item_count": 1
           }
         ],
@@ -5680,6 +7207,42 @@
             "map": "LoD",
             "x": 688,
             "y": 339
+          }
+        ]
+      },
+      {
+        "name": "(LoD2) Storm Rider",
+        "sections": [
+          {
+            "name": "(LoD2) Storm Rider Bonus: Sora Slot 1",
+            "item_count": 1
+          },
+          {
+            "name": "(LoD2) Storm Rider Bonus: Goofy Slot 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 696,
+            "y": 677
+          }
+        ]
+      },
+      {
+        "name": "Data Xigbar",
+        "sections": [
+          {
+            "name": "Data Xigbar",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "LoD",
+            "x": 335,
+            "y": 98
           }
         ]
       }
